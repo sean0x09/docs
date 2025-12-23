@@ -1,0 +1,4 @@
+Features not supported
+
+
+<p><strong>Features Not Supported</strong></p><ul><li data-preset-tag="p"><p>Filter by appointment type</p></li><li data-preset-tag="p"><p>View 3+ overlapping appointments at the same time</p></li><li data-preset-tag="p"><p>Alerts for missing prior authorizations and late check-ins</p></li><li data-preset-tag="p"><p>Include multiple providers in one scheduling block</p></li><li data-preset-tag="p"><p>Print the calendar to a PDF</p></li><li data-preset-tag="p"><p>ZocDoc scheduling integration</p></li></ul>

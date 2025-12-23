@@ -1,0 +1,3 @@
+Record Immunizations
+
+<p>Navigate to the immunizations tab within Patient's Profile</p><p>Input required information, and “Create”</p><img alt="" src="https://framerusercontent.com/images/Sy9qIiELIvaawLwrvrfYKDIDlM.png">

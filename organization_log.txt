@@ -1,0 +1,1221 @@
+Documentation Organization Log
+==================================================
+
+PROCESSED: Viewing multiple providers.txt -> Front Office Workflows/Calendar/calendar-viewing-multiple-providers.txt
+NO MATCH: How to Use Universal Search in Insights.txt - Title: 'How to Use Universal Search in Insights'
+  Failed: how-to-request-via-text-or-email-1.png from https://framerusercontent.com/images/woQPu6llt5YQGNBN8i79pMSjiP0.png
+  Failed: how-to-request-via-text-or-email-2.png from https://framerusercontent.com/images/eYGWWwPeFzRDU33WrqqhQWnQSxw.png
+  Failed: how-to-request-via-text-or-email-3.png from https://framerusercontent.com/images/qlQEULRlRuhyvClMv5mGHj9ab0.png
+  Failed: how-to-request-via-text-or-email-4.png from https://framerusercontent.com/images/1fSFLUePeGH2OZR5cz8a7qFk78Q.png
+  Failed: how-to-request-via-text-or-email-5.png from https://framerusercontent.com/images/KvVJkHOOwrYDQKfG7M3PWxkvhc.png
+  Failed: how-to-request-via-text-or-email-6.png from https://framerusercontent.com/images/bggXx7QF7egFscMDBMR5FFcfiKA.png
+  Failed: how-to-request-via-text-or-email-7.png from https://framerusercontent.com/images/txN77Lih21d9n56c9s0sJKcRrY.png
+  Failed: how-to-request-via-text-or-email-8.png from https://framerusercontent.com/images/rYhnUejuzTwQHkm1URNfW3kBK4.png
+  Failed: how-to-request-via-text-or-email-9.png from https://framerusercontent.com/images/u8jlinp4W5rSUS7IfbrPnKiinZ0.png
+  Failed: how-to-request-via-text-or-email-10.png from https://framerusercontent.com/images/t4H0SWdxDucSpfMHgCyDGIwkO8.png
+  Failed: how-to-request-via-text-or-email-11.png from https://framerusercontent.com/images/uzQB0BIpNOGaNklGKjNsSVtc0.png
+PROCESSED: How to Request via Text or Email.txt -> Front Office Workflows/Patient Responsibility/patient-responsibility-how-to-request-via-text-or-email.txt
+  Failed: how-to-resubmit-claims-in-bulk-1.png from https://framerusercontent.com/images/jikAB57V5FjaKUORXYKTaTSKDk.png
+  Failed: how-to-resubmit-claims-in-bulk-2.png from https://framerusercontent.com/images/BchWtdj8TKllIfGSTBAgjjRo6g.png
+  Failed: how-to-resubmit-claims-in-bulk-3.png from https://framerusercontent.com/images/34XENmoooNol34BuiW7qHktEP0.png
+  Failed: how-to-resubmit-claims-in-bulk-4.png from https://framerusercontent.com/images/OtR24CldDIN2zBy62IpS77Tu0.png
+  Failed: how-to-resubmit-claims-in-bulk-5.png from https://framerusercontent.com/images/20efY8kbQ8CBoPMHEyqbYzS0O0.png
+PROCESSED: How to Resubmit Claims in Bulk.txt -> Front Office Workflows/Claim Details/claim-details-how-to-resubmit-claims-in-bulk.txt
+  Failed: encounter-stage-and-status-1.png from https://framerusercontent.com/images/t9IYY3ubkw7eJZ4CHFDFa1z6c8Q.png
+  Failed: encounter-stage-and-status-2.png from https://framerusercontent.com/images/iwaXlvAWhzZz3wkDjbtPwgVE.png
+  Failed: encounter-stage-and-status-3.png from https://framerusercontent.com/images/9OXsZBXvoBlFjSKVuQEbcgGAwrQ.png
+PROCESSED: Encounter Stage and Status.txt -> Front Office Workflows/Encounter Details/encounter-details-encounter-stage-and-status.txt
+PROCESSED: Profile Features Not Supported.txt -> Provider Workflows/Patient Profiles/patient-profiles-profile-features-not-supported.txt
+  Failed: download-edis-in-bulk-1.png from https://framerusercontent.com/images/bLqNQxsBPl8jv4MQLXhrtTnOXKo.png
+  Failed: download-edis-in-bulk-2.png from https://framerusercontent.com/images/Z7mc1gxL4rqg74yDvU6XYAKHxA.png
+  Failed: download-edis-in-bulk-3.png from https://framerusercontent.com/images/Z6eRKyn1cw5ml37gH1BsQY9AIQ.png
+PROCESSED: Download EDI's in Bulk.txt -> Front Office Workflows/Utilities/utilities-download-edis-in-bulk.txt
+  Failed: turn-off-patient-texts-1.png from https://framerusercontent.com/images/tIr2YHojAkRpFd4Zqnyl9XywVDE.png
+PROCESSED: Turn off Patient Texts.txt -> Front Office Workflows/Patient Statements/patient-statements-turn-off-patient-texts.txt
+  Failed: how-to-handle-partial-denials-1.png from https://framerusercontent.com/images/8ZmYU5iAQcwJ9SB5yoNaJ8KU13A.png
+  Failed: how-to-handle-partial-denials-2.png from https://framerusercontent.com/images/eNXo8qnOMV1TdSivj15pzDzMZ4.png
+  Failed: how-to-handle-partial-denials-3.png from https://framerusercontent.com/images/99jfq88lZPWRpbAaWxzstmKJBo.png
+  Failed: how-to-handle-partial-denials-4.png from https://framerusercontent.com/images/CMO5ioG1t1cO7GVWJNlcmg9Dk.png
+  Failed: how-to-handle-partial-denials-5.png from https://framerusercontent.com/images/U1ku39pHZdR15vjEsItXaOWeEg.png
+  Failed: how-to-handle-partial-denials-6.png from https://framerusercontent.com/images/tvDdkX5OGo9syVLpLroJFBhZNEk.png
+  Failed: how-to-handle-partial-denials-7.png from https://framerusercontent.com/images/Z3DyalRumNWxWcI4IUyyRYELSI.png
+PROCESSED: How to Handle Partial Denials.txt -> Front Office Workflows/Posting/posting-how-to-handle-partial-denials.txt
+  Failed: text-blast-page-1.png from https://framerusercontent.com/images/DvETX7Osug2aIxHJsT8BMIXJdUE.png
+  Failed: text-blast-page-2.png from https://framerusercontent.com/images/ZY1wc0p8D11WH02EWgciHwpn44A.png
+  Failed: text-blast-page-3.png from https://framerusercontent.com/images/AcrJRByqDDC3Xlpi8uBAM0Y.png
+  Failed: text-blast-page-4.png from https://framerusercontent.com/images/ZzHDPQOA1qHUzCLBU5yQB25GyI.png
+  Failed: text-blast-page-5.png from https://framerusercontent.com/images/WtkUNju4XuhfRXeZZMGNgUPxE.png
+  Failed: text-blast-page-6.png from https://framerusercontent.com/images/21BttHjntKHXTpaiujtBIWhpiqQ.png
+  Failed: text-blast-page-7.png from https://framerusercontent.com/images/gy6XTUw46X2XugUDw9Xj6glsD0Q.png
+  Failed: text-blast-page-8.png from https://framerusercontent.com/images/znpBoGoEyTq6oHRUySQYIxcBgIs.png
+  Failed: text-blast-page-9.png from https://framerusercontent.com/images/52IVd5QJ4ppSHMpEvEWOUaR85vU.png
+  Failed: text-blast-page-10.png from https://framerusercontent.com/images/2uBwWa7eVXouwBJ1orSpx1QYAw.png
+  Failed: text-blast-page-11.png from https://framerusercontent.com/images/BkWx9fhuEBw9jOAsqrIXMgunpSA.png
+  Failed: text-blast-page-12.png from https://framerusercontent.com/images/tLhJovNNUA4Ztq1QIepYanabvk.png
+  Failed: text-blast-page-13.png from https://framerusercontent.com/images/fLZFj11UuFbN6630L8Chi3RM.png
+  Failed: text-blast-page-14.png from https://framerusercontent.com/images/N8Y4ZAQiGOHXVYGDSuL87BAsyo.png
+  Failed: text-blast-page-15.png from https://framerusercontent.com/images/q9fp7Sl1Arl5xG3kB5y0HWoNYjw.png
+  Failed: text-blast-page-16.png from https://framerusercontent.com/images/GNdR7h6Gukiu2nIz4iMVKLQNyvs.png
+  Failed: text-blast-page-17.png from https://framerusercontent.com/images/HW76a7UiXZh3DaUNOl2neX2ufQ.png
+PROCESSED: Text Blast Page.txt -> Front Office Workflows/Patient Communications/patient-communications-text-blast-page.txt
+  Failed: remittances-1.png from https://framerusercontent.com/images/gdE8ER0iA6ZnvDdrAi1JNWMOL8.png
+  Failed: remittances-2.png from https://framerusercontent.com/images/y0Zezjhk23qGVRwNrlh0GxvRQ8.png
+  Failed: remittances-3.png from https://framerusercontent.com/images/NJQas8H52iZf5iohV2BD8B7sbM.png
+  Failed: remittances-4.png from https://framerusercontent.com/images/P5ex1zE0alBageLSMe6yVV2qIY.png
+  Failed: remittances-5.png from https://framerusercontent.com/images/QWIHUa6jnDcQ4lKAUWp7ZgBA.png
+  Failed: remittances-6.png from https://framerusercontent.com/images/o5iYojLd4Cv1QdynnKLJI6LHvk.png
+  Failed: remittances-7.png from https://framerusercontent.com/images/ZWwqtvhBo7no7RN4Wt5WK7KESPg.png
+  Failed: remittances-8.png from https://framerusercontent.com/images/ZP1I4s9aED6OFFR1DoAF2FUbVg.png
+  Failed: remittances-9.png from https://framerusercontent.com/images/6TjxcVgmC8IyvVDP3v0zYD9ous.png
+  Failed: remittances-10.png from https://framerusercontent.com/images/AshXTIEn9lyVtTldGURYGPisnC8.png
+  Failed: remittances-11.png from https://framerusercontent.com/images/cUAcoADZGHi1pUKUtzNAUD1050.png
+  Failed: remittances-12.png from https://framerusercontent.com/images/lobe5nZAUMzsnRJCkq9eqAiyNtg.png
+PROCESSED: Remittances.txt -> Billing Workflows/General Billing/general-billing-remittances.txt
+  Failed: print-patient-statements-1.png from https://framerusercontent.com/images/D8gvus9ue3gzdqr7Dmhf9Rxk7c.png
+  Failed: print-patient-statements-2.png from https://framerusercontent.com/images/V3OzhjZkq59RQiurbjoCF8j9xso.png
+PROCESSED: Print Patient Statements.txt -> Front Office Workflows/Patient Statements/patient-statements-print-patient-statements.txt
+PROCESSED: Manage Payments through Patient Portal.txt -> Front Office Workflows/Patient Communications/patient-communications-manage-payments-through-patient-portal.txt
+PROCESSED: Getting Started with Agents Center.txt -> Front Office Workflows/Agents Center/agents-center-getting-started-with-agents-center.txt
+  Failed: understanding-appointment-details-1.png from https://framerusercontent.com/images/NDAEdEDcfQJQoKXG1przWaRmuRs.png
+  Failed: understanding-appointment-details-2.png from https://framerusercontent.com/images/dwbvmKelXaqgeaAujOT4WxtgGw.gif
+  Failed: understanding-appointment-details-3.png from https://framerusercontent.com/images/O7RfQwgTKv1on7RqUDtu7Dc87PI.png
+  Failed: understanding-appointment-details-4.png from https://framerusercontent.com/images/YEYAFzvxQr6R5SVL9oA2kFYR0.png
+PROCESSED: Understanding Appointment Details.txt -> Front Office Workflows/Appointments/appointments-understanding-appointment-details.txt
+  Failed: how-to-handle-duplicate-remittances-1.png from https://framerusercontent.com/images/4QrvGZW4cktfVOAaJ6AGnHf9qPA.png
+  Failed: how-to-handle-duplicate-remittances-2.png from https://framerusercontent.com/images/w3wZvNVuEG1tDQOJwTY1QRTcrg.png
+  Failed: how-to-handle-duplicate-remittances-3.png from https://framerusercontent.com/images/UXtuQTIOcOaNdllgVpeCGeQMzVA.png
+  Failed: how-to-handle-duplicate-remittances-4.png from https://framerusercontent.com/images/4QrvGZW4cktfVOAaJ6AGnHf9qPA.png
+  Failed: how-to-handle-duplicate-remittances-5.png from https://framerusercontent.com/images/w3wZvNVuEG1tDQOJwTY1QRTcrg.png
+  Failed: how-to-handle-duplicate-remittances-6.png from https://framerusercontent.com/images/5VtzwiqLCc75ZF5kMw7b4jpJlw.png
+  Failed: how-to-handle-duplicate-remittances-7.png from https://framerusercontent.com/images/c7oPHivVuTTnUyRdUYLSDSTuQ.png
+  Failed: how-to-handle-duplicate-remittances-8.png from https://framerusercontent.com/images/mdb4XTDpJToKqsHh82lpq7k7p4.png
+  Failed: how-to-handle-duplicate-remittances-9.png from https://framerusercontent.com/images/xniyk706P3j2CFTEDgWzPpebaPQ.png
+  Failed: how-to-handle-duplicate-remittances-10.png from https://framerusercontent.com/images/DwjM64ZDY3agJqadd5IohhbF80s.png
+PROCESSED: How to Handle Duplicate Remittances.txt -> Front Office Workflows/Posting/posting-how-to-handle-duplicate-remittances.txt
+  Failed: the-revenue-analysis-page-1.png from https://framerusercontent.com/images/YTUh5uAXbRhh3wjUPXtzCy8RA4.png
+  Failed: the-revenue-analysis-page-2.png from https://framerusercontent.com/images/lwMmeUMJVyU0MtFwBvAlJcqNmo.png
+  Failed: the-revenue-analysis-page-3.png from https://framerusercontent.com/images/Yj7icbgQewUiyAJNkrpd1BKZfjw.png
+  Failed: the-revenue-analysis-page-4.png from https://framerusercontent.com/images/Ns28UjxOIpKz8NaohYrupIObs.png
+  Failed: the-revenue-analysis-page-5.png from https://framerusercontent.com/images/WE9JJ0uEYHdAhT84nwJqb12q3UM.png
+  Failed: the-revenue-analysis-page-6.png from https://framerusercontent.com/images/ezgUa0GjFWdNZTQEZrNhqOfJXyE.png
+  Failed: the-revenue-analysis-page-7.png from https://framerusercontent.com/images/RbyqhBvKM1iuV4HD2jZzhvW5gUQ.png
+  Failed: the-revenue-analysis-page-8.png from https://framerusercontent.com/images/iTmYEldINZsOkTPMdbD2ADwnhJA.png
+  Failed: the-revenue-analysis-page-9.png from https://framerusercontent.com/images/2yqXJI7ooPGKAqzpe9YOCI827ag.png
+  Failed: the-revenue-analysis-page-10.png from https://framerusercontent.com/images/7gdr7XSoll6s7DiHZKxVszD7rnI.png
+PROCESSED: The Revenue Analysis Page.txt -> Billing Workflows/Analytics/analytics-the-revenue-analysis-page.txt
+  Failed: building-and-running-reports-1.png from https://framerusercontent.com/images/Gi1s7LL9T4O0IAPMsJm8XLu3OU.png
+  Failed: building-and-running-reports-2.png from https://framerusercontent.com/images/EAoN0PGQWuebplwvEkp4CX687ZY.png
+  Failed: building-and-running-reports-3.png from https://framerusercontent.com/images/agVdoNFPj2a292HonlmYNRnJ6c.png
+  Failed: building-and-running-reports-4.png from https://framerusercontent.com/images/m1eICzq8TxqfbHITBIhMKXE2eY.png
+  Failed: building-and-running-reports-5.png from https://framerusercontent.com/images/VxQ6cEQ2fxXdJo3YOtB1BWRS5tQ.png
+  Failed: building-and-running-reports-6.png from https://framerusercontent.com/images/qZhJC97tNFTdcW76xzNlyUF90.png
+  Failed: building-and-running-reports-7.png from https://framerusercontent.com/images/fZRNrI037Y2nwdvCrfkfgccCkM.png
+PROCESSED: Building and Running Reports.txt -> Billing Workflows/Reports/reports-building-and-running-reports.txt
+  Failed: download-chart-notes-as-pdfs-1.png from https://framerusercontent.com/images/61lG43g6T93ZzPxiD8ltDeXXis.png
+  Failed: download-chart-notes-as-pdfs-2.png from https://framerusercontent.com/images/wMOhQH286wgzoDc0ybNiZXis1E.png
+  Failed: download-chart-notes-as-pdfs-3.png from https://framerusercontent.com/images/y9ViilNsGBp87G4n5kD255WP2yI.png
+  Failed: download-chart-notes-as-pdfs-4.png from https://framerusercontent.com/images/ilGEEYdVSsgMcl9Bnl9lNBkePJc.png
+  Failed: download-chart-notes-as-pdfs-5.png from https://framerusercontent.com/images/ADALa1TZtWB7Jm9NrGIGAOkq6k.png
+PROCESSED: Download Chart Notes as PDFs.txt -> Provider Workflows/Chart Notes/chart-notes-download-chart-notes-as-pdfs.txt
+  Failed: insights-prior-authorization-1.png from https://framerusercontent.com/images/qIEDmCFNWmQBslQIcFq7C1J94n4.png
+  Failed: insights-prior-authorization-2.png from https://framerusercontent.com/images/W37alYl6z22XUZCOFduvph8Sc.png
+  Failed: insights-prior-authorization-3.png from https://framerusercontent.com/images/GyTKVuLrlralTMBouP0Sb0qAy4o.png
+  Failed: insights-prior-authorization-4.png from https://framerusercontent.com/images/qyaeeBjJ16y9UN2vEsUBJkro.png
+  Failed: insights-prior-authorization-5.png from https://framerusercontent.com/images/GyTKVuLrlralTMBouP0Sb0qAy4o.png
+  Failed: insights-prior-authorization-6.png from https://framerusercontent.com/images/bPPJQv7kC7SbK8qjD4pkZudhMI.png
+  Failed: insights-prior-authorization-7.png from https://framerusercontent.com/images/3D9zCoUgTZbcViZrB3DiB5fkw.png
+  Failed: insights-prior-authorization-8.png from https://framerusercontent.com/images/Pf352Fz5B4123BXXv8lX9pSyTVc.png
+  Failed: insights-prior-authorization-9.png from https://framerusercontent.com/images/S526Zpl9TmMjEShn9nmrHKOOXTk.png
+  Failed: insights-prior-authorization-10.png from https://framerusercontent.com/images/a65LHhl3gXjKKqpqz9DVNbM4Q.png
+  Failed: insights-prior-authorization-11.png from https://framerusercontent.com/images/tZgayUPNp0D8kMHQVq4pZzpnZo.png
+  Failed: insights-prior-authorization-12.png from https://framerusercontent.com/images/TxrvGHEJtf1BphHMqZ4A0PIG6S8.png
+  Failed: insights-prior-authorization-13.png from https://framerusercontent.com/images/kigUCyGQPIDsVVGweELbvE3PX8.png
+PROCESSED: Insights Prior Authorization.txt -> Front Office Workflows/Encounter Details/encounter-details-insights-prior-authorization.txt
+PROCESSED: General Patient Flows Features.txt -> Front Office Workflows/Patient Communications/patient-communications-general-patient-flows-features.txt
+  Failed: how-to-schedule-an-appointment-1.png from https://framerusercontent.com/images/Rv14iOYQqCqWwty8mDhEcukmIw.png
+  Failed: how-to-schedule-an-appointment-2.png from https://framerusercontent.com/images/ipuZpvF6tYALozpvlR4U1B4OU.png
+  Failed: how-to-schedule-an-appointment-3.png from https://framerusercontent.com/images/pnlz09DGJllCndwBWJZSNuQ7PwU.png
+  Failed: how-to-schedule-an-appointment-4.png from https://framerusercontent.com/images/bWrfUhf7WVAZo59F9JUHHKfDCgk.png
+  Failed: how-to-schedule-an-appointment-5.png from https://framerusercontent.com/images/Dj6AU9EN1PxwMG8nyEPClYkwz3c.png
+  Failed: how-to-schedule-an-appointment-6.png from https://framerusercontent.com/images/uKSj6p5ekbkhrdJ8mPZ4k1Cl6o.png
+  Failed: how-to-schedule-an-appointment-7.png from https://framerusercontent.com/images/1WW8JtAOoK6o29EZU5QYxCpC2Y.png
+  Failed: how-to-schedule-an-appointment-8.png from https://framerusercontent.com/images/w1J7eaEXwhxsm5ndsjtaFqlJCA.png
+PROCESSED: How to Schedule an Appointment.txt -> Front Office Workflows/Appointments/appointments-how-to-schedule-an-appointment.txt
+  Failed: upcoming-patient-statements-report-1.png from https://framerusercontent.com/images/gjpHbnJlgDST7KxUIQ7PVzjqdg.png
+PROCESSED: Upcoming Patient Statements Report.txt -> Billing Workflows/Reports/reports-upcoming-patient-statements-report.txt
+  Failed: how-to-run-an-eligibility-check-1.png from https://framerusercontent.com/images/OXYgSh8Mz87LmKL1ngnE0cY5M.png
+  Failed: how-to-run-an-eligibility-check-2.png from https://framerusercontent.com/images/2AoTnaObeBw78cf1bswi9sGyug.png
+  Failed: how-to-run-an-eligibility-check-3.png from https://framerusercontent.com/images/yEyfTisvPpeOjGvLLDGPlYvvtBU.png
+  Failed: how-to-run-an-eligibility-check-4.png from https://framerusercontent.com/images/CeQlVgMDgO8itjsKCr29j6i0IE.png
+  Failed: how-to-run-an-eligibility-check-5.png from https://framerusercontent.com/images/g8or4cKG7G71m4NzjA5JCcwyk.png
+  Failed: how-to-run-an-eligibility-check-6.png from https://framerusercontent.com/images/M84Pip43gwkGlOuUkdQL26xDzs.png
+  Failed: how-to-run-an-eligibility-check-7.png from https://framerusercontent.com/images/AtU3qP7RPhRVNf1kyYGWGLDew.png
+PROCESSED: How to Run an Eligibility Check.txt -> Front Office Workflows/Appointments/appointments-how-to-run-an-eligibility-check.txt
+  Failed: pr-timeline-1.png from https://framerusercontent.com/images/vAcwvaLxPqxBuwH4nCA0verTk.png
+  Failed: pr-timeline-2.png from https://framerusercontent.com/images/4QUIeUrFWBG3rpQD007qkJN3t50.png
+  Failed: pr-timeline-3.png from https://framerusercontent.com/images/FmOtuJKDx9SgvgC9Bgq9PW83Ec.png
+  Failed: pr-timeline-4.png from https://framerusercontent.com/images/J5WQn8lvfPn7P2sKlBJnojGxXQ.png
+  Failed: pr-timeline-5.png from https://framerusercontent.com/images/GJbLV6iqoOH6WanDUK7mob5lqms.png
+  Failed: pr-timeline-6.png from https://framerusercontent.com/images/xwcTXy0Tn77RKi404USUydnAYc.png
+  Failed: pr-timeline-7.png from https://framerusercontent.com/images/sJ3imMUAXMBMSdSBLKLEGk1z8.png
+  Failed: pr-timeline-8.png from https://framerusercontent.com/images/x8QqX97a14AS1VBLTLrANhSYYi4.png
+  Failed: pr-timeline-9.png from https://framerusercontent.com/images/SgHB63bt8YI3De1cB9ts9AjwM.png
+  Failed: pr-timeline-10.png from https://framerusercontent.com/images/jvYsnaPkuC7Il4anV1wdI5r0pws.png
+  Failed: pr-timeline-11.png from https://framerusercontent.com/images/sGUYZAe3DSiWML0hnJCoNuKI8.png
+  Failed: pr-timeline-12.png from https://framerusercontent.com/images/rAFyhikWCfwNzErxx8jldZzylQ.png
+  Failed: pr-timeline-13.png from https://framerusercontent.com/images/x6TydmqnNkakHlHy6nnWO9rqu0.png
+  Failed: pr-timeline-14.png from https://framerusercontent.com/images/4FUrKe38ZI6FMZBR84bCXvKWU.png
+  Failed: pr-timeline-15.png from https://framerusercontent.com/images/FymrhZ2AUnCetl9vzTO3567TEk.png
+  Failed: pr-timeline-16.png from https://framerusercontent.com/images/VtYNNVM3zcSmTinffI11P8aAs.png
+  Failed: pr-timeline-17.png from https://framerusercontent.com/images/8aORQqR6RJg619N2cMMyXET3E.png
+  Failed: pr-timeline-18.png from https://framerusercontent.com/images/wIPUrILzyGDoltUDhqqyPuc8Y.png
+  Failed: pr-timeline-19.png from https://framerusercontent.com/images/ukBXxOngU2JAbXpoyZqK2NdXKI.png
+  Failed: pr-timeline-20.png from https://framerusercontent.com/images/GkUk8MjtisAXA3j5bCQB7ctKBA.png
+PROCESSED: PR Timeline.txt -> Front Office Workflows/Patient Responsibility/patient-responsibility-pr-timeline.txt
+  Failed: submitted-claims-report-1.png from https://framerusercontent.com/images/QXoYb5jH0iRCsUvQQ3htA3jn1o.png
+  Failed: submitted-claims-report-2.png from https://framerusercontent.com/images/9OJZk7Sz4kBgT56us4aVkVqWs.png
+PROCESSED: Submitted Claims Report.txt -> Billing Workflows/Reports/reports-submitted-claims-report.txt
+  Failed: patient-balances-report-1.png from https://framerusercontent.com/images/5ONk0hj6ndkIYAOKaotuIeHTg.png
+PROCESSED: Patient Balances Report.txt -> Billing Workflows/Reports/reports-patient-balances-report.txt
+PROCESSED: Athelas Assistant Best Practices.txt -> Provider Workflows/Athelas Assistant/athelas-assistant-athelas-assistant-best-practices.txt
+  Failed: how-to-reconcile-your-cash-drawer-1.png from https://framerusercontent.com/images/rMVAdzOd3kkQtF8wO274dblue0.png
+  Failed: how-to-reconcile-your-cash-drawer-2.png from https://framerusercontent.com/images/YC8CinFW2tVKnFJCuxJlyfG50f4.png
+  Failed: how-to-reconcile-your-cash-drawer-3.png from https://framerusercontent.com/images/IencO2ONPWQvwRtJq4gexf9ES6w.png
+  Failed: how-to-reconcile-your-cash-drawer-4.png from https://framerusercontent.com/images/eJmtHp99CECiN9h0oLOegdHNukk.png
+  Failed: how-to-reconcile-your-cash-drawer-5.png from https://framerusercontent.com/images/s26NsYcSESVqZpm7jmhtWec.png
+  Failed: how-to-reconcile-your-cash-drawer-6.png from https://framerusercontent.com/images/Zronmd8uqF3WxVl07HN5IeULw8.png
+  Failed: how-to-reconcile-your-cash-drawer-7.png from https://framerusercontent.com/images/vdV2DyhHzjJWHyvAOKskKRR4nY0.png
+PROCESSED: How to Reconcile Your Cash Drawer.txt -> Front Office Workflows/Daily Operations/daily-operations-how-to-reconcile-your-cash-drawer.txt
+  Failed: view-patients-appointments-1.png from https://framerusercontent.com/images/szfQ1NrGJ2KqJNKSctxSGzl2zs.png
+  Failed: view-patients-appointments-2.png from https://framerusercontent.com/images/5m4xeOTY7tR3mV6rpUjAN0xDQ.png
+  Failed: view-patients-appointments-3.png from https://framerusercontent.com/images/rwj0CCZn0o5J1KSYk521z0w5e8.png
+  Failed: view-patients-appointments-4.png from https://framerusercontent.com/images/AhN2ceDX0txRn9f676KxTlc0PXk.png
+  Failed: view-patients-appointments-5.png from https://framerusercontent.com/images/A4jQQlK4s0Nhsk718ZpL0Y6HpA.png
+  Failed: view-patients-appointments-6.png from https://framerusercontent.com/images/nSozzd11CqPba26ZhnSV3SMJ0Ng.png
+  Failed: view-patients-appointments-7.png from https://framerusercontent.com/images/a5KkFGFvtl6Cd3R5SIJAq2dxRQ.png
+PROCESSED: View Patient's Appointments.txt -> Provider Workflows/Patient Profiles/patient-profiles-view-patients-appointments.txt
+PROCESSED: Target Allowed Amounts.txt -> Billing Workflows/Front Office Payments/front-office-payments-target-allowed-amounts.txt
+  Failed: complete-intake-forms-1.png from https://framerusercontent.com/images/L9MkKYwSF4EoESCEKjaHqhw2bas.png
+  Failed: complete-intake-forms-2.png from https://framerusercontent.com/images/JisCPexx6xvHoda0pIqTnCADxU.png
+  Failed: complete-intake-forms-3.png from https://framerusercontent.com/images/DwIcaDHul4sVLbM4EYntXsBY.png
+  Failed: complete-intake-forms-4.png from https://framerusercontent.com/images/FEnNUIUH3nuLfgokpeWexgAw6g.png
+  Failed: complete-intake-forms-5.png from https://framerusercontent.com/images/yKMEsumEm5WuLn8a0imQVME1ZwU.png
+  Failed: complete-intake-forms-6.png from https://framerusercontent.com/images/JxrJtSsfLThuphLbZ3b5CmKXrM.png
+  Failed: complete-intake-forms-7.png from https://framerusercontent.com/images/opT64tiXfLO14XwxcOicgPBRPhQ.png
+  Failed: complete-intake-forms-8.png from https://framerusercontent.com/images/KprQSFf3SsfeSUHqBm3lCPoJEc.png
+  Failed: complete-intake-forms-9.png from https://framerusercontent.com/images/sYZvXoCwk6ZvxxIOESpXRArObg.png
+  Failed: complete-intake-forms-10.png from https://framerusercontent.com/images/3pdTVySQUkrPw2rrlcy5pnFRW9c.png
+  Failed: complete-intake-forms-11.png from https://framerusercontent.com/images/nlOFlXvLhW1wcuqMFmb36YoVsU.png
+  Failed: complete-intake-forms-12.png from https://framerusercontent.com/images/53TexwXj3uc2HQveIn1ZO6EK1I.png
+  Failed: complete-intake-forms-13.png from https://framerusercontent.com/images/G8JA2HbDYENukvD0ta21d4Lpa8g.png
+  Failed: complete-intake-forms-14.png from https://framerusercontent.com/images/V8167sdmHTXGkquLMunFohN7mcA.png
+  Failed: complete-intake-forms-15.png from https://framerusercontent.com/images/UwN8TUt3UoH8XLGOzYrgYqSawuc.png
+  Failed: complete-intake-forms-16.png from https://framerusercontent.com/images/IfqkFnVxaE9ZbiqkAobTgKJnY.png
+  Failed: complete-intake-forms-17.png from https://framerusercontent.com/images/DwIcaDHul4sVLbM4EYntXsBY.png
+  Failed: complete-intake-forms-18.png from https://framerusercontent.com/images/LvVpEJS41iuyyXlDK98ItOaFENI.png
+  Failed: complete-intake-forms-19.png from https://framerusercontent.com/images/DZyr6QClhrXrvEF20dNGSwxG8pI.png
+  Failed: complete-intake-forms-20.png from https://framerusercontent.com/images/QEQT6p3SLqVvWF9I6nddcTAyyM.png
+PROCESSED: Complete Intake Forms.txt -> Front Office Workflows/Patient Communications/patient-communications-complete-intake-forms.txt
+  Failed: alternate-methods-for-scheduling-1.png from https://framerusercontent.com/images/EUO0CwvhZAh8fgkSWIRSFGvtdJY.png
+  Failed: alternate-methods-for-scheduling-2.png from https://framerusercontent.com/images/iBYgH7csiAh0uLuwUzgQRA3yY9E.png
+  Failed: alternate-methods-for-scheduling-3.png from https://framerusercontent.com/images/GTzTSeIiPyrdIfIIMaaEJr0E.png
+  Failed: alternate-methods-for-scheduling-4.png from https://framerusercontent.com/images/gSNsykyxWF6FBcZeu3T1aGLrCyw.png
+  Failed: alternate-methods-for-scheduling-5.png from https://framerusercontent.com/images/mi4zybt4f1ewxHki1h0knznCbo.png
+  Failed: alternate-methods-for-scheduling-6.png from https://framerusercontent.com/images/F5ZRTtM5eImry3crpilwpms0be4.png
+  Failed: alternate-methods-for-scheduling-7.png from https://framerusercontent.com/images/vMUrt3b9p2EkMkT85EstOL25SJQ.png
+  Failed: alternate-methods-for-scheduling-8.png from https://framerusercontent.com/images/phRE5gtUPnAFDtqImHxec0F23ZQ.png
+PROCESSED: Alternate Methods for Scheduling.txt -> Front Office Workflows/Appointments/appointments-alternate-methods-for-scheduling.txt
+  Failed: getting-started-with-faxing-1.png from https://framerusercontent.com/images/cjiIC1KwU0WT3sIninxxXh0K5Q.png
+  Failed: getting-started-with-faxing-2.png from https://framerusercontent.com/images/ykMFs9odVaGbRKjvlZujTMlQBik.png
+  Failed: getting-started-with-faxing-3.png from https://framerusercontent.com/images/tBze0W6WuRsTRNqDLpYLM7iacMI.png
+  Failed: getting-started-with-faxing-4.png from https://framerusercontent.com/images/R8qNFzM7KKookg0DmGDo0k9c5Sc.png
+  Failed: getting-started-with-faxing-5.png from https://framerusercontent.com/images/FeaOiWYv6WN0hSOlK5l53tFNKk.png
+PROCESSED: Getting Started with Faxing.txt -> Front Office Workflows/Faxing/faxing-getting-started-with-faxing.txt
+  Failed: how-to-set-up-ai-compliance-1.png from https://framerusercontent.com/images/dhDezecX88crKFvIc6dphnRzLHU.png
+  Failed: how-to-set-up-ai-compliance-2.png from https://framerusercontent.com/images/AidtNrSTOP9RoNyaZlvvzIO7dtY.png
+  Failed: how-to-set-up-ai-compliance-3.png from https://framerusercontent.com/images/cST3gpugm0wlms9GTeKubr4tg4.png
+PROCESSED: How to Set up AI Compliance.txt -> Provider Workflows/AI Scribe & Tooling/ai-scribe-tooling-how-to-set-up-ai-compliance.txt
+  Failed: the-insights-appointments-page-1.png from https://framerusercontent.com/images/YNl77uirhpaSEoweIRlHkZZnGI.png
+  Failed: the-insights-appointments-page-2.png from https://framerusercontent.com/images/1I7TxYoEuKm4LDh0dfatJaOkA.gif
+  Failed: the-insights-appointments-page-3.png from https://framerusercontent.com/images/HKkOJaM5CLI1PmA4wDB7GAJsCcs.png
+  Failed: the-insights-appointments-page-4.png from https://framerusercontent.com/images/PQURKIa79L4t6tTdNPbpMbuSUg8.png
+  Failed: the-insights-appointments-page-5.png from https://framerusercontent.com/images/JFZevbVAdVaXgmXfJB0oOYBE3Y.png
+  Failed: the-insights-appointments-page-6.png from https://framerusercontent.com/images/3M1ZrW30SVbU5FZBzs2zEPFMtI.png
+  Failed: the-insights-appointments-page-7.png from https://framerusercontent.com/images/aBDxbnlpPgWuwRI3xKryf1flto.png
+  Failed: the-insights-appointments-page-8.png from https://framerusercontent.com/images/LkSgmCVfbI6AIzal5Ht9K8NKVA8.png
+  Failed: the-insights-appointments-page-9.png from https://framerusercontent.com/images/ssgyg7uXn9uhsgBd3EexCK7dc8.png
+  Failed: the-insights-appointments-page-10.png from https://framerusercontent.com/images/WF2rFIS1sBoIBsRGLFyr0NHIfA.png
+  Failed: the-insights-appointments-page-11.png from https://framerusercontent.com/images/hJfKkZBoL12acpZ2aRX376v8ZLs.png
+  Failed: the-insights-appointments-page-12.png from https://framerusercontent.com/images/CLM2uBUiiYmhkw1JJG6vWkrT4bs.png
+  Failed: the-insights-appointments-page-13.png from https://framerusercontent.com/images/9JffBFzxhiJf8uO0L45rT2Huljg.png
+  Failed: the-insights-appointments-page-14.png from https://framerusercontent.com/images/SpVwV5gkhKOCtDPfZfWp8elA1Y.png
+PROCESSED: The Insights Appointments Page.txt -> Front Office Workflows/Appointments/appointments-the-insights-appointments-page.txt
+  Failed: claim-details-page-1.png from https://framerusercontent.com/images/kqAEri5lS1Cyqp24TMxholNDSM.png
+  Failed: claim-details-page-2.png from https://framerusercontent.com/images/sfI75GTrtS4SlBW0yxlYhy4VvM.png
+  Failed: claim-details-page-3.png from https://framerusercontent.com/images/iEpCpBy22l41JLVrMNx7dCpupk.png
+  Failed: claim-details-page-4.png from https://framerusercontent.com/images/ukOfo7RxmhiRlJnBidVww35o.png
+  Failed: claim-details-page-5.png from https://framerusercontent.com/images/NCDwBkQppgd11ZQPdWZqFM45nKU.png
+  Failed: claim-details-page-6.png from https://framerusercontent.com/images/wyrisxmxD91oZlhtrZm6QVQ8VhQ.png
+  Failed: claim-details-page-7.png from https://framerusercontent.com/images/DXg3ACyUcM198zgbn3ympuHI0w.png
+  Failed: claim-details-page-8.png from https://framerusercontent.com/images/AJwfrQmLsL5Feg1cJBoHwVbfo.png
+  Failed: claim-details-page-9.png from https://framerusercontent.com/images/qwca1QkTy34l4BCI3tBVfg2oDs.png
+  Failed: claim-details-page-10.png from https://framerusercontent.com/images/XIVPFi5ZdsYH8Tjx0BgywEiVac.png
+  Failed: claim-details-page-11.png from https://framerusercontent.com/images/moOq5QsWKPWcsyEaJ1xX8wJJ40.png
+  Failed: claim-details-page-12.png from https://framerusercontent.com/images/k1tYgBAmMeVhULZRTGB0hh2v488.png
+  Failed: claim-details-page-13.png from https://framerusercontent.com/images/GrD2O6QWn0zgnwNpAUQ15D8OX4.png
+  Failed: claim-details-page-14.png from https://framerusercontent.com/images/84Hobd5H2KxZJlUCecYPQc17G9Q.png
+  Failed: claim-details-page-15.png from https://framerusercontent.com/images/HwHgEvPnjJoFAfxLROfqErZaEAU.png
+  Failed: claim-details-page-16.png from https://framerusercontent.com/images/OYCyqq6bXknzOGSRsYZ8V3PcK0.png
+  Failed: claim-details-page-17.png from https://framerusercontent.com/images/9CUHIxNYz6x4KwiKYqgByMlvnPs.png
+  Failed: claim-details-page-18.png from https://framerusercontent.com/images/YlV9z3NFVi0NvquRQ4Z3YVVzwos.png
+  Failed: claim-details-page-19.png from https://framerusercontent.com/images/K6wZIIUdSwMwZPVYXih3wpnZn10.png
+  Failed: claim-details-page-20.png from https://framerusercontent.com/images/giXvSd0iTS8XtPj2SOFt2RMIzY.png
+  Failed: claim-details-page-21.png from https://framerusercontent.com/images/zptdmr7juaz0mUpHX1wSf8g7xyI.png
+  Failed: claim-details-page-22.png from https://framerusercontent.com/images/rracVLcLePyt7wHNhpU55LCltqY.png
+  Failed: claim-details-page-23.png from https://framerusercontent.com/images/EjrH9Da3ejWmpfWbJ3B5tMU7npg.png
+  Failed: claim-details-page-24.png from https://framerusercontent.com/images/WQXOzq8K52ZX8TUzL8uedY0aD8.png
+  Failed: claim-details-page-25.png from https://framerusercontent.com/images/n6VNkw7sG3PFN98ZJzlGNeh0T8.png
+  Failed: claim-details-page-26.png from https://framerusercontent.com/images/34FchR611J3usH2MREKtlXnCviw.png
+  Failed: claim-details-page-27.png from https://framerusercontent.com/images/tC94VtZOk7ew6dlp3gQb3DDY9s.png
+  Failed: claim-details-page-28.png from https://framerusercontent.com/images/lSPWwAS5ScqCDSJMIzBVjvfLfZo.png
+  Failed: claim-details-page-29.png from https://framerusercontent.com/images/oYJ2VSa0mTXvx5iw7Sdy1yZPk.png
+  Failed: claim-details-page-30.png from https://framerusercontent.com/images/yaG2Ls8BoEplH9HGrX4V7UGcpNI.png
+PROCESSED: Claim Details Page.txt -> Front Office Workflows/Claim Details/claim-details-claim-details-page.txt
+  Failed: patient-collections-report-1.png from https://framerusercontent.com/images/yqVx9fervsQgY65msTLzGxbU.png
+  Failed: patient-collections-report-2.png from https://framerusercontent.com/images/wONWCLEdRJPOkUPp6jccBGUMoyc.png
+PROCESSED: Patient Collections Report.txt -> Billing Workflows/Reports/reports-patient-collections-report.txt
+  Failed: manage-credit-cards-1.png from https://framerusercontent.com/images/BfoZFOKgmEEPAW0YSrHn2uidFJ4.png
+  Failed: manage-credit-cards-2.png from https://framerusercontent.com/images/0U23oCi8WrPCbOqBW6a9gp2Ndr8.png
+  Failed: manage-credit-cards-3.png from https://framerusercontent.com/images/8JdXsAFpMeiMtLyK3DshQuHdGgI.png
+  Failed: manage-credit-cards-4.png from https://framerusercontent.com/images/fsz0HSLTqd97Bs8mBBQLt2SnEg.png
+  Failed: manage-credit-cards-5.png from https://framerusercontent.com/images/FhkaHuDuVmD4JU45HHhCu98H2k.png
+  Failed: manage-credit-cards-6.png from https://framerusercontent.com/images/NkwOCTPMk6bqhVPFfS8f7xOpg.png
+  Failed: manage-credit-cards-7.png from https://framerusercontent.com/images/WHqFj7UvnwVBGWAkGtLE17Lqg.png
+  Failed: manage-credit-cards-8.png from https://framerusercontent.com/images/f5PYYSLL1Yn78dDdAHleDGzaz58.png
+  Failed: manage-credit-cards-9.png from https://framerusercontent.com/images/lRMkkaiCCwdqmKo1wrj0TKpptT4.png
+PROCESSED: Manage Credit Cards.txt -> Front Office Workflows/Patient Responsibility/patient-responsibility-manage-credit-cards.txt
+  Failed: updating-appointment-statuses-1.png from https://framerusercontent.com/images/Gb5HTTDAc1f1dzHcYgNsHJJKJ0.png
+PROCESSED: Updating Appointment Statuses.txt -> Front Office Workflows/Appointments/appointments-updating-appointment-statuses.txt
+  Failed: how-to-record-payments-1.png from https://framerusercontent.com/images/GJiqyAJaUYoPFaZ7dZYQFcZOQw.png
+  Failed: how-to-record-payments-2.png from https://framerusercontent.com/images/mi666mUF2q4bxmF4NHg6EW7AGwo.png
+  Failed: how-to-record-payments-3.png from https://framerusercontent.com/images/Q4JDpNaVgxDB1HMUoCCtU6UpI8.png
+  Failed: how-to-record-payments-4.png from https://framerusercontent.com/images/5ScwEmEKj6ydNcNf4c5gxUsfGRM.png
+  Failed: how-to-record-payments-5.png from https://framerusercontent.com/images/4hXgN6xQvcBwwHgkHQrplCBaPaw.png
+  Failed: how-to-record-payments-6.png from https://framerusercontent.com/images/iW9Rdf2eteFw6OMxwoEqwaFCU.png
+  Failed: how-to-record-payments-7.png from https://framerusercontent.com/images/9yQSI2ScSUEAR4espXIqyglm4.png
+  Failed: how-to-record-payments-8.png from https://framerusercontent.com/images/zxuCdhRR9xaiRwVw4vUjG68SyE.png
+  Failed: how-to-record-payments-9.png from https://framerusercontent.com/images/b9KipdGAajmx7FYzLJaVaWTAzeM.png
+  Failed: how-to-record-payments-10.png from https://framerusercontent.com/images/d4pSpZA9c1jEWcdH5En0w208.png
+  Failed: how-to-record-payments-11.png from https://framerusercontent.com/images/iW9Rdf2eteFw6OMxwoEqwaFCU.png
+  Failed: how-to-record-payments-12.png from https://framerusercontent.com/images/KOrP8quNe8oMFB9XNo5QilwsWto.png
+PROCESSED: How to Record Payments.txt -> Front Office Workflows/Patient Responsibility/patient-responsibility-how-to-record-payments.txt
+  Failed: self-pay-fee-schedule-1.png from https://framerusercontent.com/images/PLYtbT0bd9DHWJ7gJldQShyEAU.png
+  Failed: self-pay-fee-schedule-2.png from https://framerusercontent.com/images/OmqfbRyZ3UAdTQRnWh27bucG9uk.png
+  Failed: self-pay-fee-schedule-3.png from https://framerusercontent.com/images/3Xq3uUYGaATKtHxD7wcdU0gz9Wk.png
+  Failed: self-pay-fee-schedule-4.png from https://framerusercontent.com/images/gO2q0Qeb9zRUSGgedZMOTKbKeEk.png
+  Failed: self-pay-fee-schedule-5.png from https://framerusercontent.com/images/stEEJA6fzCRYOfXZhOLlu9rPEI.png
+  Failed: self-pay-fee-schedule-6.png from https://framerusercontent.com/images/yEWWVGocQeL9BJ34pYspzNBtl4.png
+  Failed: self-pay-fee-schedule-7.png from https://framerusercontent.com/images/vaeZjYYpiOxCtlbXVdJOaQya4.png
+PROCESSED: Self-pay Fee Schedule.txt -> Billing Workflows/Front Office Payments/front-office-payments-self-pay-fee-schedule.txt
+  Failed: how-to-send-messages-1.png from https://framerusercontent.com/images/JtQRy7fc3LJqiHOfDCcrQjHVeg.png
+  Failed: how-to-send-messages-2.png from https://framerusercontent.com/images/HM47b0dSSoEmVg4Qya2jnkMk.png
+  Failed: how-to-send-messages-3.png from https://framerusercontent.com/images/3FwWTotm5nMpUv0rWcVTso1YA8.png
+PROCESSED: How to send messages.txt -> Front Office Workflows/Messaging/messaging-how-to-send-messages.txt
+  Failed: getting-started-with-patient-profile-1.png from https://framerusercontent.com/images/X9kv43ASYfkRD6Z6oQPWdC6JuA.png
+  Failed: getting-started-with-patient-profile-2.png from https://framerusercontent.com/images/f1ICHLVRynPQlNaz5QHMh9GONOc.png
+  Failed: getting-started-with-patient-profile-3.png from https://framerusercontent.com/images/c21lOf4Pm8oz2PhLDro30Df3H0.png
+  Failed: getting-started-with-patient-profile-4.png from https://framerusercontent.com/images/kpiUkYnsN06wCW2bThzAjSGk.png
+PROCESSED: Getting started with Patient Profile.txt -> Provider Workflows/Patient Profiles/patient-profiles-getting-started-with-patient-profile.txt
+  Failed: posting-log-report-1.png from https://framerusercontent.com/images/WHsEigacXeof5TCRuNp332MXo.png
+PROCESSED: Posting Log Report.txt -> Billing Workflows/Reports/reports-posting-log-report.txt
+  Failed: how-to-create-tasks-1.png from https://framerusercontent.com/images/q4PNHrpbtWPaYOfKzuW0H2D88.png
+  Failed: how-to-create-tasks-2.png from https://framerusercontent.com/images/HEupR6Do5Cl0ff8I40AlIHupHv0.png
+  Failed: how-to-create-tasks-3.png from https://framerusercontent.com/images/sYYG5fvWuS3YqSqY6tKJgjs4ypg.png
+  Failed: how-to-create-tasks-4.png from https://framerusercontent.com/images/XgxhM1wf3C4pQXw1rVuPYrpVTj4.png
+  Failed: how-to-create-tasks-5.png from https://framerusercontent.com/images/CFEMjm1vunxphotZ9g6wEnQ8A.png
+  Failed: how-to-create-tasks-6.png from https://framerusercontent.com/images/SnlbmioeW0RiSjUHZl71JUviIk.png
+PROCESSED: How to create tasks.txt -> Front Office Workflows/Tasking/tasking-how-to-create-tasks.txt
+  Failed: how-to-add-measurements-1.png from https://framerusercontent.com/images/fRKV7HKiGFx4cThrBeHfuWKU5fE.png
+  Failed: how-to-add-measurements-2.png from https://framerusercontent.com/images/ZzRzYGdXmdPY6ojpLCoifdCxwmE.png
+PROCESSED: How to add Measurements.txt -> Provider Workflows/Chart Notes/chart-notes-how-to-add-measurements.txt
+  Failed: how-to-send-documentation-1.png from https://framerusercontent.com/images/sTraqiOJc3W2nBC1wUqbwqUyI70.png
+  Failed: how-to-send-documentation-2.png from https://framerusercontent.com/images/FpIDu8kx1qYOLYIagqCvzrqpYjo.png
+  Failed: how-to-send-documentation-3.png from https://framerusercontent.com/images/uiYk4S1jblBwR5gFgUPyJZzaA4.png
+  Failed: how-to-send-documentation-4.png from https://framerusercontent.com/images/9JtFNCZiaDSf0Nk8h5isYMDw.png
+PROCESSED: How to Send Documentation.txt -> Front Office Workflows/Claim Details/claim-details-how-to-send-documentation.txt
+  Failed: sign-a-chart-note-1.png from https://framerusercontent.com/images/fjrTIH5axJkriu7XtkO0hx3dS2I.png
+  Failed: sign-a-chart-note-2.png from https://framerusercontent.com/images/bN1UeHXzLF33N706XDVFqB6mm8Y.png
+  Failed: sign-a-chart-note-3.png from https://framerusercontent.com/images/6Hygc03qA8tKA3AUdhghmFBLmw.png
+  Failed: sign-a-chart-note-4.png from https://framerusercontent.com/images/1M1uik2guIbwrN3yHMzB2uXkSuU.png
+  Failed: sign-a-chart-note-5.png from https://framerusercontent.com/images/6DkRsnmRFmBeqLwm3AQCENiVLM.png
+  Failed: sign-a-chart-note-6.png from https://framerusercontent.com/images/dWPhdAO2ANb2wybagVnN9wX91to.png
+  Failed: sign-a-chart-note-7.png from https://framerusercontent.com/images/6fUj6Z2SPRGfQkkzdG1LWLoSrA.png
+  Failed: sign-a-chart-note-8.png from https://framerusercontent.com/images/1mghewmEH2I8Dg3Hs90Mzns084.png
+  Failed: sign-a-chart-note-9.png from https://framerusercontent.com/images/GjANGINKhGcakvNsOGZaKRqxU0w.png
+  Failed: sign-a-chart-note-10.png from https://framerusercontent.com/images/hMhIK5bIEp991Kr4jYEzZUoYeGg.png
+  Failed: sign-a-chart-note-11.png from https://framerusercontent.com/images/BEYXLS9mH0A8IjEIiiFvAgNh7Os.png
+PROCESSED: Sign a Chart Note.txt -> Provider Workflows/Chart Notes/chart-notes-sign-a-chart-note.txt
+PROCESSED: Faxing Features Not Supported.txt -> Front Office Workflows/Faxing/faxing-faxing-features-not-supported.txt
+  Failed: eob-creation-and-portal-checks-1.png from https://framerusercontent.com/images/KfaPAL9coIq1gjP6B9GDo5L9FvQ.png
+  Failed: eob-creation-and-portal-checks-2.png from https://framerusercontent.com/images/Mwa7Waem0pe9ABypBdAueT2ltTs.png
+  Failed: eob-creation-and-portal-checks-3.png from https://framerusercontent.com/images/XSavTS3VXJtiaKn5WfEUD4XsM8c.png
+  Failed: eob-creation-and-portal-checks-4.png from https://framerusercontent.com/images/E9GmQoJOEloMa3txcsyNA0Xm0Ac.png
+  Failed: eob-creation-and-portal-checks-5.png from https://framerusercontent.com/images/WIow81B6KjjgMnmd3L1ErgR6jSs.png
+  Failed: eob-creation-and-portal-checks-6.png from https://framerusercontent.com/images/3R8PGOJgocpgV1hDVve4OzrD8VQ.png
+  Failed: eob-creation-and-portal-checks-7.png from https://framerusercontent.com/images/LrSz24ectMAeKiqCwwaa5ijTc.png
+  Failed: eob-creation-and-portal-checks-8.png from https://framerusercontent.com/images/rIBHBCGZ0ysMGhIHcOqTMnT5qvE.png
+  Failed: eob-creation-and-portal-checks-9.png from https://framerusercontent.com/images/tFnQQOB2B2OYaCSZkFWai79U.png
+  Failed: eob-creation-and-portal-checks-10.png from https://framerusercontent.com/images/TNiicKOciqou2UT0wXixwcmpJo.png
+  Failed: eob-creation-and-portal-checks-11.png from https://framerusercontent.com/images/C91FZ0bTVjJjV73HRpVXVhDGZc.png
+  Failed: eob-creation-and-portal-checks-12.png from https://framerusercontent.com/images/GMPkvdAGSFnzH5LmkAsBguCEcSY.png
+  Failed: eob-creation-and-portal-checks-13.png from https://framerusercontent.com/images/BbjmJDQm1C0HgAMPMz1xJgWw.png
+  Failed: eob-creation-and-portal-checks-14.png from https://framerusercontent.com/images/l3MJkGUaT5R0gMuBXTI2pbkQSVs.png
+  Failed: eob-creation-and-portal-checks-15.png from https://framerusercontent.com/images/lJdQ0sdH15zpnsXyPUnrmrKaD1s.png
+  Failed: eob-creation-and-portal-checks-16.png from https://framerusercontent.com/images/vNt71y4h2NX4QvIZQLyhQMMHR0k.png
+  Failed: eob-creation-and-portal-checks-17.png from https://framerusercontent.com/images/HOuOIIjL3aeZoukrZV0by2YYQ.png
+  Failed: eob-creation-and-portal-checks-18.png from https://framerusercontent.com/images/eUKuWilEkCpIrblhgpjOr6HoyU.png
+PROCESSED: EOB Creation and Portal Checks.txt -> Front Office Workflows/Utilities/utilities-eob-creation-and-portal-checks.txt
+NO MATCH: The Claim Recon Page.txt - Title: 'The Claim Recon Page'
+PROCESSED: Manage Patient Appointments.txt -> Front Office Workflows/Patient Communications/patient-communications-manage-patient-appointments.txt
+  Failed: auto-apply-kx-modifier-1.png from https://framerusercontent.com/images/EypqbXG1FgKlFoQ6CfVYzv7NU.png
+  Failed: auto-apply-kx-modifier-2.png from https://framerusercontent.com/images/LzbAN1L5j1GKjHlclKi8gfm1dIc.png
+  Failed: auto-apply-kx-modifier-3.png from https://framerusercontent.com/images/QtIVfxpmpkgHuIG2enxvDe9rkE.png
+  Failed: auto-apply-kx-modifier-4.png from https://framerusercontent.com/images/29JNOUMyi7adrLyzUg3sjZ6hNME.png
+  Failed: auto-apply-kx-modifier-5.png from https://framerusercontent.com/images/CCqMRGY1cKhCPyq7JQkFyMD0SXI.png
+  Failed: auto-apply-kx-modifier-6.png from https://framerusercontent.com/images/msrSLfbNz2APWPBlGMWZco85It4.png
+  Failed: auto-apply-kx-modifier-7.png from https://framerusercontent.com/images/5UZ3SUP1gCOLNUkYePRCM71mbdU.png
+  Failed: auto-apply-kx-modifier-8.png from https://framerusercontent.com/images/TziaCUFqcaiMfmrLO4str6odDnU.png
+  Failed: auto-apply-kx-modifier-9.png from https://framerusercontent.com/images/7DH13wGSwMLCMhpTDVrJGrhpYqs.png
+  Failed: auto-apply-kx-modifier-10.png from https://framerusercontent.com/images/zjg9FL4Idq2ZVw6TLN78LAXnQxI.png
+  Failed: auto-apply-kx-modifier-11.png from https://framerusercontent.com/images/wwQC0VyUOdQRouMXVOtjmZvtJQ.png
+  Failed: auto-apply-kx-modifier-12.png from https://framerusercontent.com/images/8HbUFVhkaGssj6kxOtlwcQKVSo.png
+  Failed: auto-apply-kx-modifier-13.png from https://framerusercontent.com/images/OcnCrfpqivQywslmMpvqwIZNPI.png
+  Failed: auto-apply-kx-modifier-14.png from https://framerusercontent.com/images/g565LevTgDSZa1bfZpx4IiMtreU.png
+  Failed: auto-apply-kx-modifier-15.png from https://framerusercontent.com/images/7NepidO2nxSvJG4H9ItWgi3rU.png
+  Failed: auto-apply-kx-modifier-16.png from https://framerusercontent.com/images/lTRXuzxfPDBgVKDOzGVRZFCxJho.png
+  Failed: auto-apply-kx-modifier-17.png from https://framerusercontent.com/images/OxZ56sMtTq2dFWDteRhn9mXhM5Y.png
+  Failed: auto-apply-kx-modifier-18.png from https://framerusercontent.com/images/k4rC9xD6OYCSenRXRKx7999qowU.png
+  Failed: auto-apply-kx-modifier-19.png from https://framerusercontent.com/images/OC1Ayv6vImLvO4kFEche9PqPAk.png
+  Failed: auto-apply-kx-modifier-20.png from https://framerusercontent.com/images/J7QPoHmKgli907xC7yBFxLV6g.png
+  Failed: auto-apply-kx-modifier-21.png from https://framerusercontent.com/images/r2LHXmNsNnswQcWZHwKthGC7HTg.png
+  Failed: auto-apply-kx-modifier-22.png from https://framerusercontent.com/images/UgN8QL5SzhOokpMyEUeatnvvVTk.png
+  Failed: auto-apply-kx-modifier-23.png from https://framerusercontent.com/images/XjxFA0nDOaTEVn4CnIOSUcHFvA.png
+  Failed: auto-apply-kx-modifier-24.png from https://framerusercontent.com/images/bOAyn4awZFl10uDdJ9mUAM4Fmk.png
+  Failed: auto-apply-kx-modifier-25.png from https://framerusercontent.com/images/xRgyL0FFf43vbB1H1Ks6EJJnrE.png
+  Failed: auto-apply-kx-modifier-26.png from https://framerusercontent.com/images/ZpqyqyPuQGmXEgW9nWHaZvrslY8.png
+  Failed: auto-apply-kx-modifier-27.png from https://framerusercontent.com/images/m89qvlNOihjj9a91FUDh2KB3R0.png
+  Failed: auto-apply-kx-modifier-28.png from https://framerusercontent.com/images/UgN8QL5SzhOokpMyEUeatnvvVTk.png
+  Failed: auto-apply-kx-modifier-29.png from https://framerusercontent.com/images/XjxFA0nDOaTEVn4CnIOSUcHFvA.png
+  Failed: auto-apply-kx-modifier-30.png from https://framerusercontent.com/images/bOAyn4awZFl10uDdJ9mUAM4Fmk.png
+  Failed: auto-apply-kx-modifier-31.png from https://framerusercontent.com/images/KEoG8AcZqxD3E8hJiDTKWwFTLqo.png
+  Failed: auto-apply-kx-modifier-32.png from https://framerusercontent.com/images/WmglN0CNbDH5e0I6RO21bbMS7Os.png
+  Failed: auto-apply-kx-modifier-33.png from https://framerusercontent.com/images/jLffnOnmaZG4o0w0hQtgw8lTV2M.png
+  Failed: auto-apply-kx-modifier-34.png from https://framerusercontent.com/images/3HQMn2nmJ5fqAU61rw8BAdSw58.png
+  Failed: auto-apply-kx-modifier-35.png from https://framerusercontent.com/images/cAWLZcirwnvHWX1eQhYqjTM4VMU.png
+PROCESSED: Auto-apply KX Modifier.txt -> Provider Workflows/Chart Notes/chart-notes-auto-apply-kx-modifier.txt
+PROCESSED: RCM AI Prompt Library.txt -> Billing Workflows/Athelas Assistant/athelas-assistant-rcm-ai-prompt-library.txt
+NO MATCH: How to Troubleshoot Login Issues.txt - Title: 'How to Troubleshoot Login Issues'
+  Failed: send-one-off-paper-statements-1.png from https://framerusercontent.com/images/woQPu6llt5YQGNBN8i79pMSjiP0.png
+  Failed: send-one-off-paper-statements-2.png from https://framerusercontent.com/images/Xrae6m1rMnjU13rvqr1gIgofcAU.png
+  Failed: send-one-off-paper-statements-3.png from https://framerusercontent.com/images/07q3WZreRVESCDISMfQflWEQyk.png
+  Failed: send-one-off-paper-statements-4.png from https://framerusercontent.com/images/K5S1zXwXcv4tbMe3r33QBzEwo.png
+PROCESSED: Send One-off Paper Statements.txt -> Front Office Workflows/Patient Statements/patient-statements-send-one-off-paper-statements.txt
+PROCESSED: Features not supported.txt -> Front Office Workflows/Calendar/calendar-features-not-supported.txt
+  Failed: getting-started-with-the-calendar-1.png from https://framerusercontent.com/images/Wd2t9ZUZwSu39bTdfK50fPKRvxI.png
+  Failed: getting-started-with-the-calendar-2.png from https://framerusercontent.com/images/ipuZpvF6tYALozpvlR4U1B4OU.png
+  Failed: getting-started-with-the-calendar-3.png from https://framerusercontent.com/images/jXAVON0qRxSPCjtoK5l1E10rssU.png
+  Failed: getting-started-with-the-calendar-4.png from https://framerusercontent.com/images/Z8A4RjFeV3Vf1xGZOTqhMhxev8.png
+  Failed: getting-started-with-the-calendar-5.png from https://framerusercontent.com/images/yzhh3DSR3tRx2WvboM2RJwkI9I.png
+  Failed: getting-started-with-the-calendar-6.png from https://framerusercontent.com/images/JOhcBjJo7JpKt9Tu2NuPSXtnvDY.png
+  Failed: getting-started-with-the-calendar-7.png from https://framerusercontent.com/images/fi1KN6ga9KyLCTH9hqyOOdOM4.png
+  Failed: getting-started-with-the-calendar-8.png from https://framerusercontent.com/images/WmaKryNloAcoC4Fe37amXXKcGTs.png
+  Failed: getting-started-with-the-calendar-9.png from https://framerusercontent.com/images/pXYgLTa0bm23dUUrMb9qk4TMXws.png
+  Failed: getting-started-with-the-calendar-10.png from https://framerusercontent.com/images/bN06o0CBot3za8kMwilnGh5770E.png
+  Failed: getting-started-with-the-calendar-11.png from https://framerusercontent.com/images/uZ2qoqcUGaQ0l8K13IJhKKbgJl0.png
+  Failed: getting-started-with-the-calendar-12.png from https://framerusercontent.com/images/ix5X2clB3I5zcLNX4VvFLkig8.png
+  Failed: getting-started-with-the-calendar-13.png from https://framerusercontent.com/images/Pb9udgKzHa85SjyI7UvXYH14RPs.png
+  Failed: getting-started-with-the-calendar-14.png from https://framerusercontent.com/images/AJyALHvVvQouXNDAXtlF5UAEGC0.png
+  Failed: getting-started-with-the-calendar-15.png from https://framerusercontent.com/images/U8JP124bjYer0jaxn9X0x089sM8.png
+  Failed: getting-started-with-the-calendar-16.png from https://framerusercontent.com/images/lOYlAeD5joTzihh1b2O2IYWhlM.png
+PROCESSED: Getting started with the Calendar.txt -> Front Office Workflows/Calendar/calendar-getting-started-with-the-calendar.txt
+  Failed: manage-patient-statements-1.png from https://framerusercontent.com/images/T6zsa4CHxLnZ7kV3Y5pXANFTA.png
+  Failed: manage-patient-statements-2.png from https://framerusercontent.com/images/0B5I1iHmyFlEH2ofWpUjzA4yWco.png
+  Failed: manage-patient-statements-3.png from https://framerusercontent.com/images/Q86zVVkyjJutGUih5uruT1G9fV8.png
+  Failed: manage-patient-statements-4.png from https://framerusercontent.com/images/MoXj4xZ2oZCeJ7c6h217vJAmGI.png
+  Failed: manage-patient-statements-5.png from https://framerusercontent.com/images/NdnGZTSAH6WrJe2S5GiMALIzmHs.png
+  Failed: manage-patient-statements-6.png from https://framerusercontent.com/images/wQ2suaHORWbbkN5ifCogx8hY76s.png
+  Failed: manage-patient-statements-7.png from https://framerusercontent.com/images/5lBU5xkihHaTRURQLjjk85pYSI.png
+  Failed: manage-patient-statements-8.png from https://framerusercontent.com/images/XmujzDXOgyr528tFxVru7r4g9o.png
+  Failed: manage-patient-statements-9.png from https://framerusercontent.com/images/KY7JVbhFSnvFnblMOEEIJtinmA.png
+  Failed: manage-patient-statements-10.png from https://framerusercontent.com/images/jd2xglVMl89th9TSJaIAFEQz0o.png
+  Failed: manage-patient-statements-11.png from https://framerusercontent.com/images/WAzNkEyO6GkJtzpcxkyYc8SzA2Q.png
+  Failed: manage-patient-statements-12.png from https://framerusercontent.com/images/WFlRJ2Dzd2juXn7W8grfM8yCsW0.png
+  Failed: manage-patient-statements-13.png from https://framerusercontent.com/images/t1rXN5xI4ppK4cGKiuMfilSGTI.png
+  Failed: manage-patient-statements-14.png from https://framerusercontent.com/images/BjPO3Yhhg4J19aHaYNFt9MILtzU.png
+  Failed: manage-patient-statements-15.png from https://framerusercontent.com/images/hbkIOC8raaxpCTEmF5ScFEtKc.png
+  Failed: manage-patient-statements-16.png from https://framerusercontent.com/images/5tI2Xu83LrL0vT3KcPwQNZCXDA.png
+  Failed: manage-patient-statements-17.png from https://framerusercontent.com/images/pc685is4KAqk5GGsdKTERP3rSS0.png
+  Failed: manage-patient-statements-18.png from https://framerusercontent.com/images/21OTUMYVIfaly8yCE3SEaKXfA0.png
+  Failed: manage-patient-statements-19.png from https://framerusercontent.com/images/0YNEYi0h3VOp9GFnTNGMoJWNYA.png
+  Failed: manage-patient-statements-20.png from https://framerusercontent.com/images/4MA4o37YukoPRk4LWZHiK9kZc.png
+  Failed: manage-patient-statements-21.png from https://framerusercontent.com/images/k3DmmkPgEj1SP0077cwQ8Q4sM.png
+  Failed: manage-patient-statements-22.png from https://framerusercontent.com/images/pW1w1qkeK5sbXlKPMBMCWMV8ccw.png
+  Failed: manage-patient-statements-23.png from https://framerusercontent.com/images/Sz8ZwLk888jwD9ouj4J1NDp1Y.png
+  Failed: manage-patient-statements-24.png from https://framerusercontent.com/images/18MVQMkw5McuoYGz5dTfmHjbfA.png
+PROCESSED: Manage Patient Statements.txt -> Front Office Workflows/Patient Statements/patient-statements-manage-patient-statements.txt
+  Failed: addedit-patients-prior-authorization-1.png from https://framerusercontent.com/images/L6XO73cCfxouYejIAoMKMyClv8.png
+  Failed: addedit-patients-prior-authorization-2.png from https://framerusercontent.com/images/sJlwZKO7gyXCpRhDNLZUZd1flM8.png
+  Failed: addedit-patients-prior-authorization-3.png from https://framerusercontent.com/images/UqZhEUhbd5qOflFsOO8PHv0yt0.png
+PROCESSED: Add_edit Patient's Prior Authorization.txt -> Front Office Workflows/Patient Demographics/patient-demographics-addedit-patients-prior-authorization.txt
+  Failed: additional-context-feature-1.png from https://framerusercontent.com/images/D3fkdAtmxSsvOmFF9TpawzTXqk.png
+  Failed: additional-context-feature-2.png from https://framerusercontent.com/images/DpWwZtM4GYq5oIc7jusTfmdps.png
+  Failed: additional-context-feature-3.png from https://framerusercontent.com/images/u0ifllIcKe2IgsbkjLQ87PExtk.png
+  Failed: additional-context-feature-4.png from https://framerusercontent.com/images/x1pKLr7CVGGNwcCajfQ0OH0RvA0.png
+  Failed: additional-context-feature-5.png from https://framerusercontent.com/images/DGr7Mx59iHkW846kJEHt1kdw6KA.png
+PROCESSED: Additional Context Feature.txt -> Provider Workflows/AI Scribe & Tooling/ai-scribe-tooling-additional-context-feature.txt
+  Failed: custom-collections-report-1.png from https://framerusercontent.com/images/kA9Hf1CMdM4p9Uu0UJcv6CUs89Y.png
+  Failed: custom-collections-report-2.png from https://framerusercontent.com/images/SNgUYHjqBx9IhLKRLXUxBE3x0g.png
+PROCESSED: Custom Collections Report.txt -> Billing Workflows/Reports/reports-custom-collections-report.txt
+  Failed: ai-appt-summaries-1.png from https://framerusercontent.com/images/rroY9oKeSaKQHjaUqtp9AmNU.png
+PROCESSED: AI Appt. Summaries.txt -> Provider Workflows/Chart Notes/chart-notes-ai-appt-summaries.txt
+  Failed: collections-report-1.png from https://framerusercontent.com/images/NzNDvcqPTnXLlnOUB8sItFvBkAU.png
+PROCESSED: Collections Report.txt -> Billing Workflows/Reports/reports-collections-report.txt
+  Failed: patient-charges-report-1.png from https://framerusercontent.com/images/PYfPRzeyh7lLR1198vH7TiczOo.png
+PROCESSED: Patient Charges Report.txt -> Billing Workflows/Reports/reports-patient-charges-report.txt
+  Failed: insurance-intake-page-1.png from https://framerusercontent.com/images/vYUQuRimjyire4Mq62CdofgLI.png
+  Failed: insurance-intake-page-2.png from https://framerusercontent.com/images/3yARYY60eJ9pV5YCtT806kw1gw.png
+PROCESSED: Insurance Intake Page.txt -> Front Office Workflows/Patient Communications/patient-communications-insurance-intake-page.txt
+  Failed: how-to-undo-a-write-off-1.png from https://framerusercontent.com/images/gQmnqPikN1Dz3J2lsMPiX3c.png
+  Failed: how-to-undo-a-write-off-2.png from https://framerusercontent.com/images/ykPibYIBr1cZvDFL7VhCQSxdf9w.png
+  Failed: how-to-undo-a-write-off-3.png from https://framerusercontent.com/images/CwUVcAje6VHUPzA8zvFSBMohk.png
+  Failed: how-to-undo-a-write-off-4.png from https://framerusercontent.com/images/qWZkPYnJ1ZXaldJUo0H1LYYsc.png
+  Failed: how-to-undo-a-write-off-5.png from https://framerusercontent.com/images/B73FS1ApfrBKA6WHcLAlPdYXeI.png
+PROCESSED: How to Undo a Write Off.txt -> Front Office Workflows/Patient Responsibility/patient-responsibility-how-to-undo-a-write-off.txt
+  Failed: charge-saved-credit-cards-1.png from https://framerusercontent.com/images/psapM6igjisTwgfAmb0rmdM0c.png
+  Failed: charge-saved-credit-cards-2.png from https://framerusercontent.com/images/I6Z6MGu0e9p7lpVbl1sjLTImd0.png
+  Failed: charge-saved-credit-cards-3.png from https://framerusercontent.com/images/7AoPs2J4ImMvLlxIjzBTakORVU.png
+  Failed: charge-saved-credit-cards-4.png from https://framerusercontent.com/images/s8GlmzcT5fIlf0dceiW7NYPRdKw.png
+  Failed: charge-saved-credit-cards-5.png from https://framerusercontent.com/images/w1jvsXhetZrG0h7tRXbYL9VqaE.png
+PROCESSED: Charge Saved Credit Cards.txt -> Front Office Workflows/Patient Responsibility/patient-responsibility-charge-saved-credit-cards.txt
+  Failed: process-virtual-cards-1.png from https://framerusercontent.com/images/L2dNQTrLstL1gFD41fAu9MEGOuU.png
+  Failed: process-virtual-cards-2.png from https://framerusercontent.com/images/SsfqrcT3XxlioR6jTRNdPt9OE.png
+  Failed: process-virtual-cards-3.png from https://framerusercontent.com/images/N8O2MQU40LQEdtCEnhN679Qb7IA.png
+  Failed: process-virtual-cards-4.png from https://framerusercontent.com/images/S9iqEwQyyzeymDwSiFXZ9k27w.png
+  Failed: process-virtual-cards-5.png from https://framerusercontent.com/images/TJIQ9jauucM7qyUshLVOZikCHwg.png
+  Failed: process-virtual-cards-6.png from https://framerusercontent.com/images/oGJIVexsE02Cr6dP7Hmmq017nY.png
+  Failed: process-virtual-cards-7.png from https://framerusercontent.com/images/IM5xUXqg8PcwDH9LIn0ksGP3LKU.png
+PROCESSED: Process Virtual Cards.txt -> Front Office Workflows/Utilities/utilities-process-virtual-cards.txt
+  Failed: how-to-write-off-pr-1.png from https://framerusercontent.com/images/ykPibYIBr1cZvDFL7VhCQSxdf9w.png
+  Failed: how-to-write-off-pr-2.png from https://framerusercontent.com/images/CwUVcAje6VHUPzA8zvFSBMohk.png
+  Failed: how-to-write-off-pr-3.png from https://framerusercontent.com/images/6ron443tHzvRRnELuJMBXuzMRR4.png
+  Failed: how-to-write-off-pr-4.png from https://framerusercontent.com/images/v5PdykxribejhP4gEkcXc6t2Ok.png
+  Failed: how-to-write-off-pr-5.png from https://framerusercontent.com/images/gTAAJFNmUh3LZ0sAEDPDNXhwI.jpg
+  Failed: how-to-write-off-pr-6.png from https://framerusercontent.com/images/gQmnqPikN1Dz3J2lsMPiX3c.png
+PROCESSED: How to Write Off PR.txt -> Front Office Workflows/Patient Responsibility/patient-responsibility-how-to-write-off-pr.txt
+  Failed: how-to-spread-pr-statement-emails-1.png from https://framerusercontent.com/images/OR44cqxPHraeEwWlSqzq6Ym2v64.png
+  Failed: how-to-spread-pr-statement-emails-2.png from https://framerusercontent.com/images/MFEpRMwF7y3EpxvM9UwxFG2B64.png
+  Failed: how-to-spread-pr-statement-emails-3.png from https://framerusercontent.com/images/aonsSrWuDmRJvwxPqucek0HDx2w.png
+  Failed: how-to-spread-pr-statement-emails-4.png from https://framerusercontent.com/images/0l29OUmnfeXx3VCXwTx0W9vbM.png
+  Failed: how-to-spread-pr-statement-emails-5.png from https://framerusercontent.com/images/tWJjEX0WMd6cZvbJoXfEZIPXYWk.png
+PROCESSED: How to Spread PR Statement Emails.txt -> Front Office Workflows/Patient Statements/patient-statements-how-to-spread-pr-statement-emails.txt
+  Failed: prescribe-medications-1.png from https://framerusercontent.com/images/hMrKLY5rm3yYSjUzQrDnyZEZ8o.png
+  Failed: prescribe-medications-2.png from https://framerusercontent.com/images/OnwEqIelpdHeFWO5YaGX24WRD8.png
+  Failed: prescribe-medications-3.png from https://framerusercontent.com/images/gQpxfu8id61W9w6IwNUFPf2tFg.png
+  Failed: prescribe-medications-4.png from https://framerusercontent.com/images/RWjbazUPo9zNZ2vubmO1qQQb0Q.png
+  Failed: prescribe-medications-5.png from https://framerusercontent.com/images/pD5OJON7IWFWYgkToCNR0fsSMw.png
+  Failed: prescribe-medications-6.png from https://framerusercontent.com/images/kELbXCGrX297WUzVDX0pBPgC5Ts.png
+  Failed: prescribe-medications-7.png from https://framerusercontent.com/images/H1ycEfW497OYbbDbhqhS6r1MEU.png
+  Failed: prescribe-medications-8.png from https://framerusercontent.com/images/OYTjOfCpVWftJmm4W6q0Uckss.png
+PROCESSED: Prescribe Medications.txt -> Provider Workflows/Patient Profiles/patient-profiles-prescribe-medications.txt
+  Failed: how-to-refund-a-payment-1.png from https://framerusercontent.com/images/ykPibYIBr1cZvDFL7VhCQSxdf9w.png
+  Failed: how-to-refund-a-payment-2.png from https://framerusercontent.com/images/p8uKYueDkZQzGVV5EhtWPVQqHtA.png
+  Failed: how-to-refund-a-payment-3.png from https://framerusercontent.com/images/eMEsXnbdSeQxdbjNLcj6HWC03fA.png
+  Failed: how-to-refund-a-payment-4.png from https://framerusercontent.com/images/75I3nDA78utfaCAIAw7zLoxEvhI.png
+  Failed: how-to-refund-a-payment-5.png from https://framerusercontent.com/images/hUSabAQEJaaKOCwDuWRX9UrgI.png
+PROCESSED: How to Refund a Payment.txt -> Front Office Workflows/Patient Responsibility/patient-responsibility-how-to-refund-a-payment.txt
+  Failed: patient-claims-one-pagers-1.png from https://framerusercontent.com/images/N8P3dnAQJTvBuY9APT1HfqtLZo.png
+PROCESSED: Patient Claims One-pagers.txt -> Billing Workflows/Reports/reports-patient-claims-one-pagers.txt
+  Failed: navigating-the-chart-note-1.png from https://framerusercontent.com/images/QB0ViEkBUkcO20A5SWxTqz4i1fs.png
+  Failed: navigating-the-chart-note-2.png from https://framerusercontent.com/images/O2c3uiKDehxpXscxOhrEuSIpUg.png
+  Failed: navigating-the-chart-note-3.png from https://framerusercontent.com/images/1Qh7muJpFem1tLhauwYnsGBPPE.png
+  Failed: navigating-the-chart-note-4.png from https://framerusercontent.com/images/PqX7xJS5TQn0JIRUI422wZODx88.png
+  Failed: navigating-the-chart-note-5.png from https://framerusercontent.com/images/eRZmIj52iUgIZBpaCzgncazJjaQ.png
+  Failed: navigating-the-chart-note-6.png from https://framerusercontent.com/images/p7TCnRfKhESb8w548da8VbcJZ4.png
+  Failed: navigating-the-chart-note-7.png from https://framerusercontent.com/images/CVJC4yLy95cduiSulV1pwX3mNU.png
+  Failed: navigating-the-chart-note-8.png from https://framerusercontent.com/images/UGirwiZdj6Mc9c3Zq0WManySmV8.png
+  Failed: navigating-the-chart-note-9.png from https://framerusercontent.com/images/QpCWWtoertncqitDnJktHRaoQM.png
+  Failed: navigating-the-chart-note-10.png from https://framerusercontent.com/images/on4JDn60tNIZl3KxwWWR7Dzlx0.png
+PROCESSED: Navigating the Chart Note.txt -> Provider Workflows/Chart Notes/chart-notes-navigating-the-chart-note.txt
+  Failed: encounter-details-page-1.png from https://framerusercontent.com/images/0UOKhMRATLfaJXDH4CtKNZNv6E.png
+  Failed: encounter-details-page-2.png from https://framerusercontent.com/images/8Jvdt0y4eediEq2aNlhaFsteGo.png
+  Failed: encounter-details-page-3.png from https://framerusercontent.com/images/Oxu4KPwrkNMTeOFfs6ZUTl1Wik.png
+  Failed: encounter-details-page-4.png from https://framerusercontent.com/images/U6S9RyEArs6wZxBoKfKw6zTIo4.png
+  Failed: encounter-details-page-5.png from https://framerusercontent.com/images/fJIdESy9gwUoo8oPtD80M62FlPk.png
+  Failed: encounter-details-page-6.png from https://framerusercontent.com/images/buRA4HuNlnXIZopgySTObplHE.png
+  Failed: encounter-details-page-7.png from https://framerusercontent.com/images/mNRGVfHXMoBj9RFXX17pzqbzu8.png
+  Failed: encounter-details-page-8.png from https://framerusercontent.com/images/mTnKqSMT8HfLeHDeew53xSJd0.png
+  Failed: encounter-details-page-9.png from https://framerusercontent.com/images/mSqWRt3oIk9OsiBTIN4C7cTR5IA.png
+  Failed: encounter-details-page-10.png from https://framerusercontent.com/images/Jr6NxEFsgF1ITd6D8DbcWhNU.png
+  Failed: encounter-details-page-11.png from https://framerusercontent.com/images/AHcr2ZzwHUnIw0jACcnDieyGjlA.png
+  Failed: encounter-details-page-12.png from https://framerusercontent.com/images/apbLlxa4ak7kQ02HU6OtCzq5u8.png
+  Failed: encounter-details-page-13.png from https://framerusercontent.com/images/rV0DMVQryxm1iltHyGwOBt45GE.png
+  Failed: encounter-details-page-14.png from https://framerusercontent.com/images/EpSAQoTD7JVxIXO7Ek9Fq6KtnE.png
+  Failed: encounter-details-page-15.png from https://framerusercontent.com/images/TYIHKD2RtFk4tw5QZXeR1cpg34.png
+  Failed: encounter-details-page-16.png from https://framerusercontent.com/images/X7Gnyu18VeCz4Q99ngDxWxPRhXk.png
+  Failed: encounter-details-page-17.png from https://framerusercontent.com/images/in2k39Dg2ijid4maRZHYqo6U4M.png
+  Failed: encounter-details-page-18.png from https://framerusercontent.com/images/6XjUTWgsjggFaPE9sqh6lZwJxbg.png
+  Failed: encounter-details-page-19.png from https://framerusercontent.com/images/tlQY6CMixDkU8wBJn6SeOkhbgA.png
+  Failed: encounter-details-page-20.png from https://framerusercontent.com/images/OD8TCtsnroMlMnc1IwQJaYDGBbM.png
+  Failed: encounter-details-page-21.png from https://framerusercontent.com/images/lwVFAArrDhRhcdOUAarPxVDmJXg.png
+  Failed: encounter-details-page-22.png from https://framerusercontent.com/images/jM8tPmTWJjsB6i2cmhnZVYobyXY.png
+  Failed: encounter-details-page-23.png from https://framerusercontent.com/images/avxCBuL3WymnvZ3IqVzFOSORQg.png
+  Failed: encounter-details-page-24.png from https://framerusercontent.com/images/I33Oy7UuQkbeer8hocbYDycNowM.png
+  Failed: encounter-details-page-25.png from https://framerusercontent.com/images/pZv9iYmkdS7LJy5514fjmroWM.png
+  Failed: encounter-details-page-26.png from https://framerusercontent.com/images/SwGmt5ffpvwmz6504w4h3rJz0tw.png
+  Failed: encounter-details-page-27.png from https://framerusercontent.com/images/gsosxl2FTkirFIEcOa0dEGgL9A.png
+  Failed: encounter-details-page-28.png from https://framerusercontent.com/images/FAzz3dBGvDBSpd4dVQYhawd5E.png
+  Failed: encounter-details-page-29.png from https://framerusercontent.com/images/lIWYhZuPJMWWl5NGYpiCVP89uI.png
+  Failed: encounter-details-page-30.png from https://framerusercontent.com/images/zcJbkPFB5CrxTz2KXS7ANni28xs.png
+  Failed: encounter-details-page-31.png from https://framerusercontent.com/images/z5xmtY7xNjIPfvxJJ3A3Z3ltLRc.png
+  Failed: encounter-details-page-32.png from https://framerusercontent.com/images/8LqYmfd3mMlebRiUOhB1W98I.png
+  Failed: encounter-details-page-33.png from https://framerusercontent.com/images/0KLC53APORXQ7ZeShVR9pFAM8I.png
+  Failed: encounter-details-page-34.png from https://framerusercontent.com/images/H8uwfD0FiEH0qFvcwXlnqBkRlQ.png
+  Failed: encounter-details-page-35.png from https://framerusercontent.com/images/lIWYhZuPJMWWl5NGYpiCVP89uI.png
+  Failed: encounter-details-page-36.png from https://framerusercontent.com/images/YhfqKwuoC50r9ha4hP3Ed8qRwM.png
+  Failed: encounter-details-page-37.png from https://framerusercontent.com/images/o2hhUWzJcq4docTerxGc1QkPL4.png
+  Failed: encounter-details-page-38.png from https://framerusercontent.com/images/ITzZiI6oS09I6n9IjEpfQnb3s.png
+  Failed: encounter-details-page-39.png from https://framerusercontent.com/images/rRzIOQ5kG853omsahkzGJrJFDY.png
+PROCESSED: Encounter Details Page.txt -> Front Office Workflows/Encounter Details/encounter-details-encounter-details-page.txt
+  Failed: export-claim-details-1.png from https://framerusercontent.com/images/n9ms5FQf5gQd0wfq09yYGISAhY.png
+  Failed: export-claim-details-2.png from https://framerusercontent.com/images/Wm84AfBazSbn0dUGKeWlBM2r4.png
+  Failed: export-claim-details-3.png from https://framerusercontent.com/images/5qKubfo2KEkAe0A18rZTKaRLL4.png
+  Failed: export-claim-details-4.png from https://framerusercontent.com/images/Erw9bMRO4PTZN7mUSaFkBrB3QQ.png
+PROCESSED: Export Claim Details.txt -> Billing Workflows/Reports/reports-export-claim-details.txt
+  Failed: how-to-send-a-patient-payment-link-1.png from https://framerusercontent.com/images/lB5EnLoDb6DKIfmCstnilpAYh3U.png
+  Failed: how-to-send-a-patient-payment-link-2.png from https://framerusercontent.com/images/z790Gy4FiS0gNu8pmagDUkoMJSs.png
+  Failed: how-to-send-a-patient-payment-link-3.png from https://framerusercontent.com/images/pCOYAUnt7xnYOruePNP2Qnj81I.png
+  Failed: how-to-send-a-patient-payment-link-4.png from https://framerusercontent.com/images/vFLu60mdqD1UQImI8nNswW95g9A.png
+  Failed: how-to-send-a-patient-payment-link-5.png from https://framerusercontent.com/images/8JvJqKL7WREyyW5Kn0eL2U3wlFY.png
+  Failed: how-to-send-a-patient-payment-link-6.png from https://framerusercontent.com/images/grHwTwerd6cno5jZfVw9gxEJ0s.png
+  Failed: how-to-send-a-patient-payment-link-7.png from https://framerusercontent.com/images/YPR7JJWcDpZDPkQPY8twLbUUiQ.png
+  Failed: how-to-send-a-patient-payment-link-8.png from https://framerusercontent.com/images/JDVUd0d27uRAljeqfvi4zXE.png
+  Failed: how-to-send-a-patient-payment-link-9.png from https://framerusercontent.com/images/ed08CBPjjba82iy2qbj5Th0hAU.png
+  Failed: how-to-send-a-patient-payment-link-10.png from https://framerusercontent.com/images/c7dGb6oGoOwCSqAgmYSiE0f9z2o.png
+  Failed: how-to-send-a-patient-payment-link-11.png from https://framerusercontent.com/images/a892jIrHMwwZFd6GTLxuRAx8mU.png
+PROCESSED: How to Send a Patient Payment Link.txt -> Front Office Workflows/Patient Responsibility/patient-responsibility-how-to-send-a-patient-payment-link.txt
+  Failed: update-practice-information-1.png from https://framerusercontent.com/images/5VeTB0ywTPONp1H5darc3pn7iWU.png
+  Failed: update-practice-information-2.png from https://framerusercontent.com/images/6m8lczcqROwOwxESfmtCSsTc.png
+PROCESSED: Update Practice Information.txt -> Owners & Administration/My Practice/my-practice-update-practice-information.txt
+  Failed: site-transaction-report-1.png from https://framerusercontent.com/images/kKxymxZJkxezlzoea2XPi9aISg.png
+PROCESSED: Site Transaction Report.txt -> Billing Workflows/Reports/reports-site-transaction-report.txt
+PROCESSED: Chart Note Features Not Supported.txt -> Provider Workflows/Chart Notes/chart-notes-chart-note-features-not-supported.txt
+NO MATCH: How to Use Standard or Universal Notes.txt - Title: 'How to Use Standard or Universal Notes'
+  Failed: getting-started-with-demographics-1.png from https://framerusercontent.com/images/2kJx1WmNiQq2Y3CAQRAFzsldZg.png
+  Failed: getting-started-with-demographics-2.png from https://framerusercontent.com/images/4bjGEnlmFpEgzTU6IMjbHhzoc.png
+  Failed: getting-started-with-demographics-3.png from https://framerusercontent.com/images/JXZamkVUMau3h8nGVit0WpF7UFY.png
+  Failed: getting-started-with-demographics-4.png from https://framerusercontent.com/images/NcliN2gx4y7eXljskKN3QfsknM.png
+  Failed: getting-started-with-demographics-5.png from https://framerusercontent.com/images/OQGK0437eufqMJSSvaav4gEz9s.png
+PROCESSED: Getting Started with Demographics.txt -> Front Office Workflows/Patient Demographics/patient-demographics-getting-started-with-demographics.txt
+  Failed: how-to-write-off-a-balance-1.png from https://framerusercontent.com/images/Gut5hKmQcraBttFdTNCnZui4e4.png
+  Failed: how-to-write-off-a-balance-2.png from https://framerusercontent.com/images/MePU9oNbXrH5WYmuYpwLY90HHY.png
+  Failed: how-to-write-off-a-balance-3.png from https://framerusercontent.com/images/xuSgazeacdxErXtMOeDQNvOL7L0.png
+  Failed: how-to-write-off-a-balance-4.png from https://framerusercontent.com/images/hpOxJj4nCXLxcQGn0wkNdLeQTkc.png
+  Failed: how-to-write-off-a-balance-5.png from https://framerusercontent.com/images/JtA0Yb6pq6vIE7pbABz5gQNl8.png
+PROCESSED: How to Write Off a Balance.txt -> Front Office Workflows/Posting/posting-how-to-write-off-a-balance.txt
+PROCESSED: Text Snippets For Your Note.txt -> Provider Workflows/Chart Notes/chart-notes-text-snippets-for-your-note.txt
+  Failed: navigating-flowsheets-1.png from https://framerusercontent.com/images/o4ZfHQ9otohPHyllJlLxpTQPw1Y.png
+  Failed: navigating-flowsheets-2.png from https://framerusercontent.com/images/CoHM3pnqTh8SvZhRDbdYMgwzCM4.png
+  Failed: navigating-flowsheets-3.png from https://framerusercontent.com/images/rKgiKhama6U8vApYCTo5NeGBitI.png
+  Failed: navigating-flowsheets-4.png from https://framerusercontent.com/images/RkrQlxujLnsg9nEOwBAwju12Pk.png
+  Failed: navigating-flowsheets-5.png from https://framerusercontent.com/images/cSlPxl4UC7HkOT60QZ3zoyvUtU.png
+  Failed: navigating-flowsheets-6.png from https://framerusercontent.com/images/DPhV1Rn3XkJBRZVpasRhCJ5CWE.png
+  Failed: navigating-flowsheets-7.png from https://framerusercontent.com/images/5GZmUms8uWRNdAmUeBkewAnP48.png
+  Failed: navigating-flowsheets-8.png from https://framerusercontent.com/images/trLZgy7UPu7GWzYCHtcUiH0fds.png
+  Failed: navigating-flowsheets-9.png from https://framerusercontent.com/images/Brx9cranQCcgRmURkXTX0I3pY.png
+  Failed: navigating-flowsheets-10.png from https://framerusercontent.com/images/u1qEmBlege2lDOksUyz61jfLe8.png
+  Failed: navigating-flowsheets-11.png from https://framerusercontent.com/images/Yd6zb9RLL3SPWkhNG59BctJmE.png
+  Failed: navigating-flowsheets-12.png from https://framerusercontent.com/images/Tm3MeR4UjTUrhlYM9XJmQ2FRrU.png
+  Failed: navigating-flowsheets-13.png from https://framerusercontent.com/images/Qp1MSuQg39SXNlmIeeudoDA6f80.png
+  Failed: navigating-flowsheets-14.png from https://framerusercontent.com/images/IIF5JD68QojxHEZtUVHDgveso.png
+  Failed: navigating-flowsheets-15.png from https://framerusercontent.com/images/s82pW8gi4OiFbiCvUFSXeIQLLPw.png
+  Failed: navigating-flowsheets-16.png from https://framerusercontent.com/images/ZyVB86nNwlLxBYd0YvQ1QHR8Pk.png
+  Failed: navigating-flowsheets-17.png from https://framerusercontent.com/images/VemVI4l40I1Z2a8LnLBcC3XTuI.png
+  Failed: navigating-flowsheets-18.png from https://framerusercontent.com/images/vf90pooFUN10JKBv3gRAiKMEzM.png
+  Failed: navigating-flowsheets-19.png from https://framerusercontent.com/images/vrHnqOJL3EUWRVkfPUDgf34KzQM.png
+  Failed: navigating-flowsheets-20.png from https://framerusercontent.com/images/UTMXYTpvPnw0Tenqjg3ujniqc.png
+  Failed: navigating-flowsheets-21.png from https://framerusercontent.com/images/M1yjxr6IOqXBzQyxyLWEtQ0EY.png
+  Failed: navigating-flowsheets-22.png from https://framerusercontent.com/images/uTno7bc2x4C5jPr0SWSTFfNiR8.png
+  Failed: navigating-flowsheets-23.png from https://framerusercontent.com/images/zi1919n4S4Dz2YTL0wlD42w3c.png
+PROCESSED: Navigating Flowsheets.txt -> Provider Workflows/Chart Notes/chart-notes-navigating-flowsheets.txt
+  Failed: how-to-resubmit-a-single-claim-1.png from https://framerusercontent.com/images/WAI9Njf3bn3baZKTv9ImCKdGo.png
+  Failed: how-to-resubmit-a-single-claim-2.png from https://framerusercontent.com/images/C9fhnqrh8vlY3DWUdFjhLbrf7s.png
+  Failed: how-to-resubmit-a-single-claim-3.png from https://framerusercontent.com/images/EIGDgdLOL3lm0Fg0l6FM1T4Hodo.png
+  Failed: how-to-resubmit-a-single-claim-4.png from https://framerusercontent.com/images/8qocANGZf2Teg8xXJUvshVQwbXE.png
+  Failed: how-to-resubmit-a-single-claim-5.png from https://framerusercontent.com/images/07FKTL49dne2OmnxoNoRNAGKAE.png
+  Failed: how-to-resubmit-a-single-claim-6.png from https://framerusercontent.com/images/jVoxoQMF842omAplPhoHMuolXoI.png
+  Failed: how-to-resubmit-a-single-claim-7.png from https://framerusercontent.com/images/2YsNhAl23AZX6AnwjX162eklhnM.png
+  Failed: how-to-resubmit-a-single-claim-8.png from https://framerusercontent.com/images/py0jsMfTk8lzHWQdPLW9XgF0JQ.png
+  Failed: how-to-resubmit-a-single-claim-9.png from https://framerusercontent.com/images/fZMLJKM5ts4lKGnPyKhiRABTWI.png
+  Failed: how-to-resubmit-a-single-claim-10.png from https://framerusercontent.com/images/xW7Bu4xCDP9Odf0ULt45VhTKs.png
+  Failed: how-to-resubmit-a-single-claim-11.png from https://framerusercontent.com/images/mBewKbtJgR8BYIpQ4dvBkchUlc.png
+  Failed: how-to-resubmit-a-single-claim-12.png from https://framerusercontent.com/images/fjlPTPXdTAqwZlFlBNHFkBfVEM.png
+  Failed: how-to-resubmit-a-single-claim-13.png from https://framerusercontent.com/images/PpWVudQ0c7fxxpdRLqxYqK54.png
+PROCESSED: How to Resubmit a Single Claim.txt -> Front Office Workflows/Claim Details/claim-details-how-to-resubmit-a-single-claim.txt
+  Failed: import-previous-medical-history-1.png from https://framerusercontent.com/images/NxazIQUqGLkTPuBaHFNqefJjmPw.png
+  Failed: import-previous-medical-history-2.png from https://framerusercontent.com/images/cMaCIRVQGmPDCLY1dXSxCatoWQ.png
+  Failed: import-previous-medical-history-3.png from https://framerusercontent.com/images/OkHhHsX85h53ZlNcpO60EvkEyc.png
+  Failed: import-previous-medical-history-4.png from https://framerusercontent.com/images/qh0zQZO7r1OHm00ixEnO4c3kg.png
+PROCESSED: Import Previous Medical History.txt -> Provider Workflows/Chart Notes/chart-notes-import-previous-medical-history.txt
+  Failed: pr-overpayment-refunds-and-estimated-vs-remittance-pr-1.png from https://framerusercontent.com/images/8xh9ObUsDy5QzhksTw70CZ1uMY.png
+  Failed: pr-overpayment-refunds-and-estimated-vs-remittance-pr-2.png from https://framerusercontent.com/images/d9uCqSj3K5yULkLoutIQXce0Ho.png
+  Failed: pr-overpayment-refunds-and-estimated-vs-remittance-pr-3.png from https://framerusercontent.com/images/y91TbXLuYwoi3v8kxPJ1pjT9WIE.png
+  Failed: pr-overpayment-refunds-and-estimated-vs-remittance-pr-4.png from https://framerusercontent.com/images/JCjqLgU6Iy7cp0upDh7NRljHxLo.png
+  Failed: pr-overpayment-refunds-and-estimated-vs-remittance-pr-5.png from https://framerusercontent.com/images/mKvBLBKwKiKnNN2xq7rspXKH9I.png
+  Failed: pr-overpayment-refunds-and-estimated-vs-remittance-pr-6.png from https://framerusercontent.com/images/ZwDzVVqHQqUkleIt1qGQCGv1jw.png
+PROCESSED: PR Overpayment Refunds and Estimated vs. Remittance PR.txt -> Front Office Workflows/Patient Responsibility/patient-responsibility-pr-overpayment-refunds-and-estimated-vs-remittance-pr.txt
+  Failed: sorting-archiving-bulk-actions-1.png from https://framerusercontent.com/images/mhAx2Co4IRpYMHXQ277bTpg3w.png
+  Failed: sorting-archiving-bulk-actions-2.png from https://framerusercontent.com/images/CqhSCdv7fLF5IBTiN8JFgGGKU5o.png
+  Failed: sorting-archiving-bulk-actions-3.png from https://framerusercontent.com/images/kAz6aribM7q4EmENmyR1dPPZl8.png
+  Failed: sorting-archiving-bulk-actions-4.png from https://framerusercontent.com/images/RqueKulcQngqtLi2N6aHG0Ue7tw.png
+PROCESSED: Sorting, Archiving, Bulk Actions.txt -> Front Office Workflows/Tasking/tasking-sorting-archiving-bulk-actions.txt
+  Failed: tying-inbound-faxes-to-outbound-faxes-1.png from https://framerusercontent.com/images/1oyv4Ma6eOjiutQ9ILs5ZVUAdNc.png
+PROCESSED: Tying inbound faxes to outbound faxes.txt -> Front Office Workflows/Faxing/faxing-tying-inbound-faxes-to-outbound-faxes.txt
+  Failed: sending-out-reminders-and-forms-1.png from https://framerusercontent.com/images/4zxudNcY6SxmLL6TV4aVIfTkqs.png
+  Failed: sending-out-reminders-and-forms-2.png from https://framerusercontent.com/images/FuH8Fjq9uSUOL2KqCWZI3X7nxA.png
+  Failed: sending-out-reminders-and-forms-3.png from https://framerusercontent.com/images/STcimmDZqHDneITrlv8CoaZNbHM.png
+PROCESSED: Sending out reminders and forms.txt -> Front Office Workflows/Appointments/appointments-sending-out-reminders-and-forms.txt
+  Failed: addedit-patient-cases-1.png from https://framerusercontent.com/images/50pQMe4rNPEJ2LXfJryXSgYU758.png
+  Failed: addedit-patient-cases-2.png from https://framerusercontent.com/images/iGHQnv1kXvJ9Dlu8yxKyz6lISiM.png
+PROCESSED: Add_edit Patient Cases.txt -> Front Office Workflows/Patient Demographics/patient-demographics-addedit-patient-cases.txt
+NO MATCH: Appeals & Medical Records.txt - Title: 'Appeals & Medical Records'
+NO MATCH: Navigating the Rejections Page.txt - Title: 'Navigating the Rejections Page'
+  Failed: patient-subscriptions-1.png from https://framerusercontent.com/images/P58KUHdkJlJFIyJecMOVSRbG0dI.png
+  Failed: patient-subscriptions-2.png from https://framerusercontent.com/images/ddLAmVdKtzovfeRgdjeF4LbKss.png
+  Failed: patient-subscriptions-3.png from https://framerusercontent.com/images/fUeRU6CYbpN0E13ClAhLPC7qSUQ.png
+  Failed: patient-subscriptions-4.png from https://framerusercontent.com/images/LkTJ474iXz2jZyWKtPMDdpCreA.png
+  Failed: patient-subscriptions-5.png from https://framerusercontent.com/images/mTUjjUTrAJ12udstJEflz6BzRJc.png
+  Failed: patient-subscriptions-6.png from https://framerusercontent.com/images/uisrYmUoCavFrw8uYng3FTQ3bo.png
+  Failed: patient-subscriptions-7.png from https://framerusercontent.com/images/p1K4JC2BiChtvFxlsm40c7ck.png
+  Failed: patient-subscriptions-8.png from https://framerusercontent.com/images/stKK7oXqcaiBpmaaoGj35eGUz4.png
+  Failed: patient-subscriptions-9.png from https://framerusercontent.com/images/9ZmQckRjXiNOhkyG4FLEnwklds.png
+  Failed: patient-subscriptions-10.png from https://framerusercontent.com/images/IXWdvmaDW6Fqb9xtWU8txukOEUE.png
+  Failed: patient-subscriptions-11.png from https://framerusercontent.com/images/ITOf2QGyjxggoj46NMGZ4R1EiJY.png
+  Failed: patient-subscriptions-12.png from https://framerusercontent.com/images/tZFdlrrVk91bWO0gigjWMEYdoE.png
+  Failed: patient-subscriptions-13.png from https://framerusercontent.com/images/tM9h7KUZJVXownADEJh54NErY.png
+PROCESSED: Patient Subscriptions.txt -> Front Office Workflows/Utilities/utilities-patient-subscriptions.txt
+  Failed: goals-on-the-chart-note-1.png from https://framerusercontent.com/images/p2x4lwQPxk8YZJZYD5jcGCtA6I.png
+  Failed: goals-on-the-chart-note-2.png from https://framerusercontent.com/images/odySIY7JcspmV2rQdL6LYzfutGI.png
+PROCESSED: Goals on the chart note.txt -> Provider Workflows/Chart Notes/chart-notes-goals-on-the-chart-note.txt
+NO MATCH: Understand Import Errors.txt - Title: 'Understand Import Errors'
+  Failed: your-athelas-invoice-1.png from https://framerusercontent.com/images/leBjre0Xv04TsT1PRjHVQideEQs.png
+  Failed: your-athelas-invoice-2.png from https://framerusercontent.com/images/so0r3H9sHkG3Qov5BJvNRIIHsv0.png
+  Failed: your-athelas-invoice-3.png from https://framerusercontent.com/images/C6fXY2f16JHFMPvzg9bKemFT16c.png
+PROCESSED: Your Athelas Invoice.txt -> Owners & Administration/My Practice/my-practice-your-athelas-invoice.txt
+  Failed: edit-with-commandk-1.png from https://framerusercontent.com/images/LxrLrssj2Z62PauFHcuWg0nhW9Q.png
+  Failed: edit-with-commandk-2.png from https://framerusercontent.com/images/zeyXp1E5ZAf1lPuafnrFYL6iRnI.png
+  Failed: edit-with-commandk-3.png from https://framerusercontent.com/images/5kdZp3Og2QsAk8PamEn1UUXjpk.png
+  Failed: edit-with-commandk-4.png from https://framerusercontent.com/images/HB2rDiFcRPvlQFfuYrWjtWl7FHU.png
+  Failed: edit-with-commandk-5.png from https://framerusercontent.com/images/AOb9BC6vHQoiBe9VJE3mEfA.png
+  Failed: edit-with-commandk-6.png from https://framerusercontent.com/images/tkIyoandUWFNHSBOlJxFJwZXtx4.png
+  Failed: edit-with-commandk-7.png from https://framerusercontent.com/images/tzDHga1VmFvk7OX941ejgGwXHws.png
+  Failed: edit-with-commandk-8.png from https://framerusercontent.com/images/VEsbnL400Ut7yB2DEXnT7LGMk.png
+PROCESSED: Edit with Command+K.txt -> Provider Workflows/AI Scribe & Tooling/ai-scribe-tooling-edit-with-commandk.txt
+  Failed: calendar-start-end-times-1.png from https://framerusercontent.com/images/e2mojswUFXf3RQCSLT9uJySMKw.png
+  Failed: calendar-start-end-times-2.png from https://framerusercontent.com/images/3VLDNvTGFp0xS1CdAaBjvRdaTqg.png
+PROCESSED: Calendar start & end times.txt -> Front Office Workflows/Calendar/calendar-calendar-start-end-times.txt
+  Failed: adding-prior-auth-and-alerting-1.png from https://framerusercontent.com/images/DXpwI5s6lkraKDZQHuzgHexDTd0.png
+  Failed: adding-prior-auth-and-alerting-2.png from https://framerusercontent.com/images/0Gzk9PhyuSyVVKb8Zhb1JHoDkc.png
+  Failed: adding-prior-auth-and-alerting-3.png from https://framerusercontent.com/images/Evl8tvWGfAY5T9hSWmTRMay7s.png
+  Failed: adding-prior-auth-and-alerting-4.png from https://framerusercontent.com/images/ovhvTGX0OIQHdUC0lByTBkY3jU.png
+  Failed: adding-prior-auth-and-alerting-5.png from https://framerusercontent.com/images/rbgrv9p94FyeCgQI5t2XeA6BTc.png
+PROCESSED: Adding Prior Auth and Alerting.txt -> Front Office Workflows/Appointments/appointments-adding-prior-auth-and-alerting.txt
+  Failed: how-to-apply-an-air-scribe-1.png from https://framerusercontent.com/images/mhfYnO8r4XXJrj4v64vIJ69OIo.png
+  Failed: how-to-apply-an-air-scribe-2.png from https://framerusercontent.com/images/CxpIYupOUaHmc8XIjZlmsIt2w.png
+  Failed: how-to-apply-an-air-scribe-3.png from https://framerusercontent.com/images/h4xgGNVuAK33XJTKv2IXXq3aCM.png
+  Failed: how-to-apply-an-air-scribe-4.png from https://framerusercontent.com/images/vnrBsOP9srBWuqBzmxGIcaqweHw.png
+  Failed: how-to-apply-an-air-scribe-5.png from https://framerusercontent.com/images/8VPnBdOdVjz1zErF9CPEQcwHO54.png
+  Failed: how-to-apply-an-air-scribe-6.png from https://framerusercontent.com/images/R50tX87J74WDNvn3AxnyP6XCa4.png
+  Failed: how-to-apply-an-air-scribe-7.png from https://framerusercontent.com/images/juRc2LUAFz6vlhKffbW5kF9s6w.png
+  Failed: how-to-apply-an-air-scribe-8.png from https://framerusercontent.com/images/5QShHz7CxHcQSRzWJYJ3K0pMI.png
+  Failed: how-to-apply-an-air-scribe-9.png from https://framerusercontent.com/images/FLMrb8CyUoRblP4uXTW3huOtz2U.png
+PROCESSED: How to Apply an Air Scribe.txt -> Provider Workflows/AI Scribe & Tooling/ai-scribe-tooling-how-to-apply-an-air-scribe.txt
+  Failed: how-to-download-cms-1500-forms-1.png from https://framerusercontent.com/images/8HDKeZLgpfspUmP4Olfann8Uy0.png
+  Failed: how-to-download-cms-1500-forms-2.png from https://framerusercontent.com/images/A1RYpqzDbOaIxxeFcmRJq0gmRw.png
+  Failed: how-to-download-cms-1500-forms-3.png from https://framerusercontent.com/images/iWuhBwEEAGb4dzp8vNGMpscQbUg.png
+PROCESSED: How to Download CMS-1500 Forms.txt -> Front Office Workflows/Claim Details/claim-details-how-to-download-cms-1500-forms.txt
+  Failed: record-allergies-1.png from https://framerusercontent.com/images/dv49gxE3uPhXw24BWaaRTLrwEg.png
+  Failed: record-allergies-2.png from https://framerusercontent.com/images/nrkaB83NkBgqWVxkVTN28djaDaU.png
+PROCESSED: Record Allergies.txt -> Provider Workflows/Patient Profiles/patient-profiles-record-allergies.txt
+  Failed: designate-staff-as-provider-agents-1.png from https://framerusercontent.com/images/BEOEWt6fDcBYXmvP7rq2StEcRR4.png
+  Failed: designate-staff-as-provider-agents-2.png from https://framerusercontent.com/images/GS4bhZpH0d4sAaQb8EUjCGdOs.png
+  Failed: designate-staff-as-provider-agents-3.png from https://framerusercontent.com/images/u3S4xn35IA0o4yKubU1a9ICTg.png
+  Failed: designate-staff-as-provider-agents-4.png from https://framerusercontent.com/images/JFLxBTqXAJeZktNmYsPFAa4sLoA.png
+  Failed: designate-staff-as-provider-agents-5.png from https://framerusercontent.com/images/g7IcqzLWsolwuZtKgWeprBr5e0g.png
+  Failed: designate-staff-as-provider-agents-6.png from https://framerusercontent.com/images/fQXjJhd3aad2CNH0nnG0crkpY.png
+  Failed: designate-staff-as-provider-agents-7.png from https://framerusercontent.com/images/AfCjdryJRL6b9kiJhwYZxhShIQc.png
+  Failed: designate-staff-as-provider-agents-8.png from https://framerusercontent.com/images/GZu6DwxS0p0suod5UErVtKogyP0.png
+  Failed: designate-staff-as-provider-agents-9.png from https://framerusercontent.com/images/YLQsv4yKLDsgUtbZP1POfCDHV18.png
+  Failed: designate-staff-as-provider-agents-10.png from https://framerusercontent.com/images/Q0AHPStMCMpVALRslH2r8rSDg8U.png
+  Failed: designate-staff-as-provider-agents-11.png from https://framerusercontent.com/images/YwBfs5Reqezenk4P43XuP2UfUI.png
+  Failed: designate-staff-as-provider-agents-12.png from https://framerusercontent.com/images/DwpnzQ9D0WGYJYpJbEwmVi7dQw.png
+  Failed: designate-staff-as-provider-agents-13.png from https://framerusercontent.com/images/D7oBW5a6y6uNGv4fLFUI9H7oMUY.png
+  Failed: designate-staff-as-provider-agents-14.png from https://framerusercontent.com/images/4FLZyeUbm9UYSKl6VVyPNcWAE.png
+  Failed: designate-staff-as-provider-agents-15.png from https://framerusercontent.com/images/3ZD4QVh4rTBEHOvL8mMvIwrnMKg.png
+  Failed: designate-staff-as-provider-agents-16.png from https://framerusercontent.com/images/DM19zxjMYSWKEoLjLW2ss3c.png
+PROCESSED: Designate Staff as Provider Agents.txt -> Provider Workflows/Medications/medications-designate-staff-as-provider-agents.txt
+  Failed: how-to-use-the-posting-tool-page-1.png from https://framerusercontent.com/images/zxdvZdi0XtbqIjCIxL75wDEnW8Y.png
+  Failed: how-to-use-the-posting-tool-page-2.png from https://framerusercontent.com/images/sOu57XsWLt4qm6in8juDTP22Q.png
+  Failed: how-to-use-the-posting-tool-page-3.png from https://framerusercontent.com/images/24XL5sOSdzaE2mmywaKSNyfTJU.png
+  Failed: how-to-use-the-posting-tool-page-4.png from https://framerusercontent.com/images/bVOinv8V8KMEVtHslhkn2JOApE.png
+  Failed: how-to-use-the-posting-tool-page-5.png from https://framerusercontent.com/images/2quP2HIF5IdkIetdw1OCeBIo8Y.png
+  Failed: how-to-use-the-posting-tool-page-6.png from https://framerusercontent.com/images/hkZZOQwn33SJJPEorU4rYaK9XAQ.png
+  Failed: how-to-use-the-posting-tool-page-7.png from https://framerusercontent.com/images/tewauKVAaXun7mC6if0dJPiiWqw.png
+  Failed: how-to-use-the-posting-tool-page-8.png from https://framerusercontent.com/images/15cjcXh9537nlSEQM0mJv4vcBA.png
+  Failed: how-to-use-the-posting-tool-page-9.png from https://framerusercontent.com/images/b74oMDdNyIeEb1o8lDD5F6tDwAk.png
+  Failed: how-to-use-the-posting-tool-page-10.png from https://framerusercontent.com/images/eKr5hTE8eCZCrkNYwAW9BvIis.png
+  Failed: how-to-use-the-posting-tool-page-11.png from https://framerusercontent.com/images/VJMn4hyXfyUIvo0s8owD5N32yI.png
+  Failed: how-to-use-the-posting-tool-page-12.png from https://framerusercontent.com/images/vjir7uCNbFBurNRGeRiZCuGDGdQ.png
+  Failed: how-to-use-the-posting-tool-page-13.png from https://framerusercontent.com/images/KUKDDZV6i902he06haIskQQgflA.png
+  Failed: how-to-use-the-posting-tool-page-14.png from https://framerusercontent.com/images/ygIq8SQcEBBBZhTeLfk6V2i4cQ.png
+  Failed: how-to-use-the-posting-tool-page-15.png from https://framerusercontent.com/images/jgzWpKjijpvtcSYZKEv5Tv4kWk.png
+  Failed: how-to-use-the-posting-tool-page-16.png from https://framerusercontent.com/images/o89t2iU3xHNFRhI0tG9cH2rNCE.png
+  Failed: how-to-use-the-posting-tool-page-17.png from https://framerusercontent.com/images/UHhZ9sGARwCizxVeclwWiLDQxw.png
+  Failed: how-to-use-the-posting-tool-page-18.png from https://framerusercontent.com/images/sVjGeS8daauCLUphVTAP7laE.png
+  Failed: how-to-use-the-posting-tool-page-19.png from https://framerusercontent.com/images/P5Cy6hjfnwWwEfE7lTWfqsZZg.png
+  Failed: how-to-use-the-posting-tool-page-20.png from https://framerusercontent.com/images/JtA0Yb6pq6vIE7pbABz5gQNl8.png
+  Failed: how-to-use-the-posting-tool-page-21.png from https://framerusercontent.com/images/yChohR28c0LMHBJ2eRo4bNYRI.png
+  Failed: how-to-use-the-posting-tool-page-22.png from https://framerusercontent.com/images/yySWkonRB8ZI0bLW3mW1YJDBZA.png
+  Failed: how-to-use-the-posting-tool-page-23.png from https://framerusercontent.com/images/SJwMpAUi0e26XRX2Wb71oMT7OY.png
+  Failed: how-to-use-the-posting-tool-page-24.png from https://framerusercontent.com/images/AIyuBtRSABMZvvXm5Wc52KzOZE.png
+  Failed: how-to-use-the-posting-tool-page-25.png from https://framerusercontent.com/images/U0PCZHAJQL88pp7TsVQh9hsDzYk.png
+  Failed: how-to-use-the-posting-tool-page-26.png from https://framerusercontent.com/images/P5Cy6hjfnwWwEfE7lTWfqsZZg.png
+  Failed: how-to-use-the-posting-tool-page-27.png from https://framerusercontent.com/images/JtA0Yb6pq6vIE7pbABz5gQNl8.png
+  Failed: how-to-use-the-posting-tool-page-28.png from https://framerusercontent.com/images/IBuuiVpKmdg9J3dc6olpw0TX5c.png
+  Failed: how-to-use-the-posting-tool-page-29.png from https://framerusercontent.com/images/muTLJ6htV5YC2N1tmdUBjWoQvE.png
+  Failed: how-to-use-the-posting-tool-page-30.png from https://framerusercontent.com/images/DUI5FtLUOUpyn1NSSBDp43VwlM.png
+  Failed: how-to-use-the-posting-tool-page-31.png from https://framerusercontent.com/images/ejvNqn8xPVi8TYuRKdGJQwlFoW0.png
+  Failed: how-to-use-the-posting-tool-page-32.png from https://framerusercontent.com/images/JtA0Yb6pq6vIE7pbABz5gQNl8.png
+  Failed: how-to-use-the-posting-tool-page-33.png from https://framerusercontent.com/images/waJwXVwpdIQ8ZYl99aD8wh1OD6w.png
+  Failed: how-to-use-the-posting-tool-page-34.png from https://framerusercontent.com/images/DlIIjqS4igZxiEqXB7FULXIP4.png
+  Failed: how-to-use-the-posting-tool-page-35.png from https://framerusercontent.com/images/iRmQlhpD3RUwTvjBozWiCgWVI.png
+  Failed: how-to-use-the-posting-tool-page-36.png from https://framerusercontent.com/images/yIVsVRkADnAY13O1ZBfCa1TJiY.png
+  Failed: how-to-use-the-posting-tool-page-37.png from https://framerusercontent.com/images/JtA0Yb6pq6vIE7pbABz5gQNl8.png
+  Failed: how-to-use-the-posting-tool-page-38.png from https://framerusercontent.com/images/Gut5hKmQcraBttFdTNCnZui4e4.png
+  Failed: how-to-use-the-posting-tool-page-39.png from https://framerusercontent.com/images/MePU9oNbXrH5WYmuYpwLY90HHY.png
+  Failed: how-to-use-the-posting-tool-page-40.png from https://framerusercontent.com/images/xuSgazeacdxErXtMOeDQNvOL7L0.png
+  Failed: how-to-use-the-posting-tool-page-41.png from https://framerusercontent.com/images/hpOxJj4nCXLxcQGn0wkNdLeQTkc.png
+  Failed: how-to-use-the-posting-tool-page-42.png from https://framerusercontent.com/images/JtA0Yb6pq6vIE7pbABz5gQNl8.png
+  Failed: how-to-use-the-posting-tool-page-43.png from https://framerusercontent.com/images/CA824zNtFRcqBIUFGIVOMYJeVac.png
+  Failed: how-to-use-the-posting-tool-page-44.png from https://framerusercontent.com/images/x0B7BHAzALKQcsLP98Pq2Ih9aDI.png
+  Failed: how-to-use-the-posting-tool-page-45.png from https://framerusercontent.com/images/3OAmYVI36fJCCdPNJgzVXnFLRxc.png
+  Failed: how-to-use-the-posting-tool-page-46.png from https://framerusercontent.com/images/QCc8QaHzhcgnT7HUoxbHvDjm8.png
+  Failed: how-to-use-the-posting-tool-page-47.png from https://framerusercontent.com/images/JtA0Yb6pq6vIE7pbABz5gQNl8.png
+  Failed: how-to-use-the-posting-tool-page-48.png from https://framerusercontent.com/images/vfaM7ZWSPckYRINEQsVAbLiT0T0.png
+  Failed: how-to-use-the-posting-tool-page-49.png from https://framerusercontent.com/images/HosO5noEj9cXUgk8abB4CfuyLI.png
+  Failed: how-to-use-the-posting-tool-page-50.png from https://framerusercontent.com/images/PRse9s7VY6Ucwn0ni26fzVHNAB4.png
+  Failed: how-to-use-the-posting-tool-page-51.png from https://framerusercontent.com/images/BTM6FT834jhG9eAKP5gyd501Fw.png
+  Failed: how-to-use-the-posting-tool-page-52.png from https://framerusercontent.com/images/PjAKx0amC57CjFVdGoA3QD4jIt8.png
+  Failed: how-to-use-the-posting-tool-page-53.png from https://framerusercontent.com/images/JtA0Yb6pq6vIE7pbABz5gQNl8.png
+PROCESSED: How to Use the Posting Tool Page.txt -> Front Office Workflows/Posting/posting-how-to-use-the-posting-tool-page.txt
+  Failed: navigating-patient-workflows-1.png from https://framerusercontent.com/images/RKwpJOE70aRhYJprllM2VSB57s.png
+  Failed: navigating-patient-workflows-2.png from https://framerusercontent.com/images/ELnZAFSXe15DpB9FB5ioFUw3I2I.png
+  Failed: navigating-patient-workflows-3.png from https://framerusercontent.com/images/mOYC3VFA74LbkSd3k2gLTeevWU.png
+  Failed: navigating-patient-workflows-4.png from https://framerusercontent.com/images/6K1oRzLd4hTg5AkVI46q97KYYsw.png
+  Failed: navigating-patient-workflows-5.png from https://framerusercontent.com/images/6npjKhe9jcZ7dkoCE302Zgs9jew.png
+  Failed: navigating-patient-workflows-6.png from https://framerusercontent.com/images/sw1yxfJKUVhkIEnI82ZN2ugVO9E.png
+  Failed: navigating-patient-workflows-7.png from https://framerusercontent.com/images/P5LUvFbeTfZjFzBBH7VVZBJgJs.png
+  Failed: navigating-patient-workflows-8.png from https://framerusercontent.com/images/ap0lf7377BwTpXdcquDIyqbKiDo.png
+  Failed: navigating-patient-workflows-9.png from https://framerusercontent.com/images/fDlJPfTLUZxSuFHYIwfiil59M.png
+  Failed: navigating-patient-workflows-10.png from https://framerusercontent.com/images/k5E2iQiSMIsmek0TKGi8YNC5kM.png
+  Failed: navigating-patient-workflows-11.png from https://framerusercontent.com/images/soyOv3ROu2XKqN8LszRFQohgtSM.png
+  Failed: navigating-patient-workflows-12.png from https://framerusercontent.com/images/vPUpHDo87IpDbvk6WunI0ZrZ7Q8.png
+  Failed: navigating-patient-workflows-13.png from https://framerusercontent.com/images/XjdnikFr1KZftZTXkai1NCdOnDc.png
+  Failed: navigating-patient-workflows-14.png from https://framerusercontent.com/images/FS2QC80nLCkmx6JcVD2D5O1hW8Y.png
+  Failed: navigating-patient-workflows-15.png from https://framerusercontent.com/images/KJDN0BJJ85RYvWwKuIzunTV0JT8.png
+PROCESSED: Navigating Patient Workflows.txt -> Front Office Workflows/Patient Communications/patient-communications-navigating-patient-workflows.txt
+  Failed: bank-deposit-verification-1.png from https://framerusercontent.com/images/sRlZ67vMmvRTpsUmfnIlMgxo5s.png
+  Failed: bank-deposit-verification-2.png from https://framerusercontent.com/images/QuGPQgq7qPuMYbIg4DKY2cU5s.png
+  Failed: bank-deposit-verification-3.png from https://framerusercontent.com/images/GTmmZeBXLt2c5ozLgOSNv3beYI.png
+  Failed: bank-deposit-verification-4.png from https://framerusercontent.com/images/d94K0DJSQeq7282IeGI5Trwvw.png
+  Failed: bank-deposit-verification-5.png from https://framerusercontent.com/images/zObRRJFpjfB2QlilsyDSf4M.png
+  Failed: bank-deposit-verification-6.png from https://framerusercontent.com/images/t6LNyBrAbjwyfhUgqyJSPc72Fk.png
+  Failed: bank-deposit-verification-7.png from https://framerusercontent.com/images/JkbVE1fJUqeijJiKH6aO7EUOJw.png
+  Failed: bank-deposit-verification-8.png from https://framerusercontent.com/images/qR8FPfx9A3djWQ5tjlOfSBTf4pc.png
+  Failed: bank-deposit-verification-9.png from https://framerusercontent.com/images/1DZjDFemtISO7gDr2WntOjGNu4.png
+PROCESSED: Bank Deposit Verification.txt -> Front Office Workflows/Utilities/utilities-bank-deposit-verification.txt
+  Failed: messages-page-1.png from https://framerusercontent.com/images/JtQRy7fc3LJqiHOfDCcrQjHVeg.png
+  Failed: messages-page-2.png from https://framerusercontent.com/images/HM47b0dSSoEmVg4Qya2jnkMk.png
+  Failed: messages-page-3.png from https://framerusercontent.com/images/3FwWTotm5nMpUv0rWcVTso1YA8.png
+  Failed: messages-page-4.png from https://framerusercontent.com/images/opgXoPJnxWuzq4ntJ7l40JgD8xc.png
+  Failed: messages-page-5.png from https://framerusercontent.com/images/Etb7wSjTfKb3eo3FJXu6v6V2eM.png
+PROCESSED: Messages Page.txt -> Front Office Workflows/Messaging/messaging-messages-page.txt
+  Failed: setting-up-ai-compliance-1.png from https://framerusercontent.com/images/dhDezecX88crKFvIc6dphnRzLHU.png
+PROCESSED: Setting up AI Compliance.txt -> Provider Workflows/AI Scribe & Tooling/ai-scribe-tooling-setting-up-ai-compliance.txt
+  Failed: how-to-add-a-walk-in-patient-1.png from https://framerusercontent.com/images/yoIsm5dTmiRLu5mZGV7brA0NDfI.png
+  Failed: how-to-add-a-walk-in-patient-2.png from https://framerusercontent.com/images/FdiVR9o4hsjgBRR0CAaVTNbdr4.png
+  Failed: how-to-add-a-walk-in-patient-3.png from https://framerusercontent.com/images/8l8uhAcmiFA5aXrLBYkVn5eb74.png
+  Failed: how-to-add-a-walk-in-patient-4.png from https://framerusercontent.com/images/2N7iq8lbKP4OjWtNnVMLGLQPYw0.png
+  Failed: how-to-add-a-walk-in-patient-5.png from https://framerusercontent.com/images/TGaFVXVXv0QDhR8nuVk6twKTl5g.png
+  Failed: how-to-add-a-walk-in-patient-6.png from https://framerusercontent.com/images/Tg7RFO5q69T4MB6SKj56E7j97EY.png
+PROCESSED: How to Add a Walk-In Patient.txt -> Front Office Workflows/Appointments/appointments-how-to-add-a-walk-in-patient.txt
+  Failed: setting-up-co-signers-on-your-note-1.png from https://framerusercontent.com/images/7OHWFVddsjfUAanh1E2CY92WI44.png
+PROCESSED: Setting up Co-signers on Your Note.txt -> Provider Workflows/Chart Notes/chart-notes-setting-up-co-signers-on-your-note.txt
+  Failed: getting-started-with-your-practice-1.png from https://framerusercontent.com/images/zCCiWjHrZJPKIfO1Kn14aSWUBdw.png
+  Failed: getting-started-with-your-practice-2.png from https://framerusercontent.com/images/x1tnjkLOJWZUy9fQxudGwzdENE.png
+  Failed: getting-started-with-your-practice-3.png from https://framerusercontent.com/images/2CNLOdFvB3WOo66NJYKJxLaLvA.png
+  Failed: getting-started-with-your-practice-4.png from https://framerusercontent.com/images/CnCueZvss3qRChHAcjDJ1Bfo8.png
+  Failed: getting-started-with-your-practice-5.png from https://framerusercontent.com/images/cxmH8JClBscLjfWvm80xmX0lhs.png
+  Failed: getting-started-with-your-practice-6.png from https://framerusercontent.com/images/xnTZlegBdaJyxZeuAFsiwfQDe8.png
+  Failed: getting-started-with-your-practice-7.png from https://framerusercontent.com/images/syfSNkvr3IYHwSV3NFESeVLOqAI.png
+  Failed: getting-started-with-your-practice-8.png from https://framerusercontent.com/images/mbptwAjmTtYrw9inCgF8IYxJf8.png
+  Failed: getting-started-with-your-practice-9.png from https://framerusercontent.com/images/cML8BOH2BoX92tpJe38RPVGNMPg.png
+  Failed: getting-started-with-your-practice-10.png from https://framerusercontent.com/images/H2W3ZShFXfB5PYLvdupPBoFDitg.png
+  Failed: getting-started-with-your-practice-11.png from https://framerusercontent.com/images/3EVZcqG7SvenYNZ9d8RBe8IjNY.png
+  Failed: getting-started-with-your-practice-12.png from https://framerusercontent.com/images/efN3aq9ZxpPgYSbMGWuLDlkRWbc.png
+  Failed: getting-started-with-your-practice-13.png from https://framerusercontent.com/images/gf7omeyZIyFYPl1w6cw7km9Kw8.png
+  Failed: getting-started-with-your-practice-14.png from https://framerusercontent.com/images/yMaUPzZbJHCx7vhD2qvwMZ0CLo.png
+PROCESSED: Getting Started with Your Practice.txt -> Owners & Administration/My Practice/my-practice-getting-started-with-your-practice.txt
+  Failed: navigating-labs-1.png from https://framerusercontent.com/images/JSXj8u5cHZX4a71jvIo8IwFHE.png
+PROCESSED: Navigating Labs.txt -> Provider Workflows/Patient Profiles/patient-profiles-navigating-labs.txt
+  Failed: detailed-charges-report-1.png from https://framerusercontent.com/images/Kwv8YmE4YALlTDlP5HpCLfG2A.png
+PROCESSED: Detailed Charges Report.txt -> Billing Workflows/Reports/reports-detailed-charges-report.txt
+  Failed: record-immunizations-1.png from https://framerusercontent.com/images/Sy9qIiELIvaawLwrvrfYKDIDlM.png
+PROCESSED: Record Immunizations.txt -> Provider Workflows/Patient Profiles/patient-profiles-record-immunizations.txt
+PROCESSED: Update Insurance Info.txt -> Front Office Workflows/Patient Communications/patient-communications-update-insurance-info.txt
+  Failed: pr-settings-1.png from https://framerusercontent.com/images/6o1NiZGlyNqOgjxD8pdVcQKbs.png
+  Failed: pr-settings-2.png from https://framerusercontent.com/images/BzMv8WqBZXYm9gQbXvxjjYMwvGo.png
+  Failed: pr-settings-3.png from https://framerusercontent.com/images/PCS5l32rrXPz0SOZ64fjBEhqQmY.png
+  Failed: pr-settings-4.png from https://framerusercontent.com/images/Fr88keFKM5ce29aAwLFxsk0sic.png
+  Failed: pr-settings-5.png from https://framerusercontent.com/images/Qh3FmvKjRFh6qG1DkyHuvqpbno.png
+  Failed: pr-settings-6.png from https://framerusercontent.com/images/twUxsR6iI8LAfc9wU9NdPi1J9Y.png
+  Failed: pr-settings-7.png from https://framerusercontent.com/images/vwWW9sOXyz2fCLfu0bNM2OgXScQ.png
+  Failed: pr-settings-8.png from https://framerusercontent.com/images/muTgeJZQE1DsDT5KDNSrZJ0C9VQ.png
+  Failed: pr-settings-9.png from https://framerusercontent.com/images/XwxWbvRllZx9VFnvUCvf54qKTng.png
+  Failed: pr-settings-10.png from https://framerusercontent.com/images/5iIB9NsZnoGPBcC1p52IzNJMX64.png
+  Failed: pr-settings-11.png from https://framerusercontent.com/images/u7rVCc7zy9MWP4x0IbtxIuP6ck.png
+  Failed: pr-settings-12.png from https://framerusercontent.com/images/MoI0Pxq10CJeQCbJJAsGOymSUrk.png
+  Failed: pr-settings-13.png from https://framerusercontent.com/images/BtlAgyWkXLPvQ6LUCuk7QfqPKI.png
+  Failed: pr-settings-14.png from https://framerusercontent.com/images/8Mp0IxHaxT2hqgmNdA6XnLEMXyo.png
+PROCESSED: PR Settings.txt -> Front Office Workflows/Patient Responsibility/patient-responsibility-pr-settings.txt
+  Failed: filter-the-calendar-view-1.png from https://framerusercontent.com/images/LriobroVdAhk2IsCbKm14ZZSj8E.png
+  Failed: filter-the-calendar-view-2.png from https://framerusercontent.com/images/NWS88WPCOwoIAvZXxXeZ1EaTB2M.png
+  Failed: filter-the-calendar-view-3.png from https://framerusercontent.com/images/AEe06ljoWBWF1cm9NG6A3SbVHNM.png
+PROCESSED: Filter the calendar view.txt -> Front Office Workflows/Calendar/calendar-filter-the-calendar-view.txt
+  Failed: add-attachments-to-patient-profile-1.png from https://framerusercontent.com/images/x6kK6qRlPCcSifKIhLW0xL4qBUg.png
+  Failed: add-attachments-to-patient-profile-2.png from https://framerusercontent.com/images/OoLM9J5JXozXdTiLYrecerqI6GQ.png
+  Failed: add-attachments-to-patient-profile-3.png from https://framerusercontent.com/images/lvbmBc2d5bNG598zE8fz4omBNn0.png
+  Failed: add-attachments-to-patient-profile-4.png from https://framerusercontent.com/images/HgN7fQYVbDcgPUKQJVyh76OcH54.png
+  Failed: add-attachments-to-patient-profile-5.png from https://framerusercontent.com/images/7ex6xno2N1HxWTrKzUGrFfagV4.png
+  Failed: add-attachments-to-patient-profile-6.png from https://framerusercontent.com/images/WL2VbPBOaAeQwGfLnGh84QBCpXE.png
+  Failed: add-attachments-to-patient-profile-7.png from https://framerusercontent.com/images/xrCMg3vAXdG6cc5ueQJNu2eKdhg.png
+PROCESSED: Add attachments to Patient Profile.txt -> Provider Workflows/Patient Profiles/patient-profiles-add-attachments-to-patient-profile.txt
+  Failed: how-to-cancel-pr-1.png from https://framerusercontent.com/images/0s4XQ93miC0kyaPZArzhLuG0dk.png
+  Failed: how-to-cancel-pr-2.png from https://framerusercontent.com/images/aDZrXlkeX8K9HwIJFvYUrdcKwM.png
+  Failed: how-to-cancel-pr-3.png from https://framerusercontent.com/images/KEUm19X55RlCB7Demcche08qmSY.png
+  Failed: how-to-cancel-pr-4.png from https://framerusercontent.com/images/yERbEEIXLyDsY4gismUOCJXKA.png
+PROCESSED: How to Cancel PR.txt -> Front Office Workflows/Patient Responsibility/patient-responsibility-how-to-cancel-pr.txt
+  Failed: attach-task-follow-ups-to-faxes-1.png from https://framerusercontent.com/images/9CVi0KWGBk50gp0pKECrja3VZaA.png
+  Failed: attach-task-follow-ups-to-faxes-2.png from https://framerusercontent.com/images/qXmrgaQEkgc5OQYyscAHGSCQ.png
+  Failed: attach-task-follow-ups-to-faxes-3.png from https://framerusercontent.com/images/Wpvf8ZKs9SudUNULLDRUx7rRns.png
+  Failed: attach-task-follow-ups-to-faxes-4.png from https://framerusercontent.com/images/TPa3jadyTj9roaXn7G7IaHZonqU.png
+  Failed: attach-task-follow-ups-to-faxes-5.png from https://framerusercontent.com/images/GH3m1k2psUPaTGQjB3Ql9j4IDhQ.png
+  Failed: attach-task-follow-ups-to-faxes-6.png from https://framerusercontent.com/images/0GoB8piZmxGxOEXhU54AlDrxrg.png
+  Failed: attach-task-follow-ups-to-faxes-7.png from https://framerusercontent.com/images/foyReH4nuqgLRvZlDzsC73AN8.png
+  Failed: attach-task-follow-ups-to-faxes-8.png from https://framerusercontent.com/images/tndGfW8rbawbf0ZHzW3Jknu0pY.png
+  Failed: attach-task-follow-ups-to-faxes-9.png from https://framerusercontent.com/images/KeIXPGyP7f4HehioCpYXk3ZRA.png
+  Failed: attach-task-follow-ups-to-faxes-10.png from https://framerusercontent.com/images/5uKkvxGTHcltaJ0m7iSethuaSsA.png
+  Failed: attach-task-follow-ups-to-faxes-11.png from https://framerusercontent.com/images/iO51eKv5RnEw18MMxoTRhltQAhg.png
+  Failed: attach-task-follow-ups-to-faxes-12.png from https://framerusercontent.com/images/wE2WHj9HbnYsOM4sU8dlqlq3rc.png
+  Failed: attach-task-follow-ups-to-faxes-13.png from https://framerusercontent.com/images/jnxg3aawHVpRYyMYoKZArsjXM.png
+  Failed: attach-task-follow-ups-to-faxes-14.png from https://framerusercontent.com/images/orNfyZy3nAw7Bq0f9vhPqg9Hv9s.png
+  Failed: attach-task-follow-ups-to-faxes-15.png from https://framerusercontent.com/images/87stBzuyaSdoYAP7fsY19BHupqQ.png
+PROCESSED: Attach Task Follow-ups to Faxes.txt -> Front Office Workflows/Faxing/faxing-attach-task-follow-ups-to-faxes.txt
+NO MATCH: Denials Worklist Page.txt - Title: 'Denials Worklist Page'
+  Failed: how-to-take-payment-for-families-1.png from https://framerusercontent.com/images/woQPu6llt5YQGNBN8i79pMSjiP0.png
+  Failed: how-to-take-payment-for-families-2.png from https://framerusercontent.com/images/sGV9y7OE3aQjdqQwTiY5y6z6JUg.png
+  Failed: how-to-take-payment-for-families-3.png from https://framerusercontent.com/images/7xgLaH4RuorezydluLzZKr50js.png
+  Failed: how-to-take-payment-for-families-4.png from https://framerusercontent.com/images/9fVKM4Xy0bRuxOX1sh3FdiZ2cuc.png
+PROCESSED: How to Take Payment for Families.txt -> Front Office Workflows/Patient Responsibility/patient-responsibility-how-to-take-payment-for-families.txt
+  Failed: complete-a-visit-with-air-scribe-1.png from https://framerusercontent.com/images/aKgtw0pA8I891fgcI79Oq9a6SWE.png
+  Failed: complete-a-visit-with-air-scribe-2.png from https://framerusercontent.com/images/dDYiW2hVj9AMQmGHx18nGEZmisE.png
+  Failed: complete-a-visit-with-air-scribe-3.png from https://framerusercontent.com/images/8GEGw5zyjhbMNnnOkTqZV01kis.png
+  Failed: complete-a-visit-with-air-scribe-4.png from https://framerusercontent.com/images/B16SKKUe5eCsg9IEQXBLCthQAA.png
+  Failed: complete-a-visit-with-air-scribe-5.png from https://framerusercontent.com/images/8GEvQzKdn1W31uT3EnaamBFLVI.png
+PROCESSED: Complete a Visit with Air Scribe.txt -> Provider Workflows/AI Scribe & Tooling/ai-scribe-tooling-complete-a-visit-with-air-scribe.txt
+  Failed: generate-a-transaction-report-1.png from https://framerusercontent.com/images/79aDtCvjO58cYY0mM8aOzEhCKs.png
+  Failed: generate-a-transaction-report-2.png from https://framerusercontent.com/images/VxOSqYXX22MxnDf3YHEkCRxefU.png
+  Failed: generate-a-transaction-report-3.png from https://framerusercontent.com/images/TvTdFBF51Bbyt9nYylU1OLfLY.png
+  Failed: generate-a-transaction-report-4.png from https://framerusercontent.com/images/FwPIngxkstvF3ZyMHp3xNfa3UTA.png
+PROCESSED: Generate a Transaction Report.txt -> Billing Workflows/Reports/reports-generate-a-transaction-report.txt
+  Failed: submissions-and-remits-1.png from https://framerusercontent.com/images/IOkQZHDcxaEAgzuKKqQYe8nUTE.png
+  Failed: submissions-and-remits-2.png from https://framerusercontent.com/images/1SvyncmvDxAISX9OXrdAfazOvYw.png
+  Failed: submissions-and-remits-3.png from https://framerusercontent.com/images/IUGXlJTIXIQX9wir1WLcR4E.png
+PROCESSED: Submissions and Remits.txt -> Front Office Workflows/Claim Details/claim-details-submissions-and-remits.txt
+  Failed: the-denials-analysis-page-1.png from https://framerusercontent.com/images/gQrAUHU8BlnULzIzP4V9O0t8Qs.png
+  Failed: the-denials-analysis-page-2.png from https://framerusercontent.com/images/yd8sHBlCzEJTs9NlR0ijT6UUsg.png
+  Failed: the-denials-analysis-page-3.png from https://framerusercontent.com/images/3CQN8c3g5knClRlKnOV7QqeFQ.png
+  Failed: the-denials-analysis-page-4.png from https://framerusercontent.com/images/Sp45EvS5p6etbWTMw1mgf8SYaw.png
+PROCESSED: The Denials Analysis Page.txt -> Billing Workflows/Analytics/analytics-the-denials-analysis-page.txt
+PROCESSED: Appt. Features not supported.txt -> Front Office Workflows/Appointments/appointments-appt-features-not-supported.txt
+  Failed: how-to-resubmit-claims-1.png from https://framerusercontent.com/images/oo1Ln6T1zzyxQbGlbW8ChaRLLI.png
+  Failed: how-to-resubmit-claims-2.png from https://framerusercontent.com/images/RhOFXdRzuwYCwHuIDsUoZzCQX34.png
+  Failed: how-to-resubmit-claims-3.png from https://framerusercontent.com/images/R5AQQJkt4Slu2m9E9sMawflV2b8.png
+PROCESSED: How to Resubmit Claim(s).txt -> Front Office Workflows/Patient Profiles/patient-profiles-how-to-resubmit-claims.txt
+  Failed: functional-outcome-measurements-1.png from https://framerusercontent.com/images/P0bsp7hw4iz7sIjo2d1sX2OCO8.png
+  Failed: functional-outcome-measurements-2.png from https://framerusercontent.com/images/1xHFkouHerMXKpJScdKS8WlC0.png
+  Failed: functional-outcome-measurements-3.png from https://framerusercontent.com/images/OZP5TPLeqwNNhX3buTMtRCslOE.png
+  Failed: functional-outcome-measurements-4.png from https://framerusercontent.com/images/tctCpSj3iXFZSqNl51OBtCFIQ.png
+  Failed: functional-outcome-measurements-5.png from https://framerusercontent.com/images/TtMJSfjmRqQwmfYmKqxrbEgxZ4.png
+  Failed: functional-outcome-measurements-6.png from https://framerusercontent.com/images/4MIZcEvmO29dwRVDotUNchWfXE.png
+  Failed: functional-outcome-measurements-7.png from https://framerusercontent.com/images/43DUjv1zLE1qMjg03iU9CPpLkbg.png
+  Failed: functional-outcome-measurements-8.png from https://framerusercontent.com/images/NpZQ8RO7anL9XkOE3Fa3ArHV2CQ.png
+  Failed: functional-outcome-measurements-9.png from https://framerusercontent.com/images/gXC4nlmWwNdZAtmuUORENl2qY3U.png
+  Failed: functional-outcome-measurements-10.png from https://framerusercontent.com/images/8lelQUVB7G5y9vYFzl4WjWdjI.png
+  Failed: functional-outcome-measurements-11.png from https://framerusercontent.com/images/pELPgwun9Wj23GwcDjKgSxbiAxQ.png
+  Failed: functional-outcome-measurements-12.png from https://framerusercontent.com/images/tTHVy23iyS57rd5DNNV6B8Ss.png
+  Failed: functional-outcome-measurements-13.png from https://framerusercontent.com/images/3qI72GCT0RHgSoc7RVzg6Unf34.png
+  Failed: functional-outcome-measurements-14.png from https://framerusercontent.com/images/0aGVjGwVUk29kPwvhjfghb5uAQ.png
+  Failed: functional-outcome-measurements-15.png from https://framerusercontent.com/images/FP35PHRk1jGgDULNchiMxLiSU98.png
+PROCESSED: Functional Outcome Measurements.txt -> Front Office Workflows/Patient Communications/patient-communications-functional-outcome-measurements.txt
+  Failed: patient-responsibility-page-1.png from https://framerusercontent.com/images/XnfivDVARqNjVzemj8Dxn2h8TA.png
+  Failed: patient-responsibility-page-2.png from https://framerusercontent.com/images/ihxMZ03L8enCDVYm3dLRlvrlkQ.png
+  Failed: patient-responsibility-page-3.png from https://framerusercontent.com/images/FF78UUmdCb1bZfjU7HUyo0d4Zc.png
+  Failed: patient-responsibility-page-4.png from https://framerusercontent.com/images/eGlm9x6RKfLw5MjEnmlV0OD8iU.png
+  Failed: patient-responsibility-page-5.png from https://framerusercontent.com/images/62p3m99Ifqtb6oxv8DNACilu4FQ.png
+  Failed: patient-responsibility-page-6.png from https://framerusercontent.com/images/oew25ribhPWqHDRC9ToOXoJDv0g.png
+  Failed: patient-responsibility-page-7.png from https://framerusercontent.com/images/MOFnacR0jzx6FkRHay8VCwKQkY.png
+  Failed: patient-responsibility-page-8.png from https://framerusercontent.com/images/Ls9LjBmia7nPCrE4M17iVjnToec.png
+PROCESSED: Patient Responsibility Page.txt -> Front Office Workflows/Patient Responsibility/patient-responsibility-patient-responsibility-page.txt
+  Failed: how-to-set-block-pr-rules-1.png from https://framerusercontent.com/images/tXVGeKeDcwtijqrp2dv6hR5gFQ.png
+  Failed: how-to-set-block-pr-rules-2.png from https://framerusercontent.com/images/8lTkCQd9VriQKXAhXbbPfak0c.png
+  Failed: how-to-set-block-pr-rules-3.png from https://framerusercontent.com/images/2OFp6TcnT9IpGRUI0KI76D1EZM.png
+PROCESSED: How to Set Block PR Rules.txt -> Billing Workflows/General Billing/general-billing-how-to-set-block-pr-rules.txt
+  Failed: how-to-push-to-pr-1.png from https://framerusercontent.com/images/yQs7TyzJLIyTsyWSG1gaLMlsPjk.png
+  Failed: how-to-push-to-pr-2.png from https://framerusercontent.com/images/q4McsuN7hahBw4KRbCAxiBVPiRo.png
+  Failed: how-to-push-to-pr-3.png from https://framerusercontent.com/images/xFnQBr7KsIfq9tIzHK5TsIGbxWE.png
+  Failed: how-to-push-to-pr-4.png from https://framerusercontent.com/images/KPG1phYe5hyDn7Pywvlkonfg.png
+  Failed: how-to-push-to-pr-5.png from https://framerusercontent.com/images/NNIfhlNnuGMTFOvNV5hrSGE02I.png
+  Failed: how-to-push-to-pr-6.png from https://framerusercontent.com/images/9pefBbY4hRfoTUzF14vBKNx6Th8.png
+PROCESSED: How to Push to PR.txt -> Front Office Workflows/Patient Responsibility/patient-responsibility-how-to-push-to-pr.txt
+  Failed: setting-up-a-payment-plan-1.png from https://framerusercontent.com/images/Ir472NjstAsyj13k814RmbHvnQ.png
+  Failed: setting-up-a-payment-plan-2.png from https://framerusercontent.com/images/zyFaVDYKCR1HhhjaZtWP1PpiB0.png
+  Failed: setting-up-a-payment-plan-3.png from https://framerusercontent.com/images/bVVO9ExWrxc8E6WZcWP1MYV7RQ.png
+  Failed: setting-up-a-payment-plan-4.png from https://framerusercontent.com/images/X8mljLPW4E8DtefMguj6YepEA.png
+PROCESSED: Setting up a Payment Plan.txt -> Front Office Workflows/Patient Responsibility/patient-responsibility-setting-up-a-payment-plan.txt
+NO MATCH: Understanding Submission Errors.txt - Title: 'Understanding Submission Errors'
+  Failed: getting-started-with-patient-portal-1.png from https://framerusercontent.com/images/aHZRfKzZe8bw44QOHJVswI0Y1pE.png
+PROCESSED: Getting Started with Patient Portal.txt -> Front Office Workflows/Patient Communications/patient-communications-getting-started-with-patient-portal.txt
+  Failed: chart-note-clinical-types-1.png from https://framerusercontent.com/images/yEdivWzvYZAo940cQnS8Xa2GxM.png
+PROCESSED: Chart Note Clinical Types.txt -> Provider Workflows/Chart Notes/chart-notes-chart-note-clinical-types.txt
+  Failed: navigating-inbox-workflows-1.png from https://framerusercontent.com/images/jULOU7eZgkJbEP13P2xmLrGVHwY.png
+PROCESSED: Navigating Inbox Workflows.txt -> Provider Workflows/Chart Notes/chart-notes-navigating-inbox-workflows.txt
+  Failed: modify-calendar-views-1.png from https://framerusercontent.com/images/8E02cbMUAqkvynN0ZkLp9OfoUI.png
+PROCESSED: Modify calendar views.txt -> Front Office Workflows/Calendar/calendar-modify-calendar-views.txt
+  Failed: how-to-receive-messages-1.png from https://framerusercontent.com/images/opgXoPJnxWuzq4ntJ7l40JgD8xc.png
+  Failed: how-to-receive-messages-2.png from https://framerusercontent.com/images/Etb7wSjTfKb3eo3FJXu6v6V2eM.png
+PROCESSED: How to receive messages.txt -> Front Office Workflows/Messaging/messaging-how-to-receive-messages.txt
+  Failed: self-service-credentialing-1.png from https://framerusercontent.com/images/VQypfBeE4bhdRP9az3rSPXN6nY.png
+  Failed: self-service-credentialing-2.png from https://framerusercontent.com/images/5erkl8aUfNWE5rNxvmAViO2nZ4.png
+  Failed: self-service-credentialing-3.png from https://framerusercontent.com/images/vcMC8RVzDgb5yXujFromAHS5Jms.png
+  Failed: self-service-credentialing-4.png from https://framerusercontent.com/images/mU6jrANt1F6yZS82YlDV0KwK9Qk.png
+  Failed: self-service-credentialing-5.png from https://framerusercontent.com/images/J0WccsTAUBf3pW9YH4eOOhFVk.png
+  Failed: self-service-credentialing-6.png from https://framerusercontent.com/images/lQSUd2KV0YiCENQXDUZp1Npkj0.png
+  Failed: self-service-credentialing-7.png from https://framerusercontent.com/images/rvmJXO1Amwc55FeU49LTvp8.gif
+  Failed: self-service-credentialing-8.png from https://framerusercontent.com/images/7926Z6Lul4Ss7TxNU1UOmOo.png
+  Failed: self-service-credentialing-9.png from https://framerusercontent.com/images/5GfrSXgOrzD8T7fzcGDg3CHlzns.png
+PROCESSED: Self-service Credentialing.txt -> Front Office Workflows/Utilities/utilities-self-service-credentialing.txt
+  Failed: make-an-outbound-call-1.png from https://framerusercontent.com/images/luuZi1YSKIUGMaLCF5xyLToGSXY.png
+PROCESSED: Make an Outbound Call.txt -> Front Office Workflows/Agents Center/agents-center-make-an-outbound-call.txt
+  Failed: understanding-use-cases-1.png from https://framerusercontent.com/images/mRt552gZYyPPTanrEOtdSrqXL0.gif
+  Failed: understanding-use-cases-2.png from https://framerusercontent.com/images/83S1v72JZDvnQOMBK2hakJjgm40.png
+  Failed: understanding-use-cases-3.png from https://framerusercontent.com/images/qBBUwvsfxnNokehOBP0Uro5pvOQ.gif
+  Failed: understanding-use-cases-4.png from https://framerusercontent.com/images/LKvjd0ebgXrSbhR96lo7Ywjbts.gif
+PROCESSED: Understanding Use Cases.txt -> Front Office Workflows/Agents Center/agents-center-understanding-use-cases.txt
+  Failed: addedit-a-patients-insurance-1.png from https://framerusercontent.com/images/IBSciKaBSu98RBqxJCGnk5cj8YU.png
+  Failed: addedit-a-patients-insurance-2.png from https://framerusercontent.com/images/3mtoqYgrZyyyx5eDwV6tMnpOCM.png
+  Failed: addedit-a-patients-insurance-3.png from https://framerusercontent.com/images/ZRYSUTIRyJOiOIuQe9uL1MBX3Yg.png
+  Failed: addedit-a-patients-insurance-4.png from https://framerusercontent.com/images/6WzGK4wEGJWH09bF2tYt9J4s.png
+  Failed: addedit-a-patients-insurance-5.png from https://framerusercontent.com/images/DH6J1X4kleTLrRpWFPX6INaiFcc.png
+  Failed: addedit-a-patients-insurance-6.png from https://framerusercontent.com/images/9zEtkIfQlpJCP06gZT86Wg4MDUY.png
+  Failed: addedit-a-patients-insurance-7.png from https://framerusercontent.com/images/3fV4Ij15ryyxHX2yEF1tz9z8.png
+PROCESSED: Add_edit a Patient's Insurance.txt -> Front Office Workflows/Patient Demographics/patient-demographics-addedit-a-patients-insurance.txt
+  Failed: send-patient-statements-via-emailtext-1.png from https://framerusercontent.com/images/Hf1i3xJV8WFPwsT66TfqYv2oW4.png
+  Failed: send-patient-statements-via-emailtext-2.png from https://framerusercontent.com/images/vjGSzrZhVJFkbrVcyyzdPrgiBs.png
+  Failed: send-patient-statements-via-emailtext-3.png from https://framerusercontent.com/images/oHKoGa8lz7nY52NV08sD2DQd0l0.png
+  Failed: send-patient-statements-via-emailtext-4.png from https://framerusercontent.com/images/PkLOy5SqcUyvl4XWvI38PbYMRM.png
+  Failed: send-patient-statements-via-emailtext-5.png from https://framerusercontent.com/images/A8H1lgKfLEltPdPFK4HpFzmQSU.png
+  Failed: send-patient-statements-via-emailtext-6.png from https://framerusercontent.com/images/YBeBCzPouTO96ASgpSj5lAm9hDY.png
+  Failed: send-patient-statements-via-emailtext-7.png from https://framerusercontent.com/images/dPGZsBlJovd7WlwipO60YFb5Og4.png
+  Failed: send-patient-statements-via-emailtext-8.png from https://framerusercontent.com/images/rW01EYWbtvCKUPm4QklV637sqko.png
+  Failed: send-patient-statements-via-emailtext-9.png from https://framerusercontent.com/images/2jpyz1Wal74O8XMunRmDhkIU8I.png
+  Failed: send-patient-statements-via-emailtext-10.png from https://framerusercontent.com/images/5OhWqSf9woKi0mB9qgDkDnZQ1Eg.png
+  Failed: send-patient-statements-via-emailtext-11.png from https://framerusercontent.com/images/5OhWqSf9woKi0mB9qgDkDnZQ1Eg.png
+  Failed: send-patient-statements-via-emailtext-12.png from https://framerusercontent.com/images/R8QmNzAL1NkMLPfBPeVuLRxLBLM.png
+PROCESSED: Send Patient Statements via Email_Text.txt -> Front Office Workflows/Patient Statements/patient-statements-send-patient-statements-via-emailtext.txt
+  Failed: getting-started-with-your-rcm-assistant-1.png from https://framerusercontent.com/images/uqRjj8G6MMMcIw0yLnhNBE6yLg.png
+  Failed: getting-started-with-your-rcm-assistant-2.png from https://framerusercontent.com/images/4H0JipP65DGGbuF00TlyVAh1g.png
+  Failed: getting-started-with-your-rcm-assistant-3.png from https://framerusercontent.com/images/8wTJ4wwjAFCdjVSShyj2TjETxHM.png
+  Failed: getting-started-with-your-rcm-assistant-4.png from https://framerusercontent.com/images/VJfeI4YMb58LMo3BBuMiNoQPIog.png
+PROCESSED: Getting Started With Your RCM Assistant.txt -> Billing Workflows/Athelas Assistant/athelas-assistant-getting-started-with-your-rcm-assistant.txt
+  Failed: encounter-timeline-for-claims-1.png from https://framerusercontent.com/images/sxw9H0o1OcHRZHMljblrCkF8Ag.png
+  Failed: encounter-timeline-for-claims-2.png from https://framerusercontent.com/images/DI6B9hwAhxaLkprzm8i16DEmcE.png
+  Failed: encounter-timeline-for-claims-3.png from https://framerusercontent.com/images/Gsn9Cf2VqRbYzxP7GR8X2NL2nEA.png
+  Failed: encounter-timeline-for-claims-4.png from https://framerusercontent.com/images/ymXRSREx6EY0ivyu2tGJDea6OB8.png
+  Failed: encounter-timeline-for-claims-5.png from https://framerusercontent.com/images/KT6fr6fAIaS3WD67XGUQ6Cwk1I.png
+  Failed: encounter-timeline-for-claims-6.png from https://framerusercontent.com/images/UyroXEDrL0anZeY90bXbUVF5I.png
+  Failed: encounter-timeline-for-claims-7.png from https://framerusercontent.com/images/8ltOkSDAZUj9QvulmI0udn2UlE4.png
+  Failed: encounter-timeline-for-claims-8.png from https://framerusercontent.com/images/r4S82HJqjqYXBCe5tnOcA1ER5I.png
+  Failed: encounter-timeline-for-claims-9.png from https://framerusercontent.com/images/qN2G06HosXJOSuL62GFWYlKxCM.png
+  Failed: encounter-timeline-for-claims-10.png from https://framerusercontent.com/images/pWJuK0sNZpcHa1VSVQtnp9UeNoE.png
+PROCESSED: Encounter Timeline for Claims.txt -> Front Office Workflows/Claim Details/claim-details-encounter-timeline-for-claims.txt
+PROCESSED: Other Submission Types (Secondary, Specialty etc).txt -> Front Office Workflows/Claim Details/claim-details-other-submission-types-secondary-specialty-etc.txt
+  Failed: how-to-update-insurance-1.png from https://framerusercontent.com/images/mSqWRt3oIk9OsiBTIN4C7cTR5IA.png
+  Failed: how-to-update-insurance-2.png from https://framerusercontent.com/images/Jr6NxEFsgF1ITd6D8DbcWhNU.png
+  Failed: how-to-update-insurance-3.png from https://framerusercontent.com/images/AHcr2ZzwHUnIw0jACcnDieyGjlA.png
+  Failed: how-to-update-insurance-4.png from https://framerusercontent.com/images/sUJTuc1l5A6HFMYXPBA06MWDmQ.png
+  Failed: how-to-update-insurance-5.png from https://framerusercontent.com/images/ITzZiI6oS09I6n9IjEpfQnb3s.png
+  Failed: how-to-update-insurance-6.png from https://framerusercontent.com/images/8c4NvAkouvoPyet3FuSAIINoHcs.png
+  Failed: how-to-update-insurance-7.png from https://framerusercontent.com/images/SeIZjO8LoJHgniGSwpOirbTs.png
+PROCESSED: How to Update Insurance.txt -> Front Office Workflows/Encounter Details/encounter-details-how-to-update-insurance.txt
+  Failed: how-to-take-payments-1.png from https://framerusercontent.com/images/9xRgCJwivMU2eP1nBDQ8hue8h88.png
+  Failed: how-to-take-payments-2.png from https://framerusercontent.com/images/qntULwyZCP8GfFK0YldwU7N5SdQ.png
+  Failed: how-to-take-payments-3.png from https://framerusercontent.com/images/4gKHLKcEsFIwE7owIzzOyTUnts.png
+  Failed: how-to-take-payments-4.png from https://framerusercontent.com/images/ZZoeznwhYuJFzJbtqfIZHbHfI8.png
+  Failed: how-to-take-payments-5.png from https://framerusercontent.com/images/sdbNmaxASPMnIMUf5NR7Wvlet90.png
+  Failed: how-to-take-payments-6.png from https://framerusercontent.com/images/0A5YmNtCY0FhdvOoSjlU5UmnfyA.png
+  Failed: how-to-take-payments-7.png from https://framerusercontent.com/images/ZZoeznwhYuJFzJbtqfIZHbHfI8.png
+  Failed: how-to-take-payments-8.png from https://framerusercontent.com/images/mTqKsLdz3AXKOCyzNAnh1sYr3H4.png
+  Failed: how-to-take-payments-9.png from https://framerusercontent.com/images/fY8QyRdkocm2fd42rPNuIHqRdo.png
+  Failed: how-to-take-payments-10.png from https://framerusercontent.com/images/RgHCOoSUGDnyF0oHTEn32iMAeY.png
+PROCESSED: How to Take Payments.txt -> Front Office Workflows/Appointments/appointments-how-to-take-payments.txt
+  Failed: the-billing-rules-engine-1.png from https://framerusercontent.com/images/g7VDqtCUtytMWQjO3GUr4U0kk.png
+  Failed: the-billing-rules-engine-2.png from https://framerusercontent.com/images/mmnoPTFoEN5SEInwnpdb8TADyk.png
+  Failed: the-billing-rules-engine-3.png from https://framerusercontent.com/images/cXL0I9hGzi6SX7HwtOFjT92kIY.png
+  Failed: the-billing-rules-engine-4.png from https://framerusercontent.com/images/7coupyo69UrAndzV196dRhxvdsQ.png
+PROCESSED: The Billing Rules Engine.txt -> Billing Workflows/General Billing/general-billing-the-billing-rules-engine.txt
+  Failed: measuring-performance-1.png from https://framerusercontent.com/images/9jvHLMrEO4ekUcsX0taayrIEI.png
+  Failed: measuring-performance-2.png from https://framerusercontent.com/images/pPgRoxh9I19kSmQ8yC6O0aIqw0.png
+  Failed: measuring-performance-3.png from https://framerusercontent.com/images/GmUSyMehGV7VAl6j5AKIdvwPkM.png
+  Failed: measuring-performance-4.png from https://framerusercontent.com/images/Wn7dDYNX8qVWFSwpCpgIoNfSHg.png
+  Failed: measuring-performance-5.png from https://framerusercontent.com/images/KYdMNYekESczqTtPBPlg8tuxq9c.png
+  Failed: measuring-performance-6.png from https://framerusercontent.com/images/MEbvxu0lBrtNSk034U46JEDAkeY.png
+PROCESSED: Measuring Performance.txt -> Owners & Administration/Reporting/reporting-measuring-performance.txt
+  Failed: ar-reports-1.png from https://framerusercontent.com/images/5tkKqOZRcL1WC9U0ff6HIRFQnRo.png
+  Failed: ar-reports-2.png from https://framerusercontent.com/images/Uar53vd7OfLfLTVdhYBAB6GtSo.png
+  Failed: ar-reports-3.png from https://framerusercontent.com/images/1h0TNMP78Soc5S7hIccm3XZTE.png
+  Failed: ar-reports-4.png from https://framerusercontent.com/images/v4EHSvSuxbvV28F3Bz5PUcUHJFA.png
+  Failed: ar-reports-5.png from https://framerusercontent.com/images/5tkKqOZRcL1WC9U0ff6HIRFQnRo.png
+PROCESSED: A_R Reports.txt -> Billing Workflows/Reports/reports-ar-reports.txt
+  Failed: components-of-the-dashboard-1.png from https://framerusercontent.com/images/LKvjd0ebgXrSbhR96lo7Ywjbts.gif
+  Failed: components-of-the-dashboard-2.png from https://framerusercontent.com/images/ky2vX3jY7AzHNjGB4RcswoO74.png
+  Failed: components-of-the-dashboard-3.png from https://framerusercontent.com/images/xJL6HCQ0zjjLIJpFLEjZdNgL6ko.gif
+  Failed: components-of-the-dashboard-4.png from https://framerusercontent.com/images/XogU1Pt0WgbTYeCKMNDM8fhdG8.png
+  Failed: components-of-the-dashboard-5.png from https://framerusercontent.com/images/mRt552gZYyPPTanrEOtdSrqXL0.gif
+PROCESSED: Components of the Dashboard.txt -> Front Office Workflows/Agents Center/agents-center-components-of-the-dashboard.txt
+  Failed: getting-started-with-chart-notes-1.png from https://framerusercontent.com/images/fPM9uGpJ3So7sJ9foBHkngrer8M.png
+PROCESSED: Getting Started with Chart Notes.txt -> Provider Workflows/Chart Notes/chart-notes-getting-started-with-chart-notes.txt
+  Failed: set-up-custom-chart-note-templates-1.png from https://framerusercontent.com/images/QpVvWpRGYVFpSDrlRju54o5UX4.png
+  Failed: set-up-custom-chart-note-templates-2.png from https://framerusercontent.com/images/dSKIQIrl2SD7gcZSFBrsYUd2anw.png
+  Failed: set-up-custom-chart-note-templates-3.png from https://framerusercontent.com/images/4r09iq6KKzi8Js6ujcDY1aQns.png
+  Failed: set-up-custom-chart-note-templates-4.png from https://framerusercontent.com/images/lCYcaOgnPdB1xdhqQ30fGEwrVX0.png
+  Failed: set-up-custom-chart-note-templates-5.png from https://framerusercontent.com/images/FEnNUIUH3nuLfgokpeWexgAw6g.png
+  Failed: set-up-custom-chart-note-templates-6.png from https://framerusercontent.com/images/53TexwXj3uc2HQveIn1ZO6EK1I.png
+  Failed: set-up-custom-chart-note-templates-7.png from https://framerusercontent.com/images/3pdTVySQUkrPw2rrlcy5pnFRW9c.png
+  Failed: set-up-custom-chart-note-templates-8.png from https://framerusercontent.com/images/nlOFlXvLhW1wcuqMFmb36YoVsU.png
+  Failed: set-up-custom-chart-note-templates-9.png from https://framerusercontent.com/images/JxrJtSsfLThuphLbZ3b5CmKXrM.png
+  Failed: set-up-custom-chart-note-templates-10.png from https://framerusercontent.com/images/53TexwXj3uc2HQveIn1ZO6EK1I.png
+  Failed: set-up-custom-chart-note-templates-11.png from https://framerusercontent.com/images/opT64tiXfLO14XwxcOicgPBRPhQ.png
+  Failed: set-up-custom-chart-note-templates-12.png from https://framerusercontent.com/images/G8JA2HbDYENukvD0ta21d4Lpa8g.png
+  Failed: set-up-custom-chart-note-templates-13.png from https://framerusercontent.com/images/KprQSFf3SsfeSUHqBm3lCPoJEc.png
+  Failed: set-up-custom-chart-note-templates-14.png from https://framerusercontent.com/images/heKw8Sc9xbdvyBMDcbcxaCVk.png
+PROCESSED: Set up Custom Chart Note Templates.txt -> Provider Workflows/Chart Notes/chart-notes-set-up-custom-chart-note-templates.txt
+  Failed: how-to-create-suggested-pr-rules-1.png from https://framerusercontent.com/images/SNTsGdh2OQkKmU5JY4YHXZAFyU.png
+  Failed: how-to-create-suggested-pr-rules-2.png from https://framerusercontent.com/images/hMWHFPieHp4fn2LqTRE2fX5Emg.png
+  Failed: how-to-create-suggested-pr-rules-3.png from https://framerusercontent.com/images/lxquP0h3G3x2v67sZ4xW3kKnZlg.png
+  Failed: how-to-create-suggested-pr-rules-4.png from https://framerusercontent.com/images/lVHoQ9TH1qc58ACj93AHKoM8X0.png
+  Failed: how-to-create-suggested-pr-rules-5.png from https://framerusercontent.com/images/lisze7xA9JrIPA2BwDyccwYDno.png
+  Failed: how-to-create-suggested-pr-rules-6.png from https://framerusercontent.com/images/N4I5xKdzRac1kp66CVqiijJco.png
+  Failed: how-to-create-suggested-pr-rules-7.png from https://framerusercontent.com/images/uTs5eZ1xjago7tzaCp9Vj1qtMWU.png
+PROCESSED: How to Create Suggested PR Rules.txt -> Billing Workflows/Front Office Payments/front-office-payments-how-to-create-suggested-pr-rules.txt
+  Failed: manage-staff-permissions-1.png from https://framerusercontent.com/images/bBBYjA1Jxam7IhXYqhEQCF4SQ.png
+  Failed: manage-staff-permissions-2.png from https://framerusercontent.com/images/gtWDXVNPlF8fHO4X9lFkvXK8.png
+PROCESSED: Manage Staff & Permissions.txt -> Owners & Administration/My Practice/my-practice-manage-staff-permissions.txt
+  Failed: how-to-post-a-remittance-manually-1.png from https://framerusercontent.com/images/vfaM7ZWSPckYRINEQsVAbLiT0T0.png
+  Failed: how-to-post-a-remittance-manually-2.png from https://framerusercontent.com/images/HosO5noEj9cXUgk8abB4CfuyLI.png
+  Failed: how-to-post-a-remittance-manually-3.png from https://framerusercontent.com/images/PRse9s7VY6Ucwn0ni26fzVHNAB4.png
+  Failed: how-to-post-a-remittance-manually-4.png from https://framerusercontent.com/images/BTM6FT834jhG9eAKP5gyd501Fw.png
+  Failed: how-to-post-a-remittance-manually-5.png from https://framerusercontent.com/images/PjAKx0amC57CjFVdGoA3QD4jIt8.png
+  Failed: how-to-post-a-remittance-manually-6.png from https://framerusercontent.com/images/JtA0Yb6pq6vIE7pbABz5gQNl8.png
+PROCESSED: How to Post a Remittance Manually.txt -> Front Office Workflows/Posting/posting-how-to-post-a-remittance-manually.txt
+  Failed: patient-eligibility-report-1.png from https://framerusercontent.com/images/qOILmB5m8EP9tAvdjgev211BCo.png
+PROCESSED: Patient Eligibility Report.txt -> Billing Workflows/Reports/reports-patient-eligibility-report.txt
+PROCESSED: View Home Exercise Programs.txt -> Front Office Workflows/Patient Communications/patient-communications-view-home-exercise-programs.txt
+NO MATCH: Navigating your lead tracker.txt - Title: 'Navigating your lead tracker'
+  Failed: send-and-receive-a-fax-1.png from https://framerusercontent.com/images/jYKDPD5E1dnYvBgOUUWdazSNXd8.png
+  Failed: send-and-receive-a-fax-2.png from https://framerusercontent.com/images/H6Bpf1kozEt8bGk4kWES4PdAoI.png
+  Failed: send-and-receive-a-fax-3.png from https://framerusercontent.com/images/5bC09EJRMpTcJa84umlHixOKIA.png
+  Failed: send-and-receive-a-fax-4.png from https://framerusercontent.com/images/wQOQk1xOr1XJzGo6MeD1nBELWQ.png
+  Failed: send-and-receive-a-fax-5.png from https://framerusercontent.com/images/BsWQXrLpmhj9TmrCToMxuOuF9og.png
+  Failed: send-and-receive-a-fax-6.png from https://framerusercontent.com/images/7doBikhxGodltYzAOHXH5y1Krpk.png
+  Failed: send-and-receive-a-fax-7.png from https://framerusercontent.com/images/cC3bgqMpGWbiommn5bk62uccmW4.png
+  Failed: send-and-receive-a-fax-8.png from https://framerusercontent.com/images/AO3irstIIF2LaRLwt0kZUTEyI.png
+PROCESSED: Send and Receive a Fax.txt -> Front Office Workflows/Faxing/faxing-send-and-receive-a-fax.txt
+  Failed: how-to-find-and-edit-a-patients-profile-1.png from https://framerusercontent.com/images/DMvwlU5r8laY3Ruth7rR3TtJJ0.png
+  Failed: how-to-find-and-edit-a-patients-profile-2.png from https://framerusercontent.com/images/w4JEhyP1PLyMqxpgAwzTCctksI.png
+  Failed: how-to-find-and-edit-a-patients-profile-3.png from https://framerusercontent.com/images/pwt6pzyzxf02Nnlq0ERXoJWOwI.png
+  Failed: how-to-find-and-edit-a-patients-profile-4.png from https://framerusercontent.com/images/mWkVanfn979bKMPMdBrMiCz5foA.png
+  Failed: how-to-find-and-edit-a-patients-profile-5.png from https://framerusercontent.com/images/gO0r1pQenwZQEQJ4erHC1tvoSH4.png
+  Failed: how-to-find-and-edit-a-patients-profile-6.png from https://framerusercontent.com/images/MyNl10jjMOqXoELOnGPkK8qqjw.png
+  Failed: how-to-find-and-edit-a-patients-profile-7.png from https://framerusercontent.com/images/emBnAxCqtuw2PAMQCDIUvrhtDDk.png
+  Failed: how-to-find-and-edit-a-patients-profile-8.png from https://framerusercontent.com/images/kOSsMNmT1itEBlGmygMzxEBEzE.png
+  Failed: how-to-find-and-edit-a-patients-profile-9.png from https://framerusercontent.com/images/YAFyMILEMzTEqJmiNTEFsAou4.png
+PROCESSED: How to Find and Edit a Patient’s Profile.txt -> Front Office Workflows/Patient Profiles/patient-profiles-how-to-find-and-edit-a-patients-profile.txt
+  Failed: tying-faxes-to-patients-1.png from https://framerusercontent.com/images/HbIV57wP9A5EnkVi88mMFPZYrlo.png
+  Failed: tying-faxes-to-patients-2.png from https://framerusercontent.com/images/85SConxcaL4mpRKNS6vSdDzp9E.png
+PROCESSED: Tying Faxes to Patients.txt -> Front Office Workflows/Faxing/faxing-tying-faxes-to-patients.txt
+  Failed: the-review-charges-page-1.png from https://framerusercontent.com/images/AdVo7AYtS8IQ3B9wP0YiqiQGOBo.png
+  Failed: the-review-charges-page-2.png from https://framerusercontent.com/images/3fjbuQH4S15mlOv3NkBqWPC684w.png
+  Failed: the-review-charges-page-3.png from https://framerusercontent.com/images/zQGaMvV4tGO2VTa0uCAcTXD2Y.png
+  Failed: the-review-charges-page-4.png from https://framerusercontent.com/images/dXHMkQbayfVjm9eti6me4Meokac.png
+  Failed: the-review-charges-page-5.png from https://framerusercontent.com/images/qozSJxVi117S8R5EhraKbTJlg.png
+  Failed: the-review-charges-page-6.png from https://framerusercontent.com/images/IdnhuSI5DGFfkXEII7Pm3zrCS7U.png
+  Failed: the-review-charges-page-7.png from https://framerusercontent.com/images/RpU6eVETW9RSIlGC1lTaCxriT0.png
+  Failed: the-review-charges-page-8.png from https://framerusercontent.com/images/tK8fucrkaEMYkv7Pl0vKqR0u6M.png
+  Failed: the-review-charges-page-9.png from https://framerusercontent.com/images/YVvR3fMSi6okCprDGNbMhIVTY4E.png
+  Failed: the-review-charges-page-10.png from https://framerusercontent.com/images/izTGmClyCvAmbNX7tJVAs2v4lM.png
+  Failed: the-review-charges-page-11.png from https://framerusercontent.com/images/hT6XAOjBMPy5wVu7cjhIoJEuw.png
+  Failed: the-review-charges-page-12.png from https://framerusercontent.com/images/R1Uaai40WmgJA653BFzdwuCoUbQ.png
+  Failed: the-review-charges-page-13.png from https://framerusercontent.com/images/saO1pzWOWYOmMmhnios4XTRTtO0.png
+  Failed: the-review-charges-page-14.png from https://framerusercontent.com/images/YdgncYPpVOJW13uAHEANptFUFc.png
+  Failed: the-review-charges-page-15.png from https://framerusercontent.com/images/wYf0yEdCxGMpHdOJPwlvRGmpQQ.png
+  Failed: the-review-charges-page-16.png from https://framerusercontent.com/images/LONGcZPDtcGKGuPSRXHcumgDPXQ.png
+  Failed: the-review-charges-page-17.png from https://framerusercontent.com/images/F415dl7HlLhHoFrhsQYDo5bJTzA.png
+PROCESSED: The Review Charges Page.txt -> Billing Workflows/General Billing/general-billing-the-review-charges-page.txt
+  Failed: how-to-set-up-miscellaneous-line-item-charges-1.png from https://framerusercontent.com/images/21sSiINS6uGzQvEJvM7rYSduk4A.png
+  Failed: how-to-set-up-miscellaneous-line-item-charges-2.png from https://framerusercontent.com/images/AE6k8FEaQ3mQKJmEE7kQHvFq99g.png
+  Failed: how-to-set-up-miscellaneous-line-item-charges-3.png from https://framerusercontent.com/images/Pa10Wm8hhKMABQBhcEvsu89q5Wc.png
+  Failed: how-to-set-up-miscellaneous-line-item-charges-4.png from https://framerusercontent.com/images/PT0WVGCdJlPVz1YRi4bSVUQUqg.png
+  Failed: how-to-set-up-miscellaneous-line-item-charges-5.png from https://framerusercontent.com/images/FSCCchS2QehcMk3CKuNO1ZR5Q.png
+  Failed: how-to-set-up-miscellaneous-line-item-charges-6.png from https://framerusercontent.com/images/ZerhDBZ1L1exLUo9Ynkstmj66Y.png
+  Failed: how-to-set-up-miscellaneous-line-item-charges-7.png from https://framerusercontent.com/images/HaEadC13Fhtiglfn8QABHFFhIA.png
+  Failed: how-to-set-up-miscellaneous-line-item-charges-8.png from https://framerusercontent.com/images/tAuESy58BiiMjSmX5niB7EcKz5w.png
+PROCESSED: How to Set Up Miscellaneous Line Item Charges.txt -> Front Office Workflows/Patient Responsibility/patient-responsibility-how-to-set-up-miscellaneous-line-item-charges.txt
+  Failed: site-transaction-report-summary-1.png from https://framerusercontent.com/images/tywA0R0eNN34PDC9WAkgyyP3shk.png
+  Failed: site-transaction-report-summary-2.png from https://framerusercontent.com/images/F5kg4bsnXVXXm8lV1t1JZs2akE.png
+PROCESSED: Site Transaction Report Summary.txt -> Billing Workflows/Reports/reports-site-transaction-report-summary.txt
+NO MATCH: RCM Integrations Overview.txt - Title: 'RCM Integrations Overview'
+  Failed: patient-intake-automation-1.png from https://framerusercontent.com/images/nkLQU55Xj41YQ04oYSx5wtjzfYw.png
+PROCESSED: Patient Intake Automation.txt -> Front Office Workflows/Patient Communications/patient-communications-patient-intake-automation.txt
+  Failed: send-email-statements-1.png from https://framerusercontent.com/images/woQPu6llt5YQGNBN8i79pMSjiP0.png
+  Failed: send-email-statements-2.png from https://framerusercontent.com/images/RZNVEMiAOckO56VqGFLd6r62g.png
+  Failed: send-email-statements-3.png from https://framerusercontent.com/images/YSjuohBJkRoxl0j1Z8buydvumZA.png
+PROCESSED: Send Email Statements.txt -> Front Office Workflows/Patient Statements/patient-statements-send-email-statements.txt
+PROCESSED: Athelas Assistant Common Functionalities.txt -> Provider Workflows/Athelas Assistant/athelas-assistant-athelas-assistant-common-functionalities.txt
+  Failed: claim-adjustments-report-1.png from https://framerusercontent.com/images/hYkjmnxwHb3ihzuTKxEe74jZZs.png
+PROCESSED: Claim Adjustments Report.txt -> Billing Workflows/Reports/reports-claim-adjustments-report.txt
+NO MATCH: How (and When) to Use the Quick Purchase Function.txt - Title: 'How (and When) to Use the Quick Purchase Function'
+  Failed: getting-started-with-athelas-assistant-1.png from https://framerusercontent.com/images/y4GDo9xcTqkc3c7mzboyvudjso.png
+  Failed: getting-started-with-athelas-assistant-2.png from https://framerusercontent.com/images/bQnVn5EGSPqT1XcvGrKO8hNnpE.png
+  Failed: getting-started-with-athelas-assistant-3.png from https://framerusercontent.com/images/V6nGpjMQ4do7D1uR3Ma7JhBJzg8.png
+  Failed: getting-started-with-athelas-assistant-4.png from https://framerusercontent.com/images/O57kkQga9MGyXs74yK7A3cEoJTY.png
+PROCESSED: Getting Started with Athelas Assistant.txt -> Provider Workflows/Athelas Assistant/athelas-assistant-getting-started-with-athelas-assistant.txt

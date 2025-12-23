@@ -1,0 +1,1287 @@
+Image Download Log
+==================================================
+
+  Downloaded: how-to-use-universal-search-in-insights-1.png
+  Downloaded: how-to-use-universal-search-in-insights-2.png
+  Downloaded: how-to-use-universal-search-in-insights-3.png
+  Downloaded: how-to-use-universal-search-in-insights-4.png
+PROCESSED: How to Use Universal Search in Insights.txt - Downloaded 4/4 images
+  Downloaded: how-to-request-via-text-or-email-1.png
+  Downloaded: how-to-request-via-text-or-email-2.png
+  Downloaded: how-to-request-via-text-or-email-3.png
+  Downloaded: how-to-request-via-text-or-email-4.png
+  Downloaded: how-to-request-via-text-or-email-5.png
+  Downloaded: how-to-request-via-text-or-email-6.png
+  Downloaded: how-to-request-via-text-or-email-7.png
+  Downloaded: how-to-request-via-text-or-email-8.png
+  Downloaded: how-to-request-via-text-or-email-9.png
+  Downloaded: how-to-request-via-text-or-email-10.png
+  Downloaded: how-to-request-via-text-or-email-11.png
+PROCESSED: How to Request via Text or Email.txt - Downloaded 11/11 images
+  Downloaded: how-to-resubmit-claims-in-bulk-1.png
+  Downloaded: how-to-resubmit-claims-in-bulk-2.png
+  Downloaded: how-to-resubmit-claims-in-bulk-3.png
+  Downloaded: how-to-resubmit-claims-in-bulk-4.png
+  Downloaded: how-to-resubmit-claims-in-bulk-5.png
+PROCESSED: How to Resubmit Claims in Bulk.txt - Downloaded 5/5 images
+  Downloaded: encounter-stage-and-status-1.png
+  Downloaded: encounter-stage-and-status-2.png
+  Downloaded: encounter-stage-and-status-3.png
+PROCESSED: Encounter Stage and Status.txt - Downloaded 3/3 images
+  Downloaded: download-edis-in-bulk-1.png
+  Downloaded: download-edis-in-bulk-2.png
+  Downloaded: download-edis-in-bulk-3.png
+PROCESSED: Download EDI's in Bulk.txt - Downloaded 3/3 images
+  Downloaded: turn-off-patient-texts-1.png
+PROCESSED: Turn off Patient Texts.txt - Downloaded 1/1 images
+  Downloaded: how-to-handle-partial-denials-1.png
+  Downloaded: how-to-handle-partial-denials-2.png
+  Downloaded: how-to-handle-partial-denials-3.png
+  Downloaded: how-to-handle-partial-denials-4.png
+  Downloaded: how-to-handle-partial-denials-5.png
+  Downloaded: how-to-handle-partial-denials-6.png
+  Downloaded: how-to-handle-partial-denials-7.png
+PROCESSED: How to Handle Partial Denials.txt - Downloaded 7/7 images
+  Downloaded: text-blast-page-1.png
+  Downloaded: text-blast-page-2.png
+  Downloaded: text-blast-page-3.png
+  Downloaded: text-blast-page-4.png
+  Downloaded: text-blast-page-5.png
+  Downloaded: text-blast-page-6.png
+  Downloaded: text-blast-page-7.png
+  Downloaded: text-blast-page-8.png
+  Downloaded: text-blast-page-9.png
+  Downloaded: text-blast-page-10.png
+  Downloaded: text-blast-page-11.png
+  Downloaded: text-blast-page-12.png
+  Downloaded: text-blast-page-13.png
+  Downloaded: text-blast-page-14.png
+  Downloaded: text-blast-page-15.png
+  Downloaded: text-blast-page-16.png
+  Downloaded: text-blast-page-17.png
+PROCESSED: Text Blast Page.txt - Downloaded 17/17 images
+  Downloaded: remittances-1.png
+  Downloaded: remittances-2.png
+  Downloaded: remittances-3.png
+  Downloaded: remittances-4.png
+  Downloaded: remittances-5.png
+  Downloaded: remittances-6.png
+  Downloaded: remittances-7.png
+  Downloaded: remittances-8.png
+  Downloaded: remittances-9.png
+  Downloaded: remittances-10.png
+  Downloaded: remittances-11.png
+  Downloaded: remittances-12.png
+PROCESSED: Remittances.txt - Downloaded 12/12 images
+  Downloaded: print-patient-statements-1.png
+  Downloaded: print-patient-statements-2.png
+PROCESSED: Print Patient Statements.txt - Downloaded 2/2 images
+  Downloaded: understanding-appointment-details-1.png
+  Failed: understanding-appointment-details-2.gif from https://framerusercontent.com/images/dwbvmKelXaqgeaAujOT4WxtgGw.gif
+  Downloaded: understanding-appointment-details-3.png
+  Downloaded: understanding-appointment-details-4.png
+PROCESSED: Understanding Appointment Details.txt - Downloaded 3/4 images
+  Downloaded: how-to-handle-duplicate-remittances-1.png
+  Downloaded: how-to-handle-duplicate-remittances-2.png
+  Downloaded: how-to-handle-duplicate-remittances-3.png
+  Downloaded: how-to-handle-duplicate-remittances-4.png
+  Downloaded: how-to-handle-duplicate-remittances-5.png
+  Downloaded: how-to-handle-duplicate-remittances-6.png
+  Downloaded: how-to-handle-duplicate-remittances-7.png
+  Downloaded: how-to-handle-duplicate-remittances-8.png
+  Downloaded: how-to-handle-duplicate-remittances-9.png
+  Downloaded: how-to-handle-duplicate-remittances-10.png
+PROCESSED: How to Handle Duplicate Remittances.txt - Downloaded 10/10 images
+  Downloaded: the-revenue-analysis-page-1.png
+  Downloaded: the-revenue-analysis-page-2.png
+  Downloaded: the-revenue-analysis-page-3.png
+  Downloaded: the-revenue-analysis-page-4.png
+  Downloaded: the-revenue-analysis-page-5.png
+  Downloaded: the-revenue-analysis-page-6.png
+  Downloaded: the-revenue-analysis-page-7.png
+  Downloaded: the-revenue-analysis-page-8.png
+  Downloaded: the-revenue-analysis-page-9.png
+  Downloaded: the-revenue-analysis-page-10.png
+PROCESSED: The Revenue Analysis Page.txt - Downloaded 10/10 images
+  Downloaded: building-and-running-reports-1.png
+  Downloaded: building-and-running-reports-2.png
+  Downloaded: building-and-running-reports-3.png
+  Downloaded: building-and-running-reports-4.png
+  Downloaded: building-and-running-reports-5.png
+  Downloaded: building-and-running-reports-6.png
+  Downloaded: building-and-running-reports-7.png
+PROCESSED: Building and Running Reports.txt - Downloaded 7/7 images
+  Downloaded: download-chart-notes-as-pdfs-1.png
+  Downloaded: download-chart-notes-as-pdfs-2.png
+  Downloaded: download-chart-notes-as-pdfs-3.png
+  Downloaded: download-chart-notes-as-pdfs-4.png
+  Downloaded: download-chart-notes-as-pdfs-5.png
+PROCESSED: Download Chart Notes as PDFs.txt - Downloaded 5/5 images
+  Downloaded: insights-prior-authorization-1.png
+  Downloaded: insights-prior-authorization-2.png
+  Downloaded: insights-prior-authorization-3.png
+  Downloaded: insights-prior-authorization-4.png
+  Downloaded: insights-prior-authorization-5.png
+  Downloaded: insights-prior-authorization-6.png
+  Downloaded: insights-prior-authorization-7.png
+  Downloaded: insights-prior-authorization-8.png
+  Downloaded: insights-prior-authorization-9.png
+  Downloaded: insights-prior-authorization-10.png
+  Downloaded: insights-prior-authorization-11.png
+  Downloaded: insights-prior-authorization-12.png
+  Downloaded: insights-prior-authorization-13.png
+PROCESSED: Insights Prior Authorization.txt - Downloaded 13/13 images
+  Downloaded: how-to-schedule-an-appointment-1.png
+  Downloaded: how-to-schedule-an-appointment-2.png
+  Downloaded: how-to-schedule-an-appointment-3.png
+  Downloaded: how-to-schedule-an-appointment-4.png
+  Downloaded: how-to-schedule-an-appointment-5.png
+  Downloaded: how-to-schedule-an-appointment-6.png
+  Downloaded: how-to-schedule-an-appointment-7.png
+  Downloaded: how-to-schedule-an-appointment-8.png
+PROCESSED: How to Schedule an Appointment.txt - Downloaded 8/8 images
+  Downloaded: upcoming-patient-statements-report-1.png
+PROCESSED: Upcoming Patient Statements Report.txt - Downloaded 1/1 images
+  Downloaded: how-to-run-an-eligibility-check-1.png
+  Downloaded: how-to-run-an-eligibility-check-2.png
+  Downloaded: how-to-run-an-eligibility-check-3.png
+  Downloaded: how-to-run-an-eligibility-check-4.png
+  Downloaded: how-to-run-an-eligibility-check-5.png
+  Downloaded: how-to-run-an-eligibility-check-6.png
+  Downloaded: how-to-run-an-eligibility-check-7.png
+PROCESSED: How to Run an Eligibility Check.txt - Downloaded 7/7 images
+  Downloaded: pr-timeline-1.png
+  Downloaded: pr-timeline-2.png
+  Downloaded: pr-timeline-3.png
+  Downloaded: pr-timeline-4.png
+  Downloaded: pr-timeline-5.png
+  Downloaded: pr-timeline-6.png
+  Downloaded: pr-timeline-7.png
+  Downloaded: pr-timeline-8.png
+  Downloaded: pr-timeline-9.png
+  Downloaded: pr-timeline-10.png
+  Downloaded: pr-timeline-11.png
+  Downloaded: pr-timeline-12.png
+  Downloaded: pr-timeline-13.png
+  Downloaded: pr-timeline-14.png
+  Downloaded: pr-timeline-15.png
+  Downloaded: pr-timeline-16.png
+  Downloaded: pr-timeline-17.png
+  Downloaded: pr-timeline-18.png
+  Downloaded: pr-timeline-19.png
+  Downloaded: pr-timeline-20.png
+PROCESSED: PR Timeline.txt - Downloaded 20/20 images
+  Downloaded: submitted-claims-report-1.png
+  Downloaded: submitted-claims-report-2.png
+PROCESSED: Submitted Claims Report.txt - Downloaded 2/2 images
+  Downloaded: patient-balances-report-1.png
+PROCESSED: Patient Balances Report.txt - Downloaded 1/1 images
+  Downloaded: how-to-reconcile-your-cash-drawer-1.png
+  Downloaded: how-to-reconcile-your-cash-drawer-2.png
+  Downloaded: how-to-reconcile-your-cash-drawer-3.png
+  Downloaded: how-to-reconcile-your-cash-drawer-4.png
+  Downloaded: how-to-reconcile-your-cash-drawer-5.png
+  Downloaded: how-to-reconcile-your-cash-drawer-6.png
+  Downloaded: how-to-reconcile-your-cash-drawer-7.png
+PROCESSED: How to Reconcile Your Cash Drawer.txt - Downloaded 7/7 images
+  Downloaded: view-patients-appointments-1.png
+  Downloaded: view-patients-appointments-2.png
+  Downloaded: view-patients-appointments-3.png
+  Downloaded: view-patients-appointments-4.png
+  Downloaded: view-patients-appointments-5.png
+  Downloaded: view-patients-appointments-6.png
+  Downloaded: view-patients-appointments-7.png
+PROCESSED: View Patient's Appointments.txt - Downloaded 7/7 images
+  Downloaded: complete-intake-forms-1.png
+  Downloaded: complete-intake-forms-2.png
+  Downloaded: complete-intake-forms-3.png
+  Downloaded: complete-intake-forms-4.png
+  Downloaded: complete-intake-forms-5.png
+  Downloaded: complete-intake-forms-6.png
+  Downloaded: complete-intake-forms-7.png
+  Downloaded: complete-intake-forms-8.png
+  Downloaded: complete-intake-forms-9.png
+  Downloaded: complete-intake-forms-10.png
+  Downloaded: complete-intake-forms-11.png
+  Downloaded: complete-intake-forms-12.png
+  Downloaded: complete-intake-forms-13.png
+  Downloaded: complete-intake-forms-14.png
+  Downloaded: complete-intake-forms-15.png
+  Downloaded: complete-intake-forms-16.png
+  Downloaded: complete-intake-forms-17.png
+  Downloaded: complete-intake-forms-18.png
+  Downloaded: complete-intake-forms-19.png
+  Downloaded: complete-intake-forms-20.png
+PROCESSED: Complete Intake Forms.txt - Downloaded 20/20 images
+  Downloaded: alternate-methods-for-scheduling-1.png
+  Downloaded: alternate-methods-for-scheduling-2.png
+  Downloaded: alternate-methods-for-scheduling-3.png
+  Downloaded: alternate-methods-for-scheduling-4.png
+  Downloaded: alternate-methods-for-scheduling-5.png
+  Downloaded: alternate-methods-for-scheduling-6.png
+  Downloaded: alternate-methods-for-scheduling-7.png
+  Downloaded: alternate-methods-for-scheduling-8.png
+PROCESSED: Alternate Methods for Scheduling.txt - Downloaded 8/8 images
+  Downloaded: getting-started-with-faxing-1.png
+  Downloaded: getting-started-with-faxing-2.png
+  Downloaded: getting-started-with-faxing-3.png
+  Downloaded: getting-started-with-faxing-4.png
+  Downloaded: getting-started-with-faxing-5.png
+PROCESSED: Getting Started with Faxing.txt - Downloaded 5/5 images
+  Downloaded: how-to-set-up-ai-compliance-1.png
+  Downloaded: how-to-set-up-ai-compliance-2.png
+  Downloaded: how-to-set-up-ai-compliance-3.png
+PROCESSED: How to Set up AI Compliance.txt - Downloaded 3/3 images
+  Downloaded: the-insights-appointments-page-1.png
+  Downloaded: the-insights-appointments-page-2.gif
+  Downloaded: the-insights-appointments-page-3.png
+  Downloaded: the-insights-appointments-page-4.png
+  Downloaded: the-insights-appointments-page-5.png
+  Downloaded: the-insights-appointments-page-6.png
+  Downloaded: the-insights-appointments-page-7.png
+  Downloaded: the-insights-appointments-page-8.png
+  Downloaded: the-insights-appointments-page-9.png
+  Downloaded: the-insights-appointments-page-10.png
+  Downloaded: the-insights-appointments-page-11.png
+  Downloaded: the-insights-appointments-page-12.png
+  Downloaded: the-insights-appointments-page-13.png
+  Downloaded: the-insights-appointments-page-14.png
+PROCESSED: The Insights Appointments Page.txt - Downloaded 14/14 images
+  Downloaded: claim-details-page-1.png
+  Downloaded: claim-details-page-2.png
+  Downloaded: claim-details-page-3.png
+  Downloaded: claim-details-page-4.png
+  Downloaded: claim-details-page-5.png
+  Downloaded: claim-details-page-6.png
+  Downloaded: claim-details-page-7.png
+  Downloaded: claim-details-page-8.png
+  Downloaded: claim-details-page-9.png
+  Downloaded: claim-details-page-10.png
+  Downloaded: claim-details-page-11.png
+  Downloaded: claim-details-page-12.png
+  Downloaded: claim-details-page-13.png
+  Downloaded: claim-details-page-14.png
+  Downloaded: claim-details-page-15.png
+  Downloaded: claim-details-page-16.png
+  Downloaded: claim-details-page-17.png
+  Downloaded: claim-details-page-18.png
+  Downloaded: claim-details-page-19.png
+  Downloaded: claim-details-page-20.png
+  Downloaded: claim-details-page-21.png
+  Downloaded: claim-details-page-22.png
+  Downloaded: claim-details-page-23.png
+  Downloaded: claim-details-page-24.png
+  Downloaded: claim-details-page-25.png
+  Downloaded: claim-details-page-26.png
+  Downloaded: claim-details-page-27.png
+  Downloaded: claim-details-page-28.png
+  Downloaded: claim-details-page-29.png
+  Downloaded: claim-details-page-30.png
+PROCESSED: Claim Details Page.txt - Downloaded 30/30 images
+  Downloaded: patient-collections-report-1.png
+  Downloaded: patient-collections-report-2.png
+PROCESSED: Patient Collections Report.txt - Downloaded 2/2 images
+  Downloaded: manage-credit-cards-1.png
+  Downloaded: manage-credit-cards-2.png
+  Downloaded: manage-credit-cards-3.png
+  Downloaded: manage-credit-cards-4.png
+  Downloaded: manage-credit-cards-5.png
+  Downloaded: manage-credit-cards-6.png
+  Downloaded: manage-credit-cards-7.png
+  Downloaded: manage-credit-cards-8.png
+  Downloaded: manage-credit-cards-9.png
+PROCESSED: Manage Credit Cards.txt - Downloaded 9/9 images
+  Downloaded: updating-appointment-statuses-1.png
+PROCESSED: Updating Appointment Statuses.txt - Downloaded 1/1 images
+  Downloaded: how-to-record-payments-1.png
+  Downloaded: how-to-record-payments-2.png
+  Downloaded: how-to-record-payments-3.png
+  Downloaded: how-to-record-payments-4.png
+  Downloaded: how-to-record-payments-5.png
+  Downloaded: how-to-record-payments-6.png
+  Downloaded: how-to-record-payments-7.png
+  Downloaded: how-to-record-payments-8.png
+  Downloaded: how-to-record-payments-9.png
+  Downloaded: how-to-record-payments-10.png
+  Downloaded: how-to-record-payments-11.png
+  Downloaded: how-to-record-payments-12.png
+PROCESSED: How to Record Payments.txt - Downloaded 12/12 images
+  Downloaded: self-pay-fee-schedule-1.png
+  Downloaded: self-pay-fee-schedule-2.png
+  Downloaded: self-pay-fee-schedule-3.png
+  Downloaded: self-pay-fee-schedule-4.png
+  Downloaded: self-pay-fee-schedule-5.png
+  Downloaded: self-pay-fee-schedule-6.png
+  Downloaded: self-pay-fee-schedule-7.png
+PROCESSED: Self-pay Fee Schedule.txt - Downloaded 7/7 images
+  Downloaded: how-to-send-messages-1.png
+  Downloaded: how-to-send-messages-2.png
+  Downloaded: how-to-send-messages-3.png
+PROCESSED: How to send messages.txt - Downloaded 3/3 images
+  Downloaded: getting-started-with-patient-profile-1.png
+  Downloaded: getting-started-with-patient-profile-2.png
+  Downloaded: getting-started-with-patient-profile-3.png
+  Downloaded: getting-started-with-patient-profile-4.png
+PROCESSED: Getting started with Patient Profile.txt - Downloaded 4/4 images
+  Downloaded: posting-log-report-1.png
+PROCESSED: Posting Log Report.txt - Downloaded 1/1 images
+  Downloaded: how-to-create-tasks-1.png
+  Downloaded: how-to-create-tasks-2.png
+  Downloaded: how-to-create-tasks-3.png
+  Downloaded: how-to-create-tasks-4.png
+  Downloaded: how-to-create-tasks-5.png
+  Downloaded: how-to-create-tasks-6.png
+PROCESSED: How to create tasks.txt - Downloaded 6/6 images
+  Downloaded: how-to-add-measurements-1.png
+  Downloaded: how-to-add-measurements-2.png
+PROCESSED: How to add Measurements.txt - Downloaded 2/2 images
+  Downloaded: how-to-send-documentation-1.png
+  Downloaded: how-to-send-documentation-2.png
+  Downloaded: how-to-send-documentation-3.png
+  Downloaded: how-to-send-documentation-4.png
+PROCESSED: How to Send Documentation.txt - Downloaded 4/4 images
+  Downloaded: sign-a-chart-note-1.png
+  Downloaded: sign-a-chart-note-2.png
+  Downloaded: sign-a-chart-note-3.png
+  Downloaded: sign-a-chart-note-4.png
+  Downloaded: sign-a-chart-note-5.png
+  Downloaded: sign-a-chart-note-6.png
+  Downloaded: sign-a-chart-note-7.png
+  Downloaded: sign-a-chart-note-8.png
+  Downloaded: sign-a-chart-note-9.png
+  Downloaded: sign-a-chart-note-10.png
+  Downloaded: sign-a-chart-note-11.png
+PROCESSED: Sign a Chart Note.txt - Downloaded 11/11 images
+  Downloaded: eob-creation-and-portal-checks-1.png
+  Downloaded: eob-creation-and-portal-checks-2.png
+  Downloaded: eob-creation-and-portal-checks-3.png
+  Downloaded: eob-creation-and-portal-checks-4.png
+  Downloaded: eob-creation-and-portal-checks-5.png
+  Downloaded: eob-creation-and-portal-checks-6.png
+  Downloaded: eob-creation-and-portal-checks-7.png
+  Downloaded: eob-creation-and-portal-checks-8.png
+  Downloaded: eob-creation-and-portal-checks-9.png
+  Downloaded: eob-creation-and-portal-checks-10.png
+  Downloaded: eob-creation-and-portal-checks-11.png
+  Downloaded: eob-creation-and-portal-checks-12.png
+  Downloaded: eob-creation-and-portal-checks-13.png
+  Downloaded: eob-creation-and-portal-checks-14.png
+  Downloaded: eob-creation-and-portal-checks-15.png
+  Downloaded: eob-creation-and-portal-checks-16.png
+  Downloaded: eob-creation-and-portal-checks-17.png
+  Downloaded: eob-creation-and-portal-checks-18.png
+PROCESSED: EOB Creation and Portal Checks.txt - Downloaded 18/18 images
+  Downloaded: the-claim-recon-page-1.png
+  Downloaded: the-claim-recon-page-2.png
+  Downloaded: the-claim-recon-page-3.png
+  Downloaded: the-claim-recon-page-4.png
+  Downloaded: the-claim-recon-page-5.png
+  Downloaded: the-claim-recon-page-6.png
+  Downloaded: the-claim-recon-page-7.png
+  Downloaded: the-claim-recon-page-8.png
+  Downloaded: the-claim-recon-page-9.png
+  Downloaded: the-claim-recon-page-10.png
+  Downloaded: the-claim-recon-page-11.png
+  Downloaded: the-claim-recon-page-12.png
+  Downloaded: the-claim-recon-page-13.png
+PROCESSED: The Claim Recon Page.txt - Downloaded 13/13 images
+  Downloaded: auto-apply-kx-modifier-1.png
+  Downloaded: auto-apply-kx-modifier-2.png
+  Downloaded: auto-apply-kx-modifier-3.png
+  Downloaded: auto-apply-kx-modifier-4.png
+  Downloaded: auto-apply-kx-modifier-5.png
+  Downloaded: auto-apply-kx-modifier-6.png
+  Downloaded: auto-apply-kx-modifier-7.png
+  Downloaded: auto-apply-kx-modifier-8.png
+  Downloaded: auto-apply-kx-modifier-9.png
+  Downloaded: auto-apply-kx-modifier-10.png
+  Downloaded: auto-apply-kx-modifier-11.png
+  Downloaded: auto-apply-kx-modifier-12.png
+  Downloaded: auto-apply-kx-modifier-13.png
+  Downloaded: auto-apply-kx-modifier-14.png
+  Downloaded: auto-apply-kx-modifier-15.png
+  Downloaded: auto-apply-kx-modifier-16.png
+  Downloaded: auto-apply-kx-modifier-17.png
+  Downloaded: auto-apply-kx-modifier-18.png
+  Downloaded: auto-apply-kx-modifier-19.png
+  Downloaded: auto-apply-kx-modifier-20.png
+  Downloaded: auto-apply-kx-modifier-21.png
+  Downloaded: auto-apply-kx-modifier-22.png
+  Downloaded: auto-apply-kx-modifier-23.png
+  Downloaded: auto-apply-kx-modifier-24.png
+  Downloaded: auto-apply-kx-modifier-25.png
+  Downloaded: auto-apply-kx-modifier-26.png
+  Downloaded: auto-apply-kx-modifier-27.png
+  Downloaded: auto-apply-kx-modifier-28.png
+  Downloaded: auto-apply-kx-modifier-29.png
+  Downloaded: auto-apply-kx-modifier-30.png
+  Downloaded: auto-apply-kx-modifier-31.png
+  Downloaded: auto-apply-kx-modifier-32.png
+  Downloaded: auto-apply-kx-modifier-33.png
+  Downloaded: auto-apply-kx-modifier-34.png
+  Downloaded: auto-apply-kx-modifier-35.png
+PROCESSED: Auto-apply KX Modifier.txt - Downloaded 35/35 images
+  Downloaded: how-to-troubleshoot-login-issues-1.png
+  Downloaded: how-to-troubleshoot-login-issues-2.png
+PROCESSED: How to Troubleshoot Login Issues.txt - Downloaded 2/2 images
+  Downloaded: send-one-off-paper-statements-1.png
+  Downloaded: send-one-off-paper-statements-2.png
+  Downloaded: send-one-off-paper-statements-3.png
+  Downloaded: send-one-off-paper-statements-4.png
+PROCESSED: Send One-off Paper Statements.txt - Downloaded 4/4 images
+  Downloaded: getting-started-with-the-calendar-1.png
+  Downloaded: getting-started-with-the-calendar-2.png
+  Downloaded: getting-started-with-the-calendar-3.png
+  Downloaded: getting-started-with-the-calendar-4.png
+  Downloaded: getting-started-with-the-calendar-5.png
+  Downloaded: getting-started-with-the-calendar-6.png
+  Downloaded: getting-started-with-the-calendar-7.png
+  Downloaded: getting-started-with-the-calendar-8.png
+  Downloaded: getting-started-with-the-calendar-9.png
+  Downloaded: getting-started-with-the-calendar-10.png
+  Downloaded: getting-started-with-the-calendar-11.png
+  Downloaded: getting-started-with-the-calendar-12.png
+  Downloaded: getting-started-with-the-calendar-13.png
+  Downloaded: getting-started-with-the-calendar-14.png
+  Downloaded: getting-started-with-the-calendar-15.png
+  Downloaded: getting-started-with-the-calendar-16.png
+PROCESSED: Getting started with the Calendar.txt - Downloaded 16/16 images
+  Downloaded: manage-patient-statements-1.png
+  Downloaded: manage-patient-statements-2.png
+  Downloaded: manage-patient-statements-3.png
+  Downloaded: manage-patient-statements-4.png
+  Downloaded: manage-patient-statements-5.png
+  Downloaded: manage-patient-statements-6.png
+  Downloaded: manage-patient-statements-7.png
+  Downloaded: manage-patient-statements-8.png
+  Downloaded: manage-patient-statements-9.png
+  Downloaded: manage-patient-statements-10.png
+  Downloaded: manage-patient-statements-11.png
+  Downloaded: manage-patient-statements-12.png
+  Downloaded: manage-patient-statements-13.png
+  Downloaded: manage-patient-statements-14.png
+  Downloaded: manage-patient-statements-15.png
+  Downloaded: manage-patient-statements-16.png
+  Downloaded: manage-patient-statements-17.png
+  Downloaded: manage-patient-statements-18.png
+  Downloaded: manage-patient-statements-19.png
+  Downloaded: manage-patient-statements-20.png
+  Downloaded: manage-patient-statements-21.png
+  Downloaded: manage-patient-statements-22.png
+  Downloaded: manage-patient-statements-23.png
+  Downloaded: manage-patient-statements-24.png
+PROCESSED: Manage Patient Statements.txt - Downloaded 24/24 images
+  Downloaded: addedit-patients-prior-authorization-1.png
+  Downloaded: addedit-patients-prior-authorization-2.png
+  Downloaded: addedit-patients-prior-authorization-3.png
+PROCESSED: Add_edit Patient's Prior Authorization.txt - Downloaded 3/3 images
+  Downloaded: additional-context-feature-1.png
+  Downloaded: additional-context-feature-2.png
+  Downloaded: additional-context-feature-3.png
+  Downloaded: additional-context-feature-4.png
+  Downloaded: additional-context-feature-5.png
+PROCESSED: Additional Context Feature.txt - Downloaded 5/5 images
+  Downloaded: custom-collections-report-1.png
+  Downloaded: custom-collections-report-2.png
+PROCESSED: Custom Collections Report.txt - Downloaded 2/2 images
+  Downloaded: ai-appt-summaries-1.png
+PROCESSED: AI Appt. Summaries.txt - Downloaded 1/1 images
+  Downloaded: collections-report-1.png
+PROCESSED: Collections Report.txt - Downloaded 1/1 images
+  Downloaded: patient-charges-report-1.png
+PROCESSED: Patient Charges Report.txt - Downloaded 1/1 images
+  Downloaded: insurance-intake-page-1.png
+  Downloaded: insurance-intake-page-2.png
+PROCESSED: Insurance Intake Page.txt - Downloaded 2/2 images
+  Downloaded: how-to-undo-a-write-off-1.png
+  Downloaded: how-to-undo-a-write-off-2.png
+  Downloaded: how-to-undo-a-write-off-3.png
+  Downloaded: how-to-undo-a-write-off-4.png
+  Downloaded: how-to-undo-a-write-off-5.png
+PROCESSED: How to Undo a Write Off.txt - Downloaded 5/5 images
+  Downloaded: charge-saved-credit-cards-1.png
+  Downloaded: charge-saved-credit-cards-2.png
+  Downloaded: charge-saved-credit-cards-3.png
+  Downloaded: charge-saved-credit-cards-4.png
+  Downloaded: charge-saved-credit-cards-5.png
+PROCESSED: Charge Saved Credit Cards.txt - Downloaded 5/5 images
+  Downloaded: process-virtual-cards-1.png
+  Downloaded: process-virtual-cards-2.png
+  Downloaded: process-virtual-cards-3.png
+  Downloaded: process-virtual-cards-4.png
+  Downloaded: process-virtual-cards-5.png
+  Downloaded: process-virtual-cards-6.png
+  Downloaded: process-virtual-cards-7.png
+PROCESSED: Process Virtual Cards.txt - Downloaded 7/7 images
+  Downloaded: how-to-write-off-pr-1.png
+  Downloaded: how-to-write-off-pr-2.png
+  Downloaded: how-to-write-off-pr-3.png
+  Downloaded: how-to-write-off-pr-4.png
+  Downloaded: how-to-write-off-pr-5.jpg
+  Downloaded: how-to-write-off-pr-6.png
+PROCESSED: How to Write Off PR.txt - Downloaded 6/6 images
+  Downloaded: how-to-spread-pr-statement-emails-1.png
+  Downloaded: how-to-spread-pr-statement-emails-2.png
+  Downloaded: how-to-spread-pr-statement-emails-3.png
+  Downloaded: how-to-spread-pr-statement-emails-4.png
+  Downloaded: how-to-spread-pr-statement-emails-5.png
+PROCESSED: How to Spread PR Statement Emails.txt - Downloaded 5/5 images
+  Downloaded: prescribe-medications-1.png
+  Downloaded: prescribe-medications-2.png
+  Downloaded: prescribe-medications-3.png
+  Downloaded: prescribe-medications-4.png
+  Downloaded: prescribe-medications-5.png
+  Downloaded: prescribe-medications-6.png
+  Downloaded: prescribe-medications-7.png
+  Downloaded: prescribe-medications-8.png
+PROCESSED: Prescribe Medications.txt - Downloaded 8/8 images
+  Downloaded: how-to-refund-a-payment-1.png
+  Downloaded: how-to-refund-a-payment-2.png
+  Downloaded: how-to-refund-a-payment-3.png
+  Downloaded: how-to-refund-a-payment-4.png
+  Downloaded: how-to-refund-a-payment-5.png
+PROCESSED: How to Refund a Payment.txt - Downloaded 5/5 images
+  Downloaded: patient-claims-one-pagers-1.png
+PROCESSED: Patient Claims One-pagers.txt - Downloaded 1/1 images
+  Downloaded: navigating-the-chart-note-1.png
+  Downloaded: navigating-the-chart-note-2.png
+  Downloaded: navigating-the-chart-note-3.png
+  Downloaded: navigating-the-chart-note-4.png
+  Downloaded: navigating-the-chart-note-5.png
+  Downloaded: navigating-the-chart-note-6.png
+  Downloaded: navigating-the-chart-note-7.png
+  Downloaded: navigating-the-chart-note-8.png
+  Downloaded: navigating-the-chart-note-9.png
+  Downloaded: navigating-the-chart-note-10.png
+PROCESSED: Navigating the Chart Note.txt - Downloaded 10/10 images
+  Downloaded: encounter-details-page-1.png
+  Downloaded: encounter-details-page-2.png
+  Downloaded: encounter-details-page-3.png
+  Downloaded: encounter-details-page-4.png
+  Downloaded: encounter-details-page-5.png
+  Downloaded: encounter-details-page-6.png
+  Downloaded: encounter-details-page-7.png
+  Downloaded: encounter-details-page-8.png
+  Downloaded: encounter-details-page-9.png
+  Downloaded: encounter-details-page-10.png
+  Downloaded: encounter-details-page-11.png
+  Downloaded: encounter-details-page-12.png
+  Downloaded: encounter-details-page-13.png
+  Downloaded: encounter-details-page-14.png
+  Downloaded: encounter-details-page-15.png
+  Downloaded: encounter-details-page-16.png
+  Downloaded: encounter-details-page-17.png
+  Downloaded: encounter-details-page-18.png
+  Downloaded: encounter-details-page-19.png
+  Downloaded: encounter-details-page-20.png
+  Downloaded: encounter-details-page-21.png
+  Downloaded: encounter-details-page-22.png
+  Downloaded: encounter-details-page-23.png
+  Downloaded: encounter-details-page-24.png
+  Downloaded: encounter-details-page-25.png
+  Downloaded: encounter-details-page-26.png
+  Downloaded: encounter-details-page-27.png
+  Downloaded: encounter-details-page-28.png
+  Downloaded: encounter-details-page-29.png
+  Downloaded: encounter-details-page-30.png
+  Downloaded: encounter-details-page-31.png
+  Downloaded: encounter-details-page-32.png
+  Downloaded: encounter-details-page-33.png
+  Downloaded: encounter-details-page-34.png
+  Downloaded: encounter-details-page-35.png
+  Downloaded: encounter-details-page-36.png
+  Downloaded: encounter-details-page-37.png
+  Downloaded: encounter-details-page-38.png
+  Downloaded: encounter-details-page-39.png
+PROCESSED: Encounter Details Page.txt - Downloaded 39/39 images
+  Downloaded: export-claim-details-1.png
+  Downloaded: export-claim-details-2.png
+  Downloaded: export-claim-details-3.png
+  Downloaded: export-claim-details-4.png
+PROCESSED: Export Claim Details.txt - Downloaded 4/4 images
+  Downloaded: how-to-send-a-patient-payment-link-1.png
+  Downloaded: how-to-send-a-patient-payment-link-2.png
+  Downloaded: how-to-send-a-patient-payment-link-3.png
+  Downloaded: how-to-send-a-patient-payment-link-4.png
+  Downloaded: how-to-send-a-patient-payment-link-5.png
+  Downloaded: how-to-send-a-patient-payment-link-6.png
+  Downloaded: how-to-send-a-patient-payment-link-7.png
+  Downloaded: how-to-send-a-patient-payment-link-8.png
+  Downloaded: how-to-send-a-patient-payment-link-9.png
+  Downloaded: how-to-send-a-patient-payment-link-10.png
+  Downloaded: how-to-send-a-patient-payment-link-11.png
+PROCESSED: How to Send a Patient Payment Link.txt - Downloaded 11/11 images
+  Downloaded: update-practice-information-1.png
+  Downloaded: update-practice-information-2.png
+PROCESSED: Update Practice Information.txt - Downloaded 2/2 images
+  Downloaded: site-transaction-report-1.png
+PROCESSED: Site Transaction Report.txt - Downloaded 1/1 images
+  Downloaded: how-to-use-standard-or-universal-notes-1.png
+  Downloaded: how-to-use-standard-or-universal-notes-2.png
+  Downloaded: how-to-use-standard-or-universal-notes-3.png
+  Downloaded: how-to-use-standard-or-universal-notes-4.png
+  Downloaded: how-to-use-standard-or-universal-notes-5.png
+  Downloaded: how-to-use-standard-or-universal-notes-6.png
+  Downloaded: how-to-use-standard-or-universal-notes-7.png
+  Downloaded: how-to-use-standard-or-universal-notes-8.png
+PROCESSED: How to Use Standard or Universal Notes.txt - Downloaded 8/8 images
+  Downloaded: getting-started-with-demographics-1.png
+  Downloaded: getting-started-with-demographics-2.png
+  Downloaded: getting-started-with-demographics-3.png
+  Downloaded: getting-started-with-demographics-4.png
+  Downloaded: getting-started-with-demographics-5.png
+PROCESSED: Getting Started with Demographics.txt - Downloaded 5/5 images
+  Downloaded: how-to-write-off-a-balance-1.png
+  Downloaded: how-to-write-off-a-balance-2.png
+  Downloaded: how-to-write-off-a-balance-3.png
+  Downloaded: how-to-write-off-a-balance-4.png
+  Downloaded: how-to-write-off-a-balance-5.png
+PROCESSED: How to Write Off a Balance.txt - Downloaded 5/5 images
+  Downloaded: navigating-flowsheets-1.png
+  Downloaded: navigating-flowsheets-2.png
+  Downloaded: navigating-flowsheets-3.png
+  Downloaded: navigating-flowsheets-4.png
+  Downloaded: navigating-flowsheets-5.png
+  Downloaded: navigating-flowsheets-6.png
+  Downloaded: navigating-flowsheets-7.png
+  Downloaded: navigating-flowsheets-8.png
+  Downloaded: navigating-flowsheets-9.png
+  Downloaded: navigating-flowsheets-10.png
+  Downloaded: navigating-flowsheets-11.png
+  Downloaded: navigating-flowsheets-12.png
+  Downloaded: navigating-flowsheets-13.png
+  Downloaded: navigating-flowsheets-14.png
+  Downloaded: navigating-flowsheets-15.png
+  Downloaded: navigating-flowsheets-16.png
+  Downloaded: navigating-flowsheets-17.png
+  Downloaded: navigating-flowsheets-18.png
+  Downloaded: navigating-flowsheets-19.png
+  Downloaded: navigating-flowsheets-20.png
+  Downloaded: navigating-flowsheets-21.png
+  Downloaded: navigating-flowsheets-22.png
+  Downloaded: navigating-flowsheets-23.png
+PROCESSED: Navigating Flowsheets.txt - Downloaded 23/23 images
+  Downloaded: how-to-resubmit-a-single-claim-1.png
+  Downloaded: how-to-resubmit-a-single-claim-2.png
+  Downloaded: how-to-resubmit-a-single-claim-3.png
+  Downloaded: how-to-resubmit-a-single-claim-4.png
+  Downloaded: how-to-resubmit-a-single-claim-5.png
+  Downloaded: how-to-resubmit-a-single-claim-6.png
+  Downloaded: how-to-resubmit-a-single-claim-7.png
+  Downloaded: how-to-resubmit-a-single-claim-8.png
+  Downloaded: how-to-resubmit-a-single-claim-9.png
+  Downloaded: how-to-resubmit-a-single-claim-10.png
+  Downloaded: how-to-resubmit-a-single-claim-11.png
+  Downloaded: how-to-resubmit-a-single-claim-12.png
+  Downloaded: how-to-resubmit-a-single-claim-13.png
+PROCESSED: How to Resubmit a Single Claim.txt - Downloaded 13/13 images
+  Downloaded: import-previous-medical-history-1.png
+  Downloaded: import-previous-medical-history-2.png
+  Downloaded: import-previous-medical-history-3.png
+  Downloaded: import-previous-medical-history-4.png
+PROCESSED: Import Previous Medical History.txt - Downloaded 4/4 images
+  Downloaded: pr-overpayment-refunds-and-estimated-vs-remittance-pr-1.png
+  Downloaded: pr-overpayment-refunds-and-estimated-vs-remittance-pr-2.png
+  Downloaded: pr-overpayment-refunds-and-estimated-vs-remittance-pr-3.png
+  Downloaded: pr-overpayment-refunds-and-estimated-vs-remittance-pr-4.png
+  Downloaded: pr-overpayment-refunds-and-estimated-vs-remittance-pr-5.png
+  Downloaded: pr-overpayment-refunds-and-estimated-vs-remittance-pr-6.png
+PROCESSED: PR Overpayment Refunds and Estimated vs. Remittance PR.txt - Downloaded 6/6 images
+  Downloaded: sorting-archiving-bulk-actions-1.png
+  Downloaded: sorting-archiving-bulk-actions-2.png
+  Downloaded: sorting-archiving-bulk-actions-3.png
+  Downloaded: sorting-archiving-bulk-actions-4.png
+PROCESSED: Sorting, Archiving, Bulk Actions.txt - Downloaded 4/4 images
+  Downloaded: tying-inbound-faxes-to-outbound-faxes-1.png
+PROCESSED: Tying inbound faxes to outbound faxes.txt - Downloaded 1/1 images
+  Downloaded: sending-out-reminders-and-forms-1.png
+  Downloaded: sending-out-reminders-and-forms-2.png
+  Downloaded: sending-out-reminders-and-forms-3.png
+PROCESSED: Sending out reminders and forms.txt - Downloaded 3/3 images
+  Downloaded: addedit-patient-cases-1.png
+  Downloaded: addedit-patient-cases-2.png
+PROCESSED: Add_edit Patient Cases.txt - Downloaded 2/2 images
+  Downloaded: navigating-the-rejections-page-1.png
+  Downloaded: navigating-the-rejections-page-2.png
+  Downloaded: navigating-the-rejections-page-3.png
+  Downloaded: navigating-the-rejections-page-4.png
+  Downloaded: navigating-the-rejections-page-5.png
+  Downloaded: navigating-the-rejections-page-6.png
+  Downloaded: navigating-the-rejections-page-7.png
+  Downloaded: navigating-the-rejections-page-8.png
+  Downloaded: navigating-the-rejections-page-9.png
+  Downloaded: navigating-the-rejections-page-10.png
+  Downloaded: navigating-the-rejections-page-11.png
+  Downloaded: navigating-the-rejections-page-12.png
+PROCESSED: Navigating the Rejections Page.txt - Downloaded 12/12 images
+  Downloaded: patient-subscriptions-1.png
+  Downloaded: patient-subscriptions-2.png
+  Downloaded: patient-subscriptions-3.png
+  Downloaded: patient-subscriptions-4.png
+  Downloaded: patient-subscriptions-5.png
+  Downloaded: patient-subscriptions-6.png
+  Downloaded: patient-subscriptions-7.png
+  Downloaded: patient-subscriptions-8.png
+  Downloaded: patient-subscriptions-9.png
+  Downloaded: patient-subscriptions-10.png
+  Downloaded: patient-subscriptions-11.png
+  Downloaded: patient-subscriptions-12.png
+  Downloaded: patient-subscriptions-13.png
+PROCESSED: Patient Subscriptions.txt - Downloaded 13/13 images
+  Downloaded: goals-on-the-chart-note-1.png
+  Downloaded: goals-on-the-chart-note-2.png
+PROCESSED: Goals on the chart note.txt - Downloaded 2/2 images
+  Downloaded: understand-import-errors-1.png
+  Downloaded: understand-import-errors-2.png
+  Downloaded: understand-import-errors-3.png
+  Downloaded: understand-import-errors-4.png
+  Downloaded: understand-import-errors-5.png
+  Downloaded: understand-import-errors-6.png
+  Downloaded: understand-import-errors-7.png
+PROCESSED: Understand Import Errors.txt - Downloaded 7/7 images
+  Downloaded: your-athelas-invoice-1.png
+  Downloaded: your-athelas-invoice-2.png
+  Downloaded: your-athelas-invoice-3.png
+PROCESSED: Your Athelas Invoice.txt - Downloaded 3/3 images
+  Downloaded: edit-with-commandk-1.png
+  Downloaded: edit-with-commandk-2.png
+  Downloaded: edit-with-commandk-3.png
+  Downloaded: edit-with-commandk-4.png
+  Downloaded: edit-with-commandk-5.png
+  Downloaded: edit-with-commandk-6.png
+  Downloaded: edit-with-commandk-7.png
+  Downloaded: edit-with-commandk-8.png
+PROCESSED: Edit with Command+K.txt - Downloaded 8/8 images
+  Downloaded: calendar-start-end-times-1.png
+  Downloaded: calendar-start-end-times-2.png
+PROCESSED: Calendar start & end times.txt - Downloaded 2/2 images
+  Downloaded: adding-prior-auth-and-alerting-1.png
+  Downloaded: adding-prior-auth-and-alerting-2.png
+  Downloaded: adding-prior-auth-and-alerting-3.png
+  Downloaded: adding-prior-auth-and-alerting-4.png
+  Downloaded: adding-prior-auth-and-alerting-5.png
+PROCESSED: Adding Prior Auth and Alerting.txt - Downloaded 5/5 images
+  Downloaded: how-to-apply-an-air-scribe-1.png
+  Downloaded: how-to-apply-an-air-scribe-2.png
+  Downloaded: how-to-apply-an-air-scribe-3.png
+  Downloaded: how-to-apply-an-air-scribe-4.png
+  Downloaded: how-to-apply-an-air-scribe-5.png
+  Downloaded: how-to-apply-an-air-scribe-6.png
+  Downloaded: how-to-apply-an-air-scribe-7.png
+  Downloaded: how-to-apply-an-air-scribe-8.png
+  Downloaded: how-to-apply-an-air-scribe-9.png
+PROCESSED: How to Apply an Air Scribe.txt - Downloaded 9/9 images
+  Downloaded: how-to-download-cms-1500-forms-1.png
+  Downloaded: how-to-download-cms-1500-forms-2.png
+  Downloaded: how-to-download-cms-1500-forms-3.png
+PROCESSED: How to Download CMS-1500 Forms.txt - Downloaded 3/3 images
+  Downloaded: record-allergies-1.png
+  Downloaded: record-allergies-2.png
+PROCESSED: Record Allergies.txt - Downloaded 2/2 images
+  Downloaded: designate-staff-as-provider-agents-1.png
+  Downloaded: designate-staff-as-provider-agents-2.png
+  Downloaded: designate-staff-as-provider-agents-3.png
+  Downloaded: designate-staff-as-provider-agents-4.png
+  Downloaded: designate-staff-as-provider-agents-5.png
+  Downloaded: designate-staff-as-provider-agents-6.png
+  Downloaded: designate-staff-as-provider-agents-7.png
+  Downloaded: designate-staff-as-provider-agents-8.png
+  Downloaded: designate-staff-as-provider-agents-9.png
+  Downloaded: designate-staff-as-provider-agents-10.png
+  Downloaded: designate-staff-as-provider-agents-11.png
+  Downloaded: designate-staff-as-provider-agents-12.png
+  Downloaded: designate-staff-as-provider-agents-13.png
+  Downloaded: designate-staff-as-provider-agents-14.png
+  Downloaded: designate-staff-as-provider-agents-15.png
+  Downloaded: designate-staff-as-provider-agents-16.png
+PROCESSED: Designate Staff as Provider Agents.txt - Downloaded 16/16 images
+  Downloaded: how-to-use-the-posting-tool-page-1.png
+  Downloaded: how-to-use-the-posting-tool-page-2.png
+  Downloaded: how-to-use-the-posting-tool-page-3.png
+  Downloaded: how-to-use-the-posting-tool-page-4.png
+  Downloaded: how-to-use-the-posting-tool-page-5.png
+  Downloaded: how-to-use-the-posting-tool-page-6.png
+  Downloaded: how-to-use-the-posting-tool-page-7.png
+  Downloaded: how-to-use-the-posting-tool-page-8.png
+  Downloaded: how-to-use-the-posting-tool-page-9.png
+  Downloaded: how-to-use-the-posting-tool-page-10.png
+  Downloaded: how-to-use-the-posting-tool-page-11.png
+  Downloaded: how-to-use-the-posting-tool-page-12.png
+  Downloaded: how-to-use-the-posting-tool-page-13.png
+  Downloaded: how-to-use-the-posting-tool-page-14.png
+  Downloaded: how-to-use-the-posting-tool-page-15.png
+  Downloaded: how-to-use-the-posting-tool-page-16.png
+  Downloaded: how-to-use-the-posting-tool-page-17.png
+  Downloaded: how-to-use-the-posting-tool-page-18.png
+  Downloaded: how-to-use-the-posting-tool-page-19.png
+  Downloaded: how-to-use-the-posting-tool-page-20.png
+  Downloaded: how-to-use-the-posting-tool-page-21.png
+  Downloaded: how-to-use-the-posting-tool-page-22.png
+  Downloaded: how-to-use-the-posting-tool-page-23.png
+  Downloaded: how-to-use-the-posting-tool-page-24.png
+  Downloaded: how-to-use-the-posting-tool-page-25.png
+  Downloaded: how-to-use-the-posting-tool-page-26.png
+  Downloaded: how-to-use-the-posting-tool-page-27.png
+  Downloaded: how-to-use-the-posting-tool-page-28.png
+  Downloaded: how-to-use-the-posting-tool-page-29.png
+  Downloaded: how-to-use-the-posting-tool-page-30.png
+  Downloaded: how-to-use-the-posting-tool-page-31.png
+  Downloaded: how-to-use-the-posting-tool-page-32.png
+  Downloaded: how-to-use-the-posting-tool-page-33.png
+  Downloaded: how-to-use-the-posting-tool-page-34.png
+  Downloaded: how-to-use-the-posting-tool-page-35.png
+  Downloaded: how-to-use-the-posting-tool-page-36.png
+  Downloaded: how-to-use-the-posting-tool-page-37.png
+  Downloaded: how-to-use-the-posting-tool-page-38.png
+  Downloaded: how-to-use-the-posting-tool-page-39.png
+  Downloaded: how-to-use-the-posting-tool-page-40.png
+  Downloaded: how-to-use-the-posting-tool-page-41.png
+  Downloaded: how-to-use-the-posting-tool-page-42.png
+  Downloaded: how-to-use-the-posting-tool-page-43.png
+  Downloaded: how-to-use-the-posting-tool-page-44.png
+  Downloaded: how-to-use-the-posting-tool-page-45.png
+  Downloaded: how-to-use-the-posting-tool-page-46.png
+  Downloaded: how-to-use-the-posting-tool-page-47.png
+  Downloaded: how-to-use-the-posting-tool-page-48.png
+  Downloaded: how-to-use-the-posting-tool-page-49.png
+  Downloaded: how-to-use-the-posting-tool-page-50.png
+  Downloaded: how-to-use-the-posting-tool-page-51.png
+  Downloaded: how-to-use-the-posting-tool-page-52.png
+  Downloaded: how-to-use-the-posting-tool-page-53.png
+PROCESSED: How to Use the Posting Tool Page.txt - Downloaded 53/53 images
+  Downloaded: navigating-patient-workflows-1.png
+  Downloaded: navigating-patient-workflows-2.png
+  Downloaded: navigating-patient-workflows-3.png
+  Downloaded: navigating-patient-workflows-4.png
+  Downloaded: navigating-patient-workflows-5.png
+  Downloaded: navigating-patient-workflows-6.png
+  Downloaded: navigating-patient-workflows-7.png
+  Downloaded: navigating-patient-workflows-8.png
+  Downloaded: navigating-patient-workflows-9.png
+  Downloaded: navigating-patient-workflows-10.png
+  Downloaded: navigating-patient-workflows-11.png
+  Downloaded: navigating-patient-workflows-12.png
+  Downloaded: navigating-patient-workflows-13.png
+  Downloaded: navigating-patient-workflows-14.png
+  Downloaded: navigating-patient-workflows-15.png
+PROCESSED: Navigating Patient Workflows.txt - Downloaded 15/15 images
+  Downloaded: bank-deposit-verification-1.png
+  Downloaded: bank-deposit-verification-2.png
+  Downloaded: bank-deposit-verification-3.png
+  Downloaded: bank-deposit-verification-4.png
+  Downloaded: bank-deposit-verification-5.png
+  Downloaded: bank-deposit-verification-6.png
+  Downloaded: bank-deposit-verification-7.png
+  Downloaded: bank-deposit-verification-8.png
+  Downloaded: bank-deposit-verification-9.png
+PROCESSED: Bank Deposit Verification.txt - Downloaded 9/9 images
+  Downloaded: messages-page-1.png
+  Downloaded: messages-page-2.png
+  Downloaded: messages-page-3.png
+  Downloaded: messages-page-4.png
+  Downloaded: messages-page-5.png
+PROCESSED: Messages Page.txt - Downloaded 5/5 images
+  Downloaded: setting-up-ai-compliance-1.png
+PROCESSED: Setting up AI Compliance.txt - Downloaded 1/1 images
+  Downloaded: how-to-add-a-walk-in-patient-1.png
+  Downloaded: how-to-add-a-walk-in-patient-2.png
+  Downloaded: how-to-add-a-walk-in-patient-3.png
+  Downloaded: how-to-add-a-walk-in-patient-4.png
+  Downloaded: how-to-add-a-walk-in-patient-5.png
+  Downloaded: how-to-add-a-walk-in-patient-6.png
+PROCESSED: How to Add a Walk-In Patient.txt - Downloaded 6/6 images
+  Downloaded: setting-up-co-signers-on-your-note-1.png
+PROCESSED: Setting up Co-signers on Your Note.txt - Downloaded 1/1 images
+  Downloaded: getting-started-with-your-practice-1.png
+  Downloaded: getting-started-with-your-practice-2.png
+  Downloaded: getting-started-with-your-practice-3.png
+  Downloaded: getting-started-with-your-practice-4.png
+  Downloaded: getting-started-with-your-practice-5.png
+  Downloaded: getting-started-with-your-practice-6.png
+  Downloaded: getting-started-with-your-practice-7.png
+  Downloaded: getting-started-with-your-practice-8.png
+  Downloaded: getting-started-with-your-practice-9.png
+  Downloaded: getting-started-with-your-practice-10.png
+  Downloaded: getting-started-with-your-practice-11.png
+  Downloaded: getting-started-with-your-practice-12.png
+  Downloaded: getting-started-with-your-practice-13.png
+  Downloaded: getting-started-with-your-practice-14.png
+PROCESSED: Getting Started with Your Practice.txt - Downloaded 14/14 images
+  Downloaded: navigating-labs-1.png
+PROCESSED: Navigating Labs.txt - Downloaded 1/1 images
+  Downloaded: detailed-charges-report-1.png
+PROCESSED: Detailed Charges Report.txt - Downloaded 1/1 images
+  Downloaded: record-immunizations-1.png
+PROCESSED: Record Immunizations.txt - Downloaded 1/1 images
+  Downloaded: pr-settings-1.png
+  Downloaded: pr-settings-2.png
+  Downloaded: pr-settings-3.png
+  Downloaded: pr-settings-4.png
+  Downloaded: pr-settings-5.png
+  Downloaded: pr-settings-6.png
+  Downloaded: pr-settings-7.png
+  Downloaded: pr-settings-8.png
+  Downloaded: pr-settings-9.png
+  Downloaded: pr-settings-10.png
+  Downloaded: pr-settings-11.png
+  Downloaded: pr-settings-12.png
+  Downloaded: pr-settings-13.png
+  Downloaded: pr-settings-14.png
+PROCESSED: PR Settings.txt - Downloaded 14/14 images
+  Downloaded: filter-the-calendar-view-1.png
+  Downloaded: filter-the-calendar-view-2.png
+  Downloaded: filter-the-calendar-view-3.png
+PROCESSED: Filter the calendar view.txt - Downloaded 3/3 images
+  Downloaded: add-attachments-to-patient-profile-1.png
+  Downloaded: add-attachments-to-patient-profile-2.png
+  Downloaded: add-attachments-to-patient-profile-3.png
+  Downloaded: add-attachments-to-patient-profile-4.png
+  Downloaded: add-attachments-to-patient-profile-5.png
+  Downloaded: add-attachments-to-patient-profile-6.png
+  Downloaded: add-attachments-to-patient-profile-7.png
+PROCESSED: Add attachments to Patient Profile.txt - Downloaded 7/7 images
+  Downloaded: how-to-cancel-pr-1.png
+  Downloaded: how-to-cancel-pr-2.png
+  Downloaded: how-to-cancel-pr-3.png
+  Downloaded: how-to-cancel-pr-4.png
+PROCESSED: How to Cancel PR.txt - Downloaded 4/4 images
+  Downloaded: attach-task-follow-ups-to-faxes-1.png
+  Downloaded: attach-task-follow-ups-to-faxes-2.png
+  Downloaded: attach-task-follow-ups-to-faxes-3.png
+  Downloaded: attach-task-follow-ups-to-faxes-4.png
+  Downloaded: attach-task-follow-ups-to-faxes-5.png
+  Downloaded: attach-task-follow-ups-to-faxes-6.png
+  Downloaded: attach-task-follow-ups-to-faxes-7.png
+  Downloaded: attach-task-follow-ups-to-faxes-8.png
+  Downloaded: attach-task-follow-ups-to-faxes-9.png
+  Downloaded: attach-task-follow-ups-to-faxes-10.png
+  Downloaded: attach-task-follow-ups-to-faxes-11.png
+  Downloaded: attach-task-follow-ups-to-faxes-12.png
+  Downloaded: attach-task-follow-ups-to-faxes-13.png
+  Downloaded: attach-task-follow-ups-to-faxes-14.png
+  Downloaded: attach-task-follow-ups-to-faxes-15.png
+PROCESSED: Attach Task Follow-ups to Faxes.txt - Downloaded 15/15 images
+  Downloaded: denials-worklist-page-1.png
+  Downloaded: denials-worklist-page-2.png
+  Downloaded: denials-worklist-page-3.png
+  Downloaded: denials-worklist-page-4.png
+  Downloaded: denials-worklist-page-5.png
+  Downloaded: denials-worklist-page-6.png
+  Downloaded: denials-worklist-page-7.png
+  Downloaded: denials-worklist-page-8.png
+  Downloaded: denials-worklist-page-9.png
+  Downloaded: denials-worklist-page-10.png
+  Downloaded: denials-worklist-page-11.png
+  Downloaded: denials-worklist-page-12.png
+  Downloaded: denials-worklist-page-13.png
+  Downloaded: denials-worklist-page-14.png
+  Downloaded: denials-worklist-page-15.png
+  Downloaded: denials-worklist-page-16.png
+  Downloaded: denials-worklist-page-17.png
+  Downloaded: denials-worklist-page-18.png
+  Downloaded: denials-worklist-page-19.png
+  Downloaded: denials-worklist-page-20.png
+  Downloaded: denials-worklist-page-21.png
+PROCESSED: Denials Worklist Page.txt - Downloaded 21/21 images
+  Downloaded: how-to-take-payment-for-families-1.png
+  Downloaded: how-to-take-payment-for-families-2.png
+  Downloaded: how-to-take-payment-for-families-3.png
+  Downloaded: how-to-take-payment-for-families-4.png
+PROCESSED: How to Take Payment for Families.txt - Downloaded 4/4 images
+  Downloaded: complete-a-visit-with-air-scribe-1.png
+  Downloaded: complete-a-visit-with-air-scribe-2.png
+  Downloaded: complete-a-visit-with-air-scribe-3.png
+  Downloaded: complete-a-visit-with-air-scribe-4.png
+  Downloaded: complete-a-visit-with-air-scribe-5.png
+PROCESSED: Complete a Visit with Air Scribe.txt - Downloaded 5/5 images
+  Downloaded: generate-a-transaction-report-1.png
+  Downloaded: generate-a-transaction-report-2.png
+  Downloaded: generate-a-transaction-report-3.png
+  Downloaded: generate-a-transaction-report-4.png
+PROCESSED: Generate a Transaction Report.txt - Downloaded 4/4 images
+  Downloaded: submissions-and-remits-1.png
+  Downloaded: submissions-and-remits-2.png
+  Downloaded: submissions-and-remits-3.png
+PROCESSED: Submissions and Remits.txt - Downloaded 3/3 images
+  Downloaded: the-denials-analysis-page-1.png
+  Downloaded: the-denials-analysis-page-2.png
+  Downloaded: the-denials-analysis-page-3.png
+  Downloaded: the-denials-analysis-page-4.png
+PROCESSED: The Denials Analysis Page.txt - Downloaded 4/4 images
+  Downloaded: how-to-resubmit-claims-1.png
+  Downloaded: how-to-resubmit-claims-2.png
+  Downloaded: how-to-resubmit-claims-3.png
+PROCESSED: How to Resubmit Claim(s).txt - Downloaded 3/3 images
+  Downloaded: functional-outcome-measurements-1.png
+  Downloaded: functional-outcome-measurements-2.png
+  Downloaded: functional-outcome-measurements-3.png
+  Downloaded: functional-outcome-measurements-4.png
+  Downloaded: functional-outcome-measurements-5.png
+  Downloaded: functional-outcome-measurements-6.png
+  Downloaded: functional-outcome-measurements-7.png
+  Downloaded: functional-outcome-measurements-8.png
+  Downloaded: functional-outcome-measurements-9.png
+  Downloaded: functional-outcome-measurements-10.png
+  Downloaded: functional-outcome-measurements-11.png
+  Downloaded: functional-outcome-measurements-12.png
+  Downloaded: functional-outcome-measurements-13.png
+  Downloaded: functional-outcome-measurements-14.png
+  Downloaded: functional-outcome-measurements-15.png
+PROCESSED: Functional Outcome Measurements.txt - Downloaded 15/15 images
+  Downloaded: patient-responsibility-page-1.png
+  Downloaded: patient-responsibility-page-2.png
+  Downloaded: patient-responsibility-page-3.png
+  Downloaded: patient-responsibility-page-4.png
+  Downloaded: patient-responsibility-page-5.png
+  Downloaded: patient-responsibility-page-6.png
+  Downloaded: patient-responsibility-page-7.png
+  Downloaded: patient-responsibility-page-8.png
+PROCESSED: Patient Responsibility Page.txt - Downloaded 8/8 images
+  Downloaded: how-to-set-block-pr-rules-1.png
+  Downloaded: how-to-set-block-pr-rules-2.png
+  Downloaded: how-to-set-block-pr-rules-3.png
+PROCESSED: How to Set Block PR Rules.txt - Downloaded 3/3 images
+  Downloaded: how-to-push-to-pr-1.png
+  Downloaded: how-to-push-to-pr-2.png
+  Downloaded: how-to-push-to-pr-3.png
+  Downloaded: how-to-push-to-pr-4.png
+  Downloaded: how-to-push-to-pr-5.png
+  Downloaded: how-to-push-to-pr-6.png
+PROCESSED: How to Push to PR.txt - Downloaded 6/6 images
+  Downloaded: setting-up-a-payment-plan-1.png
+  Downloaded: setting-up-a-payment-plan-2.png
+  Downloaded: setting-up-a-payment-plan-3.png
+  Downloaded: setting-up-a-payment-plan-4.png
+PROCESSED: Setting up a Payment Plan.txt - Downloaded 4/4 images
+  Downloaded: understanding-submission-errors-1.png
+  Downloaded: understanding-submission-errors-2.png
+  Downloaded: understanding-submission-errors-3.png
+  Downloaded: understanding-submission-errors-4.png
+  Downloaded: understanding-submission-errors-5.png
+  Downloaded: understanding-submission-errors-6.png
+  Downloaded: understanding-submission-errors-7.png
+  Downloaded: understanding-submission-errors-8.png
+PROCESSED: Understanding Submission Errors.txt - Downloaded 8/8 images
+  Downloaded: getting-started-with-patient-portal-1.png
+PROCESSED: Getting Started with Patient Portal.txt - Downloaded 1/1 images
+  Downloaded: chart-note-clinical-types-1.png
+PROCESSED: Chart Note Clinical Types.txt - Downloaded 1/1 images
+  Downloaded: navigating-inbox-workflows-1.png
+PROCESSED: Navigating Inbox Workflows.txt - Downloaded 1/1 images
+  Downloaded: modify-calendar-views-1.png
+PROCESSED: Modify calendar views.txt - Downloaded 1/1 images
+  Downloaded: how-to-receive-messages-1.png
+  Downloaded: how-to-receive-messages-2.png
+PROCESSED: How to receive messages.txt - Downloaded 2/2 images
+  Downloaded: self-service-credentialing-1.png
+  Downloaded: self-service-credentialing-2.png
+  Downloaded: self-service-credentialing-3.png
+  Downloaded: self-service-credentialing-4.png
+  Downloaded: self-service-credentialing-5.png
+  Downloaded: self-service-credentialing-6.png
+  Downloaded: self-service-credentialing-7.gif
+  Downloaded: self-service-credentialing-8.png
+  Downloaded: self-service-credentialing-9.png
+PROCESSED: Self-service Credentialing.txt - Downloaded 9/9 images
+  Downloaded: make-an-outbound-call-1.png
+PROCESSED: Make an Outbound Call.txt - Downloaded 1/1 images
+  Downloaded: understanding-use-cases-1.gif
+  Downloaded: understanding-use-cases-2.png
+  Downloaded: understanding-use-cases-3.gif
+  Downloaded: understanding-use-cases-4.gif
+PROCESSED: Understanding Use Cases.txt - Downloaded 4/4 images
+  Downloaded: addedit-a-patients-insurance-1.png
+  Downloaded: addedit-a-patients-insurance-2.png
+  Downloaded: addedit-a-patients-insurance-3.png
+  Downloaded: addedit-a-patients-insurance-4.png
+  Downloaded: addedit-a-patients-insurance-5.png
+  Downloaded: addedit-a-patients-insurance-6.png
+  Downloaded: addedit-a-patients-insurance-7.png
+PROCESSED: Add_edit a Patient's Insurance.txt - Downloaded 7/7 images
+  Downloaded: send-patient-statements-via-emailtext-1.png
+  Downloaded: send-patient-statements-via-emailtext-2.png
+  Downloaded: send-patient-statements-via-emailtext-3.png
+  Downloaded: send-patient-statements-via-emailtext-4.png
+  Downloaded: send-patient-statements-via-emailtext-5.png
+  Downloaded: send-patient-statements-via-emailtext-6.png
+  Downloaded: send-patient-statements-via-emailtext-7.png
+  Downloaded: send-patient-statements-via-emailtext-8.png
+  Downloaded: send-patient-statements-via-emailtext-9.png
+  Downloaded: send-patient-statements-via-emailtext-10.png
+  Downloaded: send-patient-statements-via-emailtext-11.png
+  Downloaded: send-patient-statements-via-emailtext-12.png
+PROCESSED: Send Patient Statements via Email_Text.txt - Downloaded 12/12 images
+  Downloaded: getting-started-with-your-rcm-assistant-1.png
+  Downloaded: getting-started-with-your-rcm-assistant-2.png
+  Downloaded: getting-started-with-your-rcm-assistant-3.png
+  Downloaded: getting-started-with-your-rcm-assistant-4.png
+PROCESSED: Getting Started With Your RCM Assistant.txt - Downloaded 4/4 images
+  Downloaded: encounter-timeline-for-claims-1.png
+  Downloaded: encounter-timeline-for-claims-2.png
+  Downloaded: encounter-timeline-for-claims-3.png
+  Downloaded: encounter-timeline-for-claims-4.png
+  Downloaded: encounter-timeline-for-claims-5.png
+  Downloaded: encounter-timeline-for-claims-6.png
+  Downloaded: encounter-timeline-for-claims-7.png
+  Downloaded: encounter-timeline-for-claims-8.png
+  Downloaded: encounter-timeline-for-claims-9.png
+  Downloaded: encounter-timeline-for-claims-10.png
+PROCESSED: Encounter Timeline for Claims.txt - Downloaded 10/10 images
+  Downloaded: how-to-update-insurance-1.png
+  Downloaded: how-to-update-insurance-2.png
+  Downloaded: how-to-update-insurance-3.png
+  Downloaded: how-to-update-insurance-4.png
+  Downloaded: how-to-update-insurance-5.png
+  Downloaded: how-to-update-insurance-6.png
+  Downloaded: how-to-update-insurance-7.png
+PROCESSED: How to Update Insurance.txt - Downloaded 7/7 images
+  Downloaded: how-to-take-payments-1.png
+  Downloaded: how-to-take-payments-2.png
+  Downloaded: how-to-take-payments-3.png
+  Downloaded: how-to-take-payments-4.png
+  Downloaded: how-to-take-payments-5.png
+  Downloaded: how-to-take-payments-6.png
+  Downloaded: how-to-take-payments-7.png
+  Downloaded: how-to-take-payments-8.png
+  Downloaded: how-to-take-payments-9.png
+  Downloaded: how-to-take-payments-10.png
+PROCESSED: How to Take Payments.txt - Downloaded 10/10 images
+  Downloaded: the-billing-rules-engine-1.png
+  Downloaded: the-billing-rules-engine-2.png
+  Downloaded: the-billing-rules-engine-3.png
+  Downloaded: the-billing-rules-engine-4.png
+PROCESSED: The Billing Rules Engine.txt - Downloaded 4/4 images
+  Downloaded: measuring-performance-1.png
+  Downloaded: measuring-performance-2.png
+  Downloaded: measuring-performance-3.png
+  Downloaded: measuring-performance-4.png
+  Downloaded: measuring-performance-5.png
+  Downloaded: measuring-performance-6.png
+PROCESSED: Measuring Performance.txt - Downloaded 6/6 images
+  Downloaded: ar-reports-1.png
+  Downloaded: ar-reports-2.png
+  Downloaded: ar-reports-3.png
+  Downloaded: ar-reports-4.png
+  Downloaded: ar-reports-5.png
+PROCESSED: A_R Reports.txt - Downloaded 5/5 images
+  Downloaded: components-of-the-dashboard-1.gif
+  Downloaded: components-of-the-dashboard-2.png
+  Downloaded: components-of-the-dashboard-3.gif
+  Downloaded: components-of-the-dashboard-4.png
+  Downloaded: components-of-the-dashboard-5.gif
+PROCESSED: Components of the Dashboard.txt - Downloaded 5/5 images
+  Downloaded: getting-started-with-chart-notes-1.png
+PROCESSED: Getting Started with Chart Notes.txt - Downloaded 1/1 images
+  Downloaded: set-up-custom-chart-note-templates-1.png
+  Downloaded: set-up-custom-chart-note-templates-2.png
+  Downloaded: set-up-custom-chart-note-templates-3.png
+  Downloaded: set-up-custom-chart-note-templates-4.png
+  Downloaded: set-up-custom-chart-note-templates-5.png
+  Downloaded: set-up-custom-chart-note-templates-6.png
+  Downloaded: set-up-custom-chart-note-templates-7.png
+  Downloaded: set-up-custom-chart-note-templates-8.png
+  Downloaded: set-up-custom-chart-note-templates-9.png
+  Downloaded: set-up-custom-chart-note-templates-10.png
+  Downloaded: set-up-custom-chart-note-templates-11.png
+  Downloaded: set-up-custom-chart-note-templates-12.png
+  Downloaded: set-up-custom-chart-note-templates-13.png
+  Downloaded: set-up-custom-chart-note-templates-14.png
+PROCESSED: Set up Custom Chart Note Templates.txt - Downloaded 14/14 images
+  Downloaded: how-to-create-suggested-pr-rules-1.png
+  Downloaded: how-to-create-suggested-pr-rules-2.png
+  Downloaded: how-to-create-suggested-pr-rules-3.png
+  Downloaded: how-to-create-suggested-pr-rules-4.png
+  Downloaded: how-to-create-suggested-pr-rules-5.png
+  Downloaded: how-to-create-suggested-pr-rules-6.png
+  Downloaded: how-to-create-suggested-pr-rules-7.png
+PROCESSED: How to Create Suggested PR Rules.txt - Downloaded 7/7 images
+  Downloaded: manage-staff-permissions-1.png
+  Downloaded: manage-staff-permissions-2.png
+PROCESSED: Manage Staff & Permissions.txt - Downloaded 2/2 images
+  Downloaded: how-to-post-a-remittance-manually-1.png
+  Downloaded: how-to-post-a-remittance-manually-2.png
+  Downloaded: how-to-post-a-remittance-manually-3.png
+  Downloaded: how-to-post-a-remittance-manually-4.png
+  Downloaded: how-to-post-a-remittance-manually-5.png
+  Downloaded: how-to-post-a-remittance-manually-6.png
+PROCESSED: How to Post a Remittance Manually.txt - Downloaded 6/6 images
+  Downloaded: patient-eligibility-report-1.png
+PROCESSED: Patient Eligibility Report.txt - Downloaded 1/1 images
+  Downloaded: navigating-your-lead-tracker-1.png
+  Downloaded: navigating-your-lead-tracker-2.png
+  Downloaded: navigating-your-lead-tracker-3.png
+  Downloaded: navigating-your-lead-tracker-4.png
+  Downloaded: navigating-your-lead-tracker-5.png
+  Downloaded: navigating-your-lead-tracker-6.png
+  Downloaded: navigating-your-lead-tracker-7.png
+  Downloaded: navigating-your-lead-tracker-8.png
+PROCESSED: Navigating your lead tracker.txt - Downloaded 8/8 images
+  Downloaded: send-and-receive-a-fax-1.png
+  Downloaded: send-and-receive-a-fax-2.png
+  Downloaded: send-and-receive-a-fax-3.png
+  Downloaded: send-and-receive-a-fax-4.png
+  Downloaded: send-and-receive-a-fax-5.png
+  Downloaded: send-and-receive-a-fax-6.png
+  Downloaded: send-and-receive-a-fax-7.png
+  Downloaded: send-and-receive-a-fax-8.png
+PROCESSED: Send and Receive a Fax.txt - Downloaded 8/8 images
+  Downloaded: how-to-find-and-edit-a-patients-profile-1.png
+  Downloaded: how-to-find-and-edit-a-patients-profile-2.png
+  Downloaded: how-to-find-and-edit-a-patients-profile-3.png
+  Downloaded: how-to-find-and-edit-a-patients-profile-4.png
+  Downloaded: how-to-find-and-edit-a-patients-profile-5.png
+  Downloaded: how-to-find-and-edit-a-patients-profile-6.png
+  Downloaded: how-to-find-and-edit-a-patients-profile-7.png
+  Downloaded: how-to-find-and-edit-a-patients-profile-8.png
+  Downloaded: how-to-find-and-edit-a-patients-profile-9.png
+PROCESSED: How to Find and Edit a Patient’s Profile.txt - Downloaded 9/9 images
+  Downloaded: tying-faxes-to-patients-1.png
+  Downloaded: tying-faxes-to-patients-2.png
+PROCESSED: Tying Faxes to Patients.txt - Downloaded 2/2 images
+  Downloaded: the-review-charges-page-1.png
+  Downloaded: the-review-charges-page-2.png
+  Downloaded: the-review-charges-page-3.png
+  Downloaded: the-review-charges-page-4.png
+  Downloaded: the-review-charges-page-5.png
+  Downloaded: the-review-charges-page-6.png
+  Downloaded: the-review-charges-page-7.png
+  Downloaded: the-review-charges-page-8.png
+  Downloaded: the-review-charges-page-9.png
+  Downloaded: the-review-charges-page-10.png
+  Downloaded: the-review-charges-page-11.png
+  Downloaded: the-review-charges-page-12.png
+  Downloaded: the-review-charges-page-13.png
+  Downloaded: the-review-charges-page-14.png
+  Downloaded: the-review-charges-page-15.png
+  Downloaded: the-review-charges-page-16.png
+  Downloaded: the-review-charges-page-17.png
+PROCESSED: The Review Charges Page.txt - Downloaded 17/17 images
+  Downloaded: how-to-set-up-miscellaneous-line-item-charges-1.png
+  Downloaded: how-to-set-up-miscellaneous-line-item-charges-2.png
+  Downloaded: how-to-set-up-miscellaneous-line-item-charges-3.png
+  Downloaded: how-to-set-up-miscellaneous-line-item-charges-4.png
+  Downloaded: how-to-set-up-miscellaneous-line-item-charges-5.png
+  Downloaded: how-to-set-up-miscellaneous-line-item-charges-6.png
+  Downloaded: how-to-set-up-miscellaneous-line-item-charges-7.png
+  Downloaded: how-to-set-up-miscellaneous-line-item-charges-8.png
+PROCESSED: How to Set Up Miscellaneous Line Item Charges.txt - Downloaded 8/8 images
+  Downloaded: site-transaction-report-summary-1.png
+  Downloaded: site-transaction-report-summary-2.png
+PROCESSED: Site Transaction Report Summary.txt - Downloaded 2/2 images
+  Downloaded: patient-intake-automation-1.png
+PROCESSED: Patient Intake Automation.txt - Downloaded 1/1 images
+  Downloaded: send-email-statements-1.png
+  Downloaded: send-email-statements-2.png
+  Downloaded: send-email-statements-3.png
+PROCESSED: Send Email Statements.txt - Downloaded 3/3 images
+  Downloaded: claim-adjustments-report-1.png
+PROCESSED: Claim Adjustments Report.txt - Downloaded 1/1 images
+  Downloaded: how-and-when-to-use-the-quick-purchase-function-1.png
+  Downloaded: how-and-when-to-use-the-quick-purchase-function-2.png
+  Downloaded: how-and-when-to-use-the-quick-purchase-function-3.png
+PROCESSED: How (and When) to Use the Quick Purchase Function.txt - Downloaded 3/3 images
+  Downloaded: getting-started-with-athelas-assistant-1.png
+  Downloaded: getting-started-with-athelas-assistant-2.png
+  Downloaded: getting-started-with-athelas-assistant-3.png
+  Downloaded: getting-started-with-athelas-assistant-4.png
+PROCESSED: Getting Started with Athelas Assistant.txt - Downloaded 4/4 images

@@ -11,58 +11,825 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Provider Workflows",
         "groups": [
           {
-            "group": "Getting started",
+            "group": "Chart Notes",
             "pages": [
-              "index",
-              "quickstart",
-              "development"
+              {
+                "page": "Provider Workflows/Chart Notes/chart-notes-getting-started-with-chart-notes",
+                "label": "Getting Started with Chart Notes"
+              },
+              {
+                "page": "Provider Workflows/Chart Notes/chart-notes-auto-apply-kx-modifier",
+                "label": "Auto-apply KX Modifier"
+              },
+              {
+                "page": "Provider Workflows/Chart Notes/chart-notes-ai-appt-summaries",
+                "label": "AI Appt. Summaries"
+              },
+              {
+                "page": "Provider Workflows/Chart Notes/chart-notes-chart-note-clinical-types",
+                "label": "Chart Note Clinical Types"
+              },
+              {
+                "page": "Provider Workflows/Chart Notes/chart-notes-download-chart-notes-as-pdfs",
+                "label": "Download Chart Notes as PDFs"
+              },
+              {
+                "page": "Provider Workflows/Chart Notes/chart-notes-goals-on-the-chart-note",
+                "label": "Goals on the chart note"
+              },
+              {
+                "page": "Provider Workflows/Chart Notes/chart-notes-how-to-add-measurements",
+                "label": "How to add Measurements"
+              },
+              {
+                "page": "Provider Workflows/Chart Notes/chart-notes-import-previous-medical-history",
+                "label": "Import Previous Medical History"
+              },
+              {
+                "page": "Provider Workflows/Chart Notes/chart-notes-navigating-flowsheets",
+                "label": "Navigating Flowsheets"
+              },
+              {
+                "page": "Provider Workflows/Chart Notes/chart-notes-navigating-inbox-workflows",
+                "label": "Navigating Inbox Workflows"
+              },
+              {
+                "page": "Provider Workflows/Chart Notes/chart-notes-navigating-the-chart-note",
+                "label": "Navigating the Chart Note"
+              },
+              {
+                "page": "Provider Workflows/Chart Notes/chart-notes-set-up-custom-chart-note-templates",
+                "label": "Set up Custom Chart Note Templates"
+              },
+              {
+                "page": "Provider Workflows/Chart Notes/chart-notes-setting-up-co-signers-on-your-note",
+                "label": "Setting up Co-signers on Your Note"
+              },
+              {
+                "page": "Provider Workflows/Chart Notes/chart-notes-sign-a-chart-note",
+                "label": "Sign a Chart Note"
+              },
+              {
+                "page": "Provider Workflows/Chart Notes/chart-notes-text-snippets-for-your-note",
+                "label": "Text Snippets For Your Note"
+              },
+              {
+                "page": "Provider Workflows/Chart Notes/chart-notes-chart-note-features-not-supported",
+                "label": "Chart Note Features Not Supported"
+              }
             ]
           },
           {
-            "group": "Customization",
+            "group": "AI Scribe & Tooling",
             "pages": [
-              "essentials/settings",
-              "essentials/navigation"
+              {
+                "page": "Provider Workflows/AI Scribe & Tooling/ai-scribe-tooling-additional-context-feature",
+                "label": "Additional Context Feature"
+              },
+              {
+                "page": "Provider Workflows/AI Scribe & Tooling/ai-scribe-tooling-complete-a-visit-with-air-scribe",
+                "label": "Complete a Visit with Air Scribe"
+              },
+              {
+                "page": "Provider Workflows/AI Scribe & Tooling/ai-scribe-tooling-edit-with-commandk",
+                "label": "Edit with Command+K"
+              },
+              {
+                "page": "Provider Workflows/AI Scribe & Tooling/ai-scribe-tooling-how-to-apply-an-air-scribe",
+                "label": "How to Apply an Air Scribe"
+              },
+              {
+                "page": "Provider Workflows/AI Scribe & Tooling/ai-scribe-tooling-how-to-set-up-ai-compliance",
+                "label": "How to Set up AI Compliance"
+              },
+              {
+                "page": "Provider Workflows/AI Scribe & Tooling/ai-scribe-tooling-setting-up-ai-compliance",
+                "label": "Setting up AI Compliance"
+              }
             ]
           },
           {
-            "group": "Writing content",
+            "group": "Patient Profiles",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/reusable-snippets"
+              {
+                "page": "Provider Workflows/Patient Profiles/patient-profiles-getting-started-with-patient-profile",
+                "label": "Getting started with Patient Profile"
+              },
+              {
+                "page": "Provider Workflows/Patient Profiles/patient-profiles-navigating-labs",
+                "label": "Navigating Labs"
+              },
+              {
+                "page": "Provider Workflows/Patient Profiles/patient-profiles-add-attachments-to-patient-profile",
+                "label": "Add attachments to Patient Profile"
+              },
+              {
+                "page": "Provider Workflows/Patient Profiles/patient-profiles-prescribe-medications",
+                "label": "Prescribe Medications"
+              },
+              {
+                "page": "Provider Workflows/Patient Profiles/patient-profiles-record-allergies",
+                "label": "Record Allergies"
+              },
+              {
+                "page": "Provider Workflows/Patient Profiles/patient-profiles-record-immunizations",
+                "label": "Record Immunizations"
+              },
+              {
+                "page": "Provider Workflows/Patient Profiles/patient-profiles-view-patients-appointments",
+                "label": "View Patient"
+              },
+              {
+                "page": "Provider Workflows/Patient Profiles/patient-profiles-profile-features-not-supported",
+                "label": "Profile Features Not Supported"
+              }
             ]
           },
           {
-            "group": "AI tools",
+            "group": "Medications",
             "pages": [
-              "ai-tools/cursor",
-              "ai-tools/claude-code",
-              "ai-tools/windsurf"
+              {
+                "page": "Provider Workflows/Medications/medications-designate-staff-as-provider-agents",
+                "label": "Designate Staff as Provider Agents"
+              }
+            ]
+          },
+          {
+            "group": "Athelas Assistant",
+            "pages": [
+              {
+                "page": "Provider Workflows/Athelas Assistant/athelas-assistant-getting-started-with-athelas-assistant",
+                "label": "Getting Started with Athelas Assistant"
+              },
+              {
+                "page": "Provider Workflows/Athelas Assistant/athelas-assistant-athelas-assistant-common-functionalities",
+                "label": "Athelas Assistant Common Functionalities"
+              },
+              {
+                "page": "Provider Workflows/Athelas Assistant/athelas-assistant-athelas-assistant-best-practices",
+                "label": "Athelas Assistant Best Practices"
+              }
             ]
           }
         ]
       },
       {
-        "tab": "API reference",
+        "tab": "Front Office Workflows",
         "groups": [
           {
-            "group": "API documentation",
+            "group": "Calendar",
             "pages": [
-              "api-reference/introduction"
+              {
+                "page": "Front Office Workflows/Calendar/calendar-getting-started-with-the-calendar",
+                "label": "Getting started with the Calendar"
+              },
+              {
+                "page": "Front Office Workflows/Calendar/calendar-calendar-start-end-times",
+                "label": "Calendar start & end times"
+              },
+              {
+                "page": "Front Office Workflows/Calendar/calendar-filter-the-calendar-view",
+                "label": "Filter the calendar view"
+              },
+              {
+                "page": "Front Office Workflows/Calendar/calendar-modify-calendar-views",
+                "label": "Modify calendar views"
+              },
+              {
+                "page": "Front Office Workflows/Calendar/calendar-viewing-multiple-providers",
+                "label": "Viewing multiple providers"
+              },
+              {
+                "page": "Front Office Workflows/Calendar/calendar-features-not-supported",
+                "label": "Features not supported"
+              }
             ]
           },
           {
-            "group": "Endpoint examples",
+            "group": "Appointments",
             "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
+              {
+                "page": "Front Office Workflows/Appointments/appointments-the-insights-appointments-page",
+                "label": "The Insights Appointments Page"
+              },
+              {
+                "page": "Front Office Workflows/Appointments/appointments-adding-prior-auth-and-alerting",
+                "label": "Adding Prior Auth and Alerting"
+              },
+              {
+                "page": "Front Office Workflows/Appointments/appointments-alternate-methods-for-scheduling",
+                "label": "Alternate Methods for Scheduling"
+              },
+              {
+                "page": "Front Office Workflows/Appointments/appointments-how-to-add-a-walk-in-patient",
+                "label": "How to Add a Walk-In Patient"
+              },
+              {
+                "page": "Front Office Workflows/Appointments/appointments-how-to-run-an-eligibility-check",
+                "label": "How to Run an Eligibility Check"
+              },
+              {
+                "page": "Front Office Workflows/Appointments/appointments-how-to-schedule-an-appointment",
+                "label": "How to Schedule an Appointment"
+              },
+              {
+                "page": "Front Office Workflows/Appointments/appointments-how-to-take-payments",
+                "label": "How to Take Payments"
+              },
+              {
+                "page": "Front Office Workflows/Appointments/appointments-sending-out-reminders-and-forms",
+                "label": "Sending out reminders and forms"
+              },
+              {
+                "page": "Front Office Workflows/Appointments/appointments-understanding-appointment-details",
+                "label": "Understanding Appointment Details"
+              },
+              {
+                "page": "Front Office Workflows/Appointments/appointments-updating-appointment-statuses",
+                "label": "Updating Appointment Statuses"
+              },
+              {
+                "page": "Front Office Workflows/Appointments/appointments-appt-features-not-supported",
+                "label": "Appt. Features not supported"
+              }
+            ]
+          },
+          {
+            "group": "Agents Center",
+            "pages": [
+              {
+                "page": "Front Office Workflows/Agents Center/agents-center-getting-started-with-agents-center",
+                "label": "Getting Started with Agents Center"
+              },
+              {
+                "page": "Front Office Workflows/Agents Center/agents-center-components-of-the-dashboard",
+                "label": "Components of the Dashboard"
+              },
+              {
+                "page": "Front Office Workflows/Agents Center/agents-center-make-an-outbound-call",
+                "label": "Make an Outbound Call"
+              },
+              {
+                "page": "Front Office Workflows/Agents Center/agents-center-understanding-use-cases",
+                "label": "Understanding Use Cases"
+              }
+            ]
+          },
+          {
+            "group": "Claim Details",
+            "pages": [
+              {
+                "page": "Front Office Workflows/Claim Details/claim-details-claim-details-page",
+                "label": "Claim Details Page"
+              },
+              {
+                "page": "Front Office Workflows/Claim Details/claim-details-other-submission-types-secondary-specialty-etc",
+                "label": "Other Submission Types (Secondary, Specialty etc)"
+              },
+              {
+                "page": "Front Office Workflows/Claim Details/claim-details-encounter-timeline-for-claims",
+                "label": "Encounter Timeline for Claims"
+              },
+              {
+                "page": "Front Office Workflows/Claim Details/claim-details-how-to-download-cms-1500-forms",
+                "label": "How to Download CMS-1500 Forms"
+              },
+              {
+                "page": "Front Office Workflows/Claim Details/claim-details-how-to-resubmit-a-single-claim",
+                "label": "How to Resubmit a Single Claim"
+              },
+              {
+                "page": "Front Office Workflows/Claim Details/claim-details-how-to-resubmit-claims-in-bulk",
+                "label": "How to Resubmit Claims in Bulk"
+              },
+              {
+                "page": "Front Office Workflows/Claim Details/claim-details-how-to-send-documentation",
+                "label": "How to Send Documentation"
+              },
+              {
+                "page": "Front Office Workflows/Claim Details/claim-details-submissions-and-remits",
+                "label": "Submissions and Remits"
+              }
+            ]
+          },
+          {
+            "group": "Daily Operations",
+            "pages": [
+              {
+                "page": "Front Office Workflows/Daily Operations/daily-operations-how-to-reconcile-your-cash-drawer",
+                "label": "How to Reconcile Your Cash Drawer"
+              }
+            ]
+          },
+          {
+            "group": "Encounter Details",
+            "pages": [
+              {
+                "page": "Front Office Workflows/Encounter Details/encounter-details-encounter-details-page",
+                "label": "Encounter Details Page"
+              },
+              {
+                "page": "Front Office Workflows/Encounter Details/encounter-details-insights-prior-authorization",
+                "label": "Insights Prior Authorization"
+              },
+              {
+                "page": "Front Office Workflows/Encounter Details/encounter-details-encounter-stage-and-status",
+                "label": "Encounter Stage and Status"
+              },
+              {
+                "page": "Front Office Workflows/Encounter Details/encounter-details-how-to-update-insurance",
+                "label": "How to Update Insurance"
+              }
+            ]
+          },
+          {
+            "group": "Faxing",
+            "pages": [
+              {
+                "page": "Front Office Workflows/Faxing/faxing-getting-started-with-faxing",
+                "label": "Getting Started with Faxing"
+              },
+              {
+                "page": "Front Office Workflows/Faxing/faxing-attach-task-follow-ups-to-faxes",
+                "label": "Attach Task Follow-ups to Faxes"
+              },
+              {
+                "page": "Front Office Workflows/Faxing/faxing-send-and-receive-a-fax",
+                "label": "Send and Receive a Fax"
+              },
+              {
+                "page": "Front Office Workflows/Faxing/faxing-tying-faxes-to-patients",
+                "label": "Tying Faxes to Patients"
+              },
+              {
+                "page": "Front Office Workflows/Faxing/faxing-tying-inbound-faxes-to-outbound-faxes",
+                "label": "Tying inbound faxes to outbound faxes"
+              },
+              {
+                "page": "Front Office Workflows/Faxing/faxing-faxing-features-not-supported",
+                "label": "Faxing Features Not Supported"
+              }
+            ]
+          },
+          {
+            "group": "Messaging",
+            "pages": [
+              {
+                "page": "Front Office Workflows/Messaging/messaging-how-to-receive-messages",
+                "label": "How to receive messages"
+              },
+              {
+                "page": "Front Office Workflows/Messaging/messaging-how-to-send-messages",
+                "label": "How to send messages"
+              },
+              {
+                "page": "Front Office Workflows/Messaging/messaging-messages-page",
+                "label": "Messages Page"
+              }
+            ]
+          },
+          {
+            "group": "Patient Communications",
+            "pages": [
+              {
+                "page": "Front Office Workflows/Patient Communications/patient-communications-general-patient-flows-features",
+                "label": "General Patient Flows Features"
+              },
+              {
+                "page": "Front Office Workflows/Patient Communications/patient-communications-text-blast-page",
+                "label": "Text Blast Page"
+              },
+              {
+                "page": "Front Office Workflows/Patient Communications/patient-communications-insurance-intake-page",
+                "label": "Insurance Intake Page"
+              },
+              {
+                "page": "Front Office Workflows/Patient Communications/patient-communications-functional-outcome-measurements",
+                "label": "Functional Outcome Measurements"
+              },
+              {
+                "page": "Front Office Workflows/Patient Communications/patient-communications-getting-started-with-patient-portal",
+                "label": "Getting Started with Patient Portal"
+              },
+              {
+                "page": "Front Office Workflows/Patient Communications/patient-communications-complete-intake-forms",
+                "label": "Complete Intake Forms"
+              },
+              {
+                "page": "Front Office Workflows/Patient Communications/patient-communications-navigating-patient-workflows",
+                "label": "Navigating Patient Workflows"
+              },
+              {
+                "page": "Front Office Workflows/Patient Communications/patient-communications-manage-patient-appointments",
+                "label": "Manage Patient Appointments"
+              },
+              {
+                "page": "Front Office Workflows/Patient Communications/patient-communications-manage-payments-through-patient-portal",
+                "label": "Manage Payments through Patient Portal"
+              },
+              {
+                "page": "Front Office Workflows/Patient Communications/patient-communications-patient-intake-automation",
+                "label": "Patient Intake Automation"
+              },
+              {
+                "page": "Front Office Workflows/Patient Communications/patient-communications-update-insurance-info",
+                "label": "Update Insurance Info"
+              },
+              {
+                "page": "Front Office Workflows/Patient Communications/patient-communications-view-home-exercise-programs",
+                "label": "View Home Exercise Programs"
+              }
+            ]
+          },
+          {
+            "group": "Patient Demographics",
+            "pages": [
+              {
+                "page": "Front Office Workflows/Patient Demographics/patient-demographics-getting-started-with-demographics",
+                "label": "Getting Started with Demographics"
+              },
+              {
+                "page": "Front Office Workflows/Patient Demographics/patient-demographics-addedit-a-patients-insurance",
+                "label": "Add/edit a Patient"
+              },
+              {
+                "page": "Front Office Workflows/Patient Demographics/patient-demographics-addedit-patient-cases",
+                "label": "Add/edit Patient Cases"
+              },
+              {
+                "page": "Front Office Workflows/Patient Demographics/patient-demographics-addedit-patients-prior-authorization",
+                "label": "Add/edit Patient"
+              }
+            ]
+          },
+          {
+            "group": "Patient Profiles",
+            "pages": [
+              {
+                "page": "Front Office Workflows/Patient Profiles/patient-profiles-how-to-find-and-edit-a-patients-profile",
+                "label": "How to Find and Edit a Patient"
+              },
+              {
+                "page": "Front Office Workflows/Patient Profiles/patient-profiles-how-to-resubmit-claims",
+                "label": "How to Resubmit Claim(s)"
+              }
+            ]
+          },
+          {
+            "group": "Patient Responsibility",
+            "pages": [
+              {
+                "page": "Front Office Workflows/Patient Responsibility/patient-responsibility-patient-responsibility-page",
+                "label": "Patient Responsibility Page"
+              },
+              {
+                "page": "Front Office Workflows/Patient Responsibility/patient-responsibility-charge-saved-credit-cards",
+                "label": "Charge Saved Credit Cards"
+              },
+              {
+                "page": "Front Office Workflows/Patient Responsibility/patient-responsibility-manage-credit-cards",
+                "label": "Manage Credit Cards"
+              },
+              {
+                "page": "Front Office Workflows/Patient Responsibility/patient-responsibility-setting-up-a-payment-plan",
+                "label": "Setting up a Payment Plan"
+              },
+              {
+                "page": "Front Office Workflows/Patient Responsibility/patient-responsibility-how-to-cancel-pr",
+                "label": "How to Cancel PR"
+              },
+              {
+                "page": "Front Office Workflows/Patient Responsibility/patient-responsibility-how-to-send-a-patient-payment-link",
+                "label": "How to Send a Patient Payment Link"
+              },
+              {
+                "page": "Front Office Workflows/Patient Responsibility/patient-responsibility-how-to-push-to-pr",
+                "label": "How to Push to PR"
+              },
+              {
+                "page": "Front Office Workflows/Patient Responsibility/patient-responsibility-how-to-record-payments",
+                "label": "How to Record Payments"
+              },
+              {
+                "page": "Front Office Workflows/Patient Responsibility/patient-responsibility-how-to-refund-a-payment",
+                "label": "How to Refund a Payment"
+              },
+              {
+                "page": "Front Office Workflows/Patient Responsibility/patient-responsibility-how-to-request-via-text-or-email",
+                "label": "How to Request via Text or Email"
+              },
+              {
+                "page": "Front Office Workflows/Patient Responsibility/patient-responsibility-how-to-set-up-miscellaneous-line-item-charges",
+                "label": "How to Set Up Miscellaneous Line Item Charges"
+              },
+              {
+                "page": "Front Office Workflows/Patient Responsibility/patient-responsibility-how-to-take-payment-for-families",
+                "label": "How to Take Payment for Families"
+              },
+              {
+                "page": "Front Office Workflows/Patient Responsibility/patient-responsibility-how-to-undo-a-write-off",
+                "label": "How to Undo a Write Off"
+              },
+              {
+                "page": "Front Office Workflows/Patient Responsibility/patient-responsibility-how-to-write-off-pr",
+                "label": "How to Write Off PR"
+              },
+              {
+                "page": "Front Office Workflows/Patient Responsibility/patient-responsibility-pr-overpayment-refunds-and-estimated-vs-remittance-pr",
+                "label": "PR Overpayment Refunds and Estimated vs. Remittance PR"
+              },
+              {
+                "page": "Front Office Workflows/Patient Responsibility/patient-responsibility-pr-settings",
+                "label": "PR Settings"
+              },
+              {
+                "page": "Front Office Workflows/Patient Responsibility/patient-responsibility-pr-timeline",
+                "label": "PR Timeline"
+              }
+            ]
+          },
+          {
+            "group": "Patient Statements",
+            "pages": [
+              {
+                "page": "Front Office Workflows/Patient Statements/patient-statements-turn-off-patient-texts",
+                "label": "Turn off Patient Texts"
+              },
+              {
+                "page": "Front Office Workflows/Patient Statements/patient-statements-how-to-spread-pr-statement-emails",
+                "label": "How to Spread PR Statement Emails"
+              },
+              {
+                "page": "Front Office Workflows/Patient Statements/patient-statements-manage-patient-statements",
+                "label": "Manage Patient Statements"
+              },
+              {
+                "page": "Front Office Workflows/Patient Statements/patient-statements-print-patient-statements",
+                "label": "Print Patient Statements"
+              },
+              {
+                "page": "Front Office Workflows/Patient Statements/patient-statements-send-email-statements",
+                "label": "Send Email Statements"
+              },
+              {
+                "page": "Front Office Workflows/Patient Statements/patient-statements-send-one-off-paper-statements",
+                "label": "Send One-off Paper Statements"
+              },
+              {
+                "page": "Front Office Workflows/Patient Statements/patient-statements-send-patient-statements-via-emailtext",
+                "label": "Send Patient Statements via Email/Text"
+              }
+            ]
+          },
+          {
+            "group": "Posting",
+            "pages": [
+              {
+                "page": "Front Office Workflows/Posting/posting-how-to-handle-duplicate-remittances",
+                "label": "How to Handle Duplicate Remittances"
+              },
+              {
+                "page": "Front Office Workflows/Posting/posting-how-to-handle-partial-denials",
+                "label": "How to Handle Partial Denials"
+              },
+              {
+                "page": "Front Office Workflows/Posting/posting-how-to-post-a-remittance-manually",
+                "label": "How to Post a Remittance Manually"
+              },
+              {
+                "page": "Front Office Workflows/Posting/posting-how-to-use-the-posting-tool-page",
+                "label": "How to Use the Posting Tool Page"
+              },
+              {
+                "page": "Front Office Workflows/Posting/posting-how-to-write-off-a-balance",
+                "label": "How to Write Off a Balance"
+              }
+            ]
+          },
+          {
+            "group": "Tasking",
+            "pages": [
+              {
+                "page": "Front Office Workflows/Tasking/tasking-how-to-create-tasks",
+                "label": "How to create tasks"
+              },
+              {
+                "page": "Front Office Workflows/Tasking/tasking-sorting-archiving-bulk-actions",
+                "label": "Sorting, Archiving, Bulk Actions"
+              }
+            ]
+          },
+          {
+            "group": "Utilities",
+            "pages": [
+              {
+                "page": "Front Office Workflows/Utilities/utilities-self-service-credentialing",
+                "label": "Self-service Credentialing"
+              },
+              {
+                "page": "Front Office Workflows/Utilities/utilities-patient-subscriptions",
+                "label": "Patient Subscriptions"
+              },
+              {
+                "page": "Front Office Workflows/Utilities/utilities-process-virtual-cards",
+                "label": "Process Virtual Cards"
+              },
+              {
+                "page": "Front Office Workflows/Utilities/utilities-download-edis-in-bulk",
+                "label": "Download EDI"
+              },
+              {
+                "page": "Front Office Workflows/Utilities/utilities-bank-deposit-verification",
+                "label": "Bank Deposit Verification"
+              },
+              {
+                "page": "Front Office Workflows/Utilities/utilities-eob-creation-and-portal-checks",
+                "label": "EOB Creation and Portal Checks"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Billing Workflows",
+        "groups": [
+          {
+            "group": "Analytics",
+            "pages": [
+              {
+                "page": "Billing Workflows/Analytics/analytics-the-denials-analysis-page",
+                "label": "The Denials Analysis Page"
+              },
+              {
+                "page": "Billing Workflows/Analytics/analytics-the-revenue-analysis-page",
+                "label": "The Revenue Analysis Page"
+              }
+            ]
+          },
+          {
+            "group": "Front Office Payments",
+            "pages": [
+              {
+                "page": "Billing Workflows/Front Office Payments/front-office-payments-how-to-create-suggested-pr-rules",
+                "label": "How to Create Suggested PR Rules"
+              },
+              {
+                "page": "Billing Workflows/Front Office Payments/front-office-payments-self-pay-fee-schedule",
+                "label": "Self-pay Fee Schedule"
+              },
+              {
+                "page": "Billing Workflows/Front Office Payments/front-office-payments-target-allowed-amounts",
+                "label": "Target Allowed Amounts"
+              }
+            ]
+          },
+          {
+            "group": "General Billing",
+            "pages": [
+              {
+                "page": "Billing Workflows/General Billing/general-billing-remittances",
+                "label": "Remittances"
+              },
+              {
+                "page": "Billing Workflows/General Billing/general-billing-how-to-set-block-pr-rules",
+                "label": "How to Set Block PR Rules"
+              },
+              {
+                "page": "Billing Workflows/General Billing/general-billing-the-billing-rules-engine",
+                "label": "The Billing Rules Engine"
+              },
+              {
+                "page": "Billing Workflows/General Billing/general-billing-the-review-charges-page",
+                "label": "The Review Charges Page"
+              }
+            ]
+          },
+          {
+            "group": "Reports",
+            "pages": [
+              {
+                "page": "Billing Workflows/Reports/reports-building-and-running-reports",
+                "label": "Building and Running Reports"
+              },
+              {
+                "page": "Billing Workflows/Reports/reports-ar-reports",
+                "label": "A/R Reports"
+              },
+              {
+                "page": "Billing Workflows/Reports/reports-claim-adjustments-report",
+                "label": "Claim Adjustments Report"
+              },
+              {
+                "page": "Billing Workflows/Reports/reports-collections-report",
+                "label": "Collections Report"
+              },
+              {
+                "page": "Billing Workflows/Reports/reports-custom-collections-report",
+                "label": "Custom Collections Report"
+              },
+              {
+                "page": "Billing Workflows/Reports/reports-detailed-charges-report",
+                "label": "Detailed Charges Report"
+              },
+              {
+                "page": "Billing Workflows/Reports/reports-export-claim-details",
+                "label": "Export Claim Details"
+              },
+              {
+                "page": "Billing Workflows/Reports/reports-generate-a-transaction-report",
+                "label": "Generate a Transaction Report"
+              },
+              {
+                "page": "Billing Workflows/Reports/reports-patient-balances-report",
+                "label": "Patient Balances Report"
+              },
+              {
+                "page": "Billing Workflows/Reports/reports-patient-charges-report",
+                "label": "Patient Charges Report"
+              },
+              {
+                "page": "Billing Workflows/Reports/reports-patient-claims-one-pagers",
+                "label": "Patient Claims One-pagers"
+              },
+              {
+                "page": "Billing Workflows/Reports/reports-patient-collections-report",
+                "label": "Patient Collections Report"
+              },
+              {
+                "page": "Billing Workflows/Reports/reports-patient-eligibility-report",
+                "label": "Patient Eligibility Report"
+              },
+              {
+                "page": "Billing Workflows/Reports/reports-posting-log-report",
+                "label": "Posting Log Report"
+              },
+              {
+                "page": "Billing Workflows/Reports/reports-site-transaction-report",
+                "label": "Site Transaction Report"
+              },
+              {
+                "page": "Billing Workflows/Reports/reports-site-transaction-report-summary",
+                "label": "Site Transaction Report Summary"
+              },
+              {
+                "page": "Billing Workflows/Reports/reports-submitted-claims-report",
+                "label": "Submitted Claims Report"
+              },
+              {
+                "page": "Billing Workflows/Reports/reports-upcoming-patient-statements-report",
+                "label": "Upcoming Patient Statements Report"
+              }
+            ]
+          },
+          {
+            "group": "Athelas Assistant",
+            "pages": [
+              {
+                "page": "Billing Workflows/Athelas Assistant/athelas-assistant-getting-started-with-your-rcm-assistant",
+                "label": "Getting Started With Your RCM Assistant"
+              },
+              {
+                "page": "Billing Workflows/Athelas Assistant/athelas-assistant-rcm-ai-prompt-library",
+                "label": "RCM AI Prompt Library"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Owners & Administration",
+        "groups": [
+          {
+            "group": "My Practice",
+            "pages": [
+              {
+                "page": "Owners & Administration/My Practice/my-practice-getting-started-with-your-practice",
+                "label": "Getting Started with Your Practice"
+              },
+              {
+                "page": "Owners & Administration/My Practice/my-practice-your-athelas-invoice",
+                "label": "Your Athelas Invoice"
+              },
+              {
+                "page": "Owners & Administration/My Practice/my-practice-manage-staff-permissions",
+                "label": "Manage Staff & Permissions"
+              },
+              {
+                "page": "Owners & Administration/My Practice/my-practice-update-practice-information",
+                "label": "Update Practice Information"
+              }
+            ]
+          },
+          {
+            "group": "Reporting",
+            "pages": [
+              {
+                "page": "Owners & Administration/Reporting/reporting-measuring-performance",
+                "label": "Measuring Performance"
+              }
             ]
           }
         ]
@@ -102,15 +869,15 @@
   },
   "contextual": {
     "options": [
-     "copy",
-     "view",
-     "chatgpt",
-     "claude",
-     "perplexity",
-     "mcp",
-     "cursor",
-     "vscode"
-   ]
+      "copy",
+      "view",
+      "chatgpt",
+      "claude",
+      "perplexity",
+      "mcp",
+      "cursor",
+      "vscode"
+    ]
   },
   "footer": {
     "socials": {

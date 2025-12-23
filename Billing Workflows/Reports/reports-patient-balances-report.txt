@@ -1,0 +1,4 @@
+Patient Balances Report
+
+
+<img alt="" src="/images/patient-balances-report/patient-balances-report-1.png"><p><br></p><h4>Summary</h4><p>This report is a list of all patients and their current outstanding balances.</p><h4><br></h4><h4>Notes</h4><ul><li data-preset-tag="p"><p>This report does not include “customers” created through the quick purchase flow.</p></li><li data-preset-tag="p"><p>This report only includes charges that are still on the the patient’s balance. If a charge is canceled it will not be shown in this report.</p></li></ul><h4><br></h4><h4>Filters Supported</h4><ul><li data-preset-tag="p"><p>None. All patients will show in this report.</p></li></ul>

@@ -1,0 +1,4 @@
+Navigating Labs
+
+
+<ul><li data-preset-tag="p"><p>Send and manage electronic lab orders via HealthGorilla (<a href="https://developer.healthgorilla.com/docs/list-of-connected-labs">100+ supported lab vendors</a>) for consultation and in-place specimen collection</p></li><li data-preset-tag="p"><p>Receive lab results via PDF in the patient profile</p></li><li data-preset-tag="p"><p>Attach ask-at-order questions to lab orders</p></li><li data-preset-tag="p"><p>Download PDFs of labs</p></li></ul><img alt="" src="/images/navigating-labs/navigating-labs-1.png"><p><br></p>

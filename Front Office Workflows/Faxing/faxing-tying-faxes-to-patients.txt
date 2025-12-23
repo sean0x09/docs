@@ -1,0 +1,4 @@
+Tying Faxes to Patients
+
+
+<p>When classifying inbound faxes, you can tie the fax to a specific patient</p><img alt="" src="/images/tying-faxes-to-patients/tying-faxes-to-patients-1.png"><p>You can then filter by associated patients on the faxing table</p><img alt="" src="/images/tying-faxes-to-patients/tying-faxes-to-patients-2.png"><p><br></p>

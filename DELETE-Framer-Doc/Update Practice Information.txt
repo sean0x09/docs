@@ -1,0 +1,3 @@
+Update Practice Information
+
+<p>Update Practice Info in "Practice Details" tab within Settings —&gt; My practice</p><img alt="" src="https://framerusercontent.com/images/5VeTB0ywTPONp1H5darc3pn7iWU.png"><p><br></p><p>You can set up practice business hours by selecting “Site” within Preferences —&gt; Calendar setting</p><img alt="" src="https://framerusercontent.com/images/6m8lczcqROwOwxESfmtCSsTc.png">

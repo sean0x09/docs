@@ -1,0 +1,4 @@
+Patient Eligibility Report
+
+
+<img alt="" src="/images/patient-eligibility-report/patient-eligibility-report-1.png"><h4><br></h4><h4>Summary</h4><p>This report tracks the latest eligibility results for all patients, grouped by insurance company and priority (PRIMARY, SECONDARY, etc).</p><p>It also provides filtering based on date of eligibility check, patients, and whether or not you want to exclude pending eligibility checks.</p><h4><br></h4><h4>Filters Supported</h4><ul><li data-preset-tag="p"><p>Patients</p></li><li data-preset-tag="p"><p>Date of Eligibility Check (to and from range)</p></li><li data-preset-tag="p"><p>Exclude Pending Eligibility Checks (selected by default)</p></li><li data-preset-tag="p"><p>Report Format (Excel or CSV)</p></li></ul>

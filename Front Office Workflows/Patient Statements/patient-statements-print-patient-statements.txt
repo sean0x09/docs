@@ -1,0 +1,4 @@
+Print Patient Statements
+
+
+<h4>At a Glance</h4><p>Occasionally a patient will request their statement at the end of an appointment. For those times, you need a nice clean statement you can print and share.</p><h3>Here’s How to Do It</h3><ol><li data-preset-tag="p"><p>Navigate to the patient’s profile.</p></li><li data-preset-tag="p"><p>Click the ‘Download Patient Mail Statement’ button in the header.</p></li></ol><img alt="" src="/images/print-patient-statements/print-patient-statements-1.png"><ol><li data-preset-tag="p"><p>Open the downloaded PDF to view the statement. You can then print and share it with the patient.</p></li></ol><img alt="" src="/images/print-patient-statements/print-patient-statements-2.png"><h3><br></h3><h3>And You’re All Set!</h3><p>The PDF statement provides several methods to pay, ranging from mobile-friendly QR codes to good old fashioned mail-it-in checks, so there’s something for everyone.</p>

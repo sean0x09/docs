@@ -1,0 +1,4 @@
+Manage Staff & Permissions
+
+
+<p>Navigate to Settings —&gt; My Practice</p><img alt="" src="/images/manage-staff-permissions/manage-staff-permissions-1.png"><p>Within “Team Members”, you can select the role and apply various feature permissions</p><img alt="" src="/images/manage-staff-permissions/manage-staff-permissions-2.png"><p><strong>Features Supported:</strong></p><ul><li data-preset-tag="p"><p>Feature and Page level permission settings per user</p></li></ul><p><strong>Features In Development:</strong></p><ul><li data-preset-tag="p"><p>Allowing parent sites to access and edit child site data</p></li></ul><p>Features Not Supported:</p><ul><li data-preset-tag="p"><p>Custom roles</p></li></ul>
