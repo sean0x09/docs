@@ -66,6 +66,26 @@
             ]
           }
         ]
+      },
+      {
+        "tab": "Owners & Administration",
+        "groups": [
+          {
+            "group": "My Practice",
+            "pages": [
+              "Owners & Administration/My Practice/getting-started-with-your-practice",
+              "Owners & Administration/My Practice/your-athelas-invoice",
+              "Owners & Administration/My Practice/manage-staff-permissions",
+              "Owners & Administration/My Practice/update-practice-information"
+            ]
+          },
+          {
+            "group": "Reporting",
+            "pages": [
+              "Owners & Administration/Reporting/measuring-performance"
+            ]
+          }
+        ]
       }
     ],
     "global": {
