@@ -14,15 +14,22 @@
         "tab": "Guides",
         "groups": [
           {
-            "group": "Getting started",
+            "group": "Documentation",
             "pages": [
-              "index",
-              "quickstart",
-              "development"
+              {
+                "group": "Getting started",
+                "expanded": false,
+                "pages": [
+                  "index",
+                  "quickstart",
+                  "development"
+                ]
+              }
             ]
           },
           {
             "group": "Customization",
+            "expanded": true,
             "pages": [
               "essentials/settings",
               "essentials/navigation"
