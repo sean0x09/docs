@@ -1,0 +1,3 @@
+AI Appt. Summaries
+
+<p>Once accessing the chart note, you will find an AI generated Previous Appointment Summary at the top of each section:</p><img alt="" src="https://framerusercontent.com/images/rroY9oKeSaKQHjaUqtp9AmNU.png"><p>These summaries include all previous patient encounters. </p>

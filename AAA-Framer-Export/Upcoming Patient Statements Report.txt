@@ -1,0 +1,3 @@
+Upcoming Patient Statements Report
+
+<img alt="" src="https://framerusercontent.com/images/gjpHbnJlgDST7KxUIQ7PVzjqdg.png"><h4><br></h4><h4>Summary</h4><p>The Upcoming Patient Statements report includes the patients due in your next statements batch for both electronic and mail statements. This report shows patient name for patients in the next batch along with a last contacted at date and current balance for that patient.</p><h4><br></h4><h4>Notes</h4><ul><li data-preset-tag="p"><p>This report does not use any filters. If you would like to edit the contents on this report, please change your upcoming batch parameters in the Patient Statements page in Insights.</p></li></ul><h4><br></h4><h4>Filters Supported</h4><ul><li data-preset-tag="p"><p>None</p></li></ul>

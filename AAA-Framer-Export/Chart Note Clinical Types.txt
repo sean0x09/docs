@@ -1,0 +1,3 @@
+Chart Note Clinical Types
+
+<p>View Chart note clinical types within the chart note itself in the chart note header which remains always visible on the chart note.</p><p>To update the clinical note type of the chart note, click on the dropdown and select alternative type from the available options.</p><img alt="" src="https://framerusercontent.com/images/yEdivWzvYZAo940cQnS8Xa2GxM.png">

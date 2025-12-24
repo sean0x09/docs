@@ -14,15 +14,22 @@
         "tab": "Guides",
         "groups": [
           {
-            "group": "Getting started",
+            "group": "Documentation",
             "pages": [
-              "index",
-              "quickstart",
-              "development"
+              {
+                "group": "Getting started",
+                "expanded": false,
+                "pages": [
+                  "index",
+                  "quickstart",
+                  "development"
+                ]
+              }
             ]
           },
           {
             "group": "Customization",
+            "expanded": true,
             "pages": [
               "essentials/settings",
               "essentials/navigation"
@@ -63,6 +70,26 @@
               "api-reference/endpoint/create",
               "api-reference/endpoint/delete",
               "api-reference/endpoint/webhook"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Owners & Administration",
+        "groups": [
+          {
+            "group": "My Practice",
+            "pages": [
+              "Owners & Administration/My Practice/getting-started-with-your-practice",
+              "Owners & Administration/My Practice/your-athelas-invoice",
+              "Owners & Administration/My Practice/manage-staff-permissions",
+              "Owners & Administration/My Practice/update-practice-information"
+            ]
+          },
+          {
+            "group": "Reporting",
+            "pages": [
+              "Owners & Administration/Reporting/measuring-performance"
             ]
           }
         ]

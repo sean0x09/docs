@@ -1,0 +1,3 @@
+How to receive messages
+
+<p>When there are new messages for you, notifications will appear in two places.</p><ol><li data-preset-tag="p"><p>As a red dot 🔴&nbsp;on the notification center (🔔&nbsp;icon) in the header of any page in Insights.</p></li></ol><img alt="" src="https://framerusercontent.com/images/opgXoPJnxWuzq4ntJ7l40JgD8xc.png"><ol><li data-preset-tag="p"><p>As a blue dot 🔵&nbsp;on the Messages page.</p></li></ol><img alt="" src="https://framerusercontent.com/images/Etb7wSjTfKb3eo3FJXu6v6V2eM.png">
