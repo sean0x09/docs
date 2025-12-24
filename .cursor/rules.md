@@ -471,8 +471,13 @@ For each `.txt` file:
   - `<ol><li>` → numbered lists
   - `<code>` → backticks
   - `<a href="...">` → `[text](url)`
-  - `<img>` → `![alt](local-path)` with local image reference
   - `<strong>`, `<em>` → `**bold**`, `*italic*`
+- **CRITICAL: Image Handling**
+  - **DO NOT use markdown image syntax** `![alt](path)` - this causes images to display as plain text in Mintlify
+  - **USE HTML img tags** with URL-encoded paths: `<img src="/images/...path..." alt="" />`
+  - **URL-encode spaces and special characters** in image paths (spaces → `%20`, `&` → `%26`)
+  - Example: `<img src="/images/Owners%20%26%20Administration/My%20Practice/article-title/article-title-1.png" alt="" />`
+  - This ensures images display correctly instead of showing as plain text
 - For unconvertible HTML, keep as-is with comment: `<!-- HTML preserved: [reason] -->`
 - Replace Framer image URLs with local paths: `/images/[full-mdx-path]/[article-title]/[article-title]-1.png`
   - Example: `/images/Provider Workflows/Chart Notes/getting-started-with-chart-notes/getting-started-with-chart-notes-1.png`
@@ -494,9 +499,11 @@ For each `.txt` file:
 - Calculate relative paths from MDX file location to image folder
 - Update image references in MDX to use correct relative paths
 - Image folder structure mirrors full MDX folder structure (including top-level categories)
+- **CRITICAL: Use HTML img tags with URL-encoded paths**
 - Example: If MDX is at `Provider Workflows/Chart Notes/getting-started-with-chart-notes.mdx`
   - Image at `images/Provider Workflows/Chart Notes/getting-started-with-chart-notes/getting-started-with-chart-notes-1.png`
-  - Reference: `![alt](/images/Provider Workflows/Chart Notes/getting-started-with-chart-notes/getting-started-with-chart-notes-1.png)`
+  - Reference: `<img src="/images/Provider%20Workflows/Chart%20Notes/getting-started-with-chart-notes/getting-started-with-chart-notes-1.png" alt="" />`
+  - Note: Spaces are URL-encoded as `%20` in the src attribute
 
 ## Technical Details
 
@@ -522,10 +529,12 @@ Both folder structures (nested vs flat) work equally well for Cursor's file find
 
 ### Image Download Strategy
 
-- Use Python `requests` library or Node.js `fetch` to download images
-- Handle network errors gracefully
+- Use Python `requests` library with `verify=False` to handle SSL issues with Framer URLs
+- Disable SSL warnings using `urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)`
+- Handle network errors gracefully - if download fails, keep original URL temporarily
 - Preserve original image format (likely PNG)
 - Validate downloaded images
+- **After downloading, update MDX files to use HTML img tags with URL-encoded local paths**
 
 ### HTML Parsing
 
@@ -533,6 +542,7 @@ Both folder structures (nested vs flat) work equally well for Cursor's file find
 - Handle nested structures (lists within lists)
 - Preserve code blocks and inline code
 - Handle empty alt text for images
+- **Convert images to HTML img tags (not markdown syntax) with URL-encoded paths**
 
 ## Output Structure
 
@@ -794,12 +804,41 @@ Create a `UNMAPPED_FILES.md` report listing:
 - `How to Troubleshoot Login Issues.txt`
 - `Navigating the Rejections Page.txt`
 
+## Critical Implementation Notes
+
+### Image Display Fix (Learned from Owners & Administration migration)
+
+**Problem:** Images were displaying as plain text instead of rendering in Mintlify.
+
+**Root Cause:** 
+- Markdown image syntax `![alt](path)` doesn't work well with URL-encoded paths containing spaces
+- Mintlify requires HTML img tags when paths contain spaces or special characters
+
+**Solution:**
+1. Use HTML `<img>` tags instead of markdown `![]()` syntax
+2. URL-encode spaces (`%20`) and special characters (`&` → `%26`) in the `src` attribute
+3. Example: `<img src="/images/Owners%20%26%20Administration/My%20Practice/article/article-1.png" alt="" />`
+
+**Why this works:**
+- HTML attributes handle URL encoding better than markdown
+- Mintlify's image rendering works correctly with URL-encoded paths in HTML tags
+- This prevents images from displaying as plain text
+
+### Universal Script
+
+Use `convert_framer_to_mdx.py` for all categories. The script:
+- Handles image downloads with SSL verification disabled (required for Framer URLs)
+- Converts HTML to MDX with proper image tag formatting
+- Creates correct folder structure matching IA
+- URL-encodes image paths automatically
+
 ## Error Handling
 
 - Log any files that fail to parse
 - Log any images that fail to download
 - Preserve original files in `AAA-Framer-Export/` (don't delete)
 - Create error report for manual review
+- If images don't display, check that HTML img tags are used with URL-encoded paths
 
 ## Validation
 
@@ -807,4 +846,55 @@ Create a `UNMAPPED_FILES.md` report listing:
 - Verify all images are downloaded
 - Verify MDX files are valid (can be checked with Mintlify CLI)
 - Verify image paths are correct relative to MDX files
+- **Verify images display correctly** (not as plain text) - if they show as text, check that HTML img tags with URL-encoded paths are used
+
+## Universal Conversion Script
+
+Use `convert_framer_to_mdx.py` for all category conversions. The script:
+
+1. **Handles all categories** - Provider, Front Office, Billing, Owners & Administration
+2. **Automatic image handling:**
+   - Downloads images from Framer URLs
+   - Creates proper folder structure
+   - Uses HTML img tags with URL-encoded paths (fixes display issues)
+3. **HTML to MDX conversion:**
+   - Converts all HTML elements to markdown
+   - Handles nested lists properly
+   - Preserves formatting (bold, italic, code, links)
+4. **Proper file organization:**
+   - Creates folder structure matching IA
+   - Sanitizes filenames correctly
+   - Adds proper frontmatter
+
+### Usage
+
+```bash
+python3 convert_framer_to_mdx.py <category>
+```
+
+Categories: `owners-admin`, `provider`, `front-office`, `billing`, `all`
+
+### Setting Up File Mappings
+
+Before running, populate the `load_file_mapping()` function with the file mappings based on the IA structure. Each entry should map:
+- `.txt` filename → category, subcategory, and title
+
+Example:
+```python
+{
+    "Getting Started with Chart Notes.txt": {
+        "category": "Provider Workflows",
+        "subcategory": "Chart Notes",
+        "title": "Getting Started with Chart Notes"
+    },
+    ...
+}
+```
+
+### Key Features
+
+- **SSL handling:** Disables SSL verification for Framer image downloads
+- **URL encoding:** Automatically URL-encodes image paths for Mintlify compatibility
+- **Error handling:** Gracefully handles download failures
+- **Progress reporting:** Shows download and conversion progress
 
