@@ -11,243 +11,243 @@ from collections import defaultdict
 ARCHITECTURE_ORDER = {
     "Provider Workflows": {
         "Chart Notes": [
-            "chart-notes-getting-started-with-chart-notes",
-            "chart-notes-auto-apply-kx-modifier",
-            "chart-notes-ai-appt-summaries",
-            "chart-notes-chart-note-clinical-types",
-            "chart-notes-download-chart-notes-as-pdfs",
-            "chart-notes-goals-on-the-chart-note",
-            "chart-notes-how-to-add-measurements",
-            "chart-notes-import-previous-medical-history",
-            "chart-notes-navigating-flowsheets",
-            "chart-notes-navigating-inbox-workflows",
-            "chart-notes-navigating-the-chart-note",
-            "chart-notes-set-up-custom-chart-note-templates",
-            "chart-notes-setting-up-co-signers-on-your-note",
-            "chart-notes-sign-a-chart-note",
-            "chart-notes-text-snippets-for-your-note",
-            "chart-notes-chart-note-features-not-supported"
+            "getting-started-with-chart-notes",
+            "auto-apply-kx-modifier",
+            "ai-appt-summaries",
+            "chart-note-clinical-types",
+            "download-chart-notes-as-pdfs",
+            "goals-on-the-chart-note",
+            "how-to-add-measurements",
+            "import-previous-medical-history",
+            "navigating-flowsheets",
+            "navigating-inbox-workflows",
+            "navigating-the-chart-note",
+            "set-up-custom-chart-note-templates",
+            "setting-up-co-signers-on-your-note",
+            "sign-a-chart-note",
+            "text-snippets-for-your-note",
+            "chart-note-features-not-supported"
         ],
         "AI Scribe & Tooling": [
-            "ai-scribe-tooling-additional-context-feature",
-            "ai-scribe-tooling-complete-a-visit-with-air-scribe",
-            "ai-scribe-tooling-edit-with-commandk",
-            "ai-scribe-tooling-how-to-apply-an-air-scribe",
-            "ai-scribe-tooling-how-to-set-up-ai-compliance",
-            "ai-scribe-tooling-setting-up-ai-compliance"
+            "additional-context-feature",
+            "complete-a-visit-with-air-scribe",
+            "edit-with-commandk",
+            "how-to-apply-an-air-scribe",
+            "how-to-set-up-ai-compliance",
+            "setting-up-ai-compliance"
         ],
         "Calendar": [
-            "calendar-getting-started-with-the-calendar",
-            "calendar-filter-the-calendar-view"
+            "getting-started-with-the-calendar",
+            "filter-the-calendar-view"
         ],
         "Claim Details": [
-            "claim-details-submissions-and-remits"
+            "submissions-and-remits"
         ],
         "Patient Profiles": [
-            "patient-profiles-getting-started-with-patient-profile",
-            "patient-profiles-navigating-labs",
-            "patient-profiles-add-attachments-to-patient-profile",
-            "patient-profiles-prescribe-medications",
-            "patient-profiles-record-allergies",
-            "patient-profiles-record-immunizations",
-            "patient-profiles-view-patients-appointments",
-            "patient-profiles-profile-features-not-supported"
+            "getting-started-with-patient-profile",
+            "navigating-labs",
+            "add-attachments-to-patient-profile",
+            "prescribe-medications",
+            "record-allergies",
+            "record-immunizations",
+            "view-patients-appointments",
+            "profile-features-not-supported"
         ],
         "Medications": [
-            "medications-designate-staff-as-provider-agents"
+            "designate-staff-as-provider-agents"
         ],
         "Athelas Assistant": [
-            "athelas-assistant-getting-started-with-athelas-assistant",
-            "athelas-assistant-athelas-assistant-common-functionalities",
-            "athelas-assistant-athelas-assistant-best-practices"
+            "getting-started-with-athelas-assistant",
+            "athelas-assistant-common-functionalities",
+            "athelas-assistant-best-practices"
         ]
     },
     "Front Office Workflows": {
         "Calendar": [
-            "calendar-getting-started-with-the-calendar",
-            "calendar-calendar-start-end-times",
-            "calendar-filter-the-calendar-view",
-            "calendar-modify-calendar-views",
-            "calendar-viewing-multiple-providers",
-            "calendar-features-not-supported"
+            "getting-started-with-the-calendar",
+            "calendar-start-end-times",
+            "filter-the-calendar-view",
+            "modify-calendar-views",
+            "viewing-multiple-providers",
+            "features-not-supported"
         ],
         "Appointments": [
-            "appointments-the-insights-appointments-page",
-            "appointments-adding-prior-auth-and-alerting",
-            "appointments-alternate-methods-for-scheduling",
-            "appointments-how-to-add-a-walk-in-patient",
-            "appointments-how-to-run-an-eligibility-check",
-            "appointments-how-to-schedule-an-appointment",
-            "appointments-how-to-take-payments",
-            "appointments-sending-out-reminders-and-forms",
-            "appointments-understanding-appointment-details",
-            "appointments-updating-appointment-statuses",
-            "appointments-appt-features-not-supported"
+            "the-insights-appointments-page",
+            "adding-prior-auth-and-alerting",
+            "alternate-methods-for-scheduling",
+            "how-to-add-a-walk-in-patient",
+            "how-to-run-an-eligibility-check",
+            "how-to-schedule-an-appointment",
+            "how-to-take-payments",
+            "sending-out-reminders-and-forms",
+            "understanding-appointment-details",
+            "updating-appointment-statuses",
+            "appt-features-not-supported"
         ],
         "Agents Center": [
-            "agents-center-getting-started-with-agents-center",
-            "agents-center-components-of-the-dashboard",
-            "agents-center-make-an-outbound-call",
-            "agents-center-understanding-use-cases"
+            "getting-started-with-agents-center",
+            "components-of-the-dashboard",
+            "make-an-outbound-call",
+            "understanding-use-cases"
         ],
         "Claim Details": [
-            "claim-details-claim-details-page",
-            "claim-details-other-submission-types-secondary-specialty-etc",
-            "claim-details-encounter-timeline-for-claims",
-            "claim-details-how-to-download-cms-1500-forms",
-            "claim-details-how-to-resubmit-a-single-claim",
-            "claim-details-how-to-resubmit-claims-in-bulk",
-            "claim-details-how-to-send-documentation",
-            "claim-details-submissions-and-remits"
+            "claim-details-page",
+            "other-submission-types-secondary-specialty-etc",
+            "encounter-timeline-for-claims",
+            "how-to-download-cms-1500-forms",
+            "how-to-resubmit-a-single-claim",
+            "how-to-resubmit-claims-in-bulk",
+            "how-to-send-documentation",
+            "submissions-and-remits"
         ],
         "Daily Operations": [
-            "daily-operations-how-to-reconcile-your-cash-drawer"
+            "how-to-reconcile-your-cash-drawer"
         ],
         "Encounter Details": [
-            "encounter-details-encounter-details-page",
-            "encounter-details-insights-prior-authorization",
-            "encounter-details-encounter-stage-and-status",
-            "encounter-details-how-to-update-insurance"
+            "encounter-details-page",
+            "insights-prior-authorization",
+            "encounter-stage-and-status",
+            "how-to-update-insurance"
         ],
         "Faxing": [
-            "faxing-getting-started-with-faxing",
-            "faxing-attach-task-follow-ups-to-faxes",
-            "faxing-send-and-receive-a-fax",
-            "faxing-tying-faxes-to-patients",
-            "faxing-tying-inbound-faxes-to-outbound-faxes",
-            "faxing-faxing-features-not-supported"
+            "getting-started-with-faxing",
+            "attach-task-follow-ups-to-faxes",
+            "send-and-receive-a-fax",
+            "tying-faxes-to-patients",
+            "tying-inbound-faxes-to-outbound-faxes",
+            "faxing-features-not-supported"
         ],
         "Messaging": [
-            "messaging-how-to-receive-messages",
-            "messaging-how-to-send-messages",
-            "messaging-messages-page"
+            "how-to-receive-messages",
+            "how-to-send-messages",
+            "messages-page"
         ],
         "Patient Communications": [
-            "patient-communications-general-patient-flows-features",
-            "patient-communications-text-blast-page",
-            "patient-communications-insurance-intake-page",
-            "patient-communications-functional-outcome-measurements",
-            "patient-communications-getting-started-with-patient-portal",
-            "patient-communications-complete-intake-forms",
-            "patient-communications-navigating-patient-workflows",
-            "patient-communications-manage-patient-appointments",
-            "patient-communications-manage-payments-through-patient-portal",
-            "patient-communications-patient-intake-automation",
-            "patient-communications-update-insurance-info",
-            "patient-communications-view-home-exercise-programs"
+            "general-patient-flows-features",
+            "text-blast-page",
+            "insurance-intake-page",
+            "functional-outcome-measurements",
+            "getting-started-with-patient-portal",
+            "complete-intake-forms",
+            "navigating-patient-workflows",
+            "manage-patient-appointments",
+            "manage-payments-through-patient-portal",
+            "patient-intake-automation",
+            "update-insurance-info",
+            "view-home-exercise-programs"
         ],
         "Patient Demographics": [
-            "patient-demographics-getting-started-with-demographics",
-            "patient-demographics-addedit-a-patients-insurance",
-            "patient-demographics-addedit-patient-cases",
-            "patient-demographics-addedit-patients-prior-authorization"
+            "getting-started-with-demographics",
+            "addedit-a-patients-insurance",
+            "addedit-patient-cases",
+            "addedit-patients-prior-authorization"
         ],
         "Patient Profiles": [
-            "patient-profiles-how-to-find-and-edit-a-patients-profile",
-            "patient-profiles-how-to-resubmit-claims"
+            "how-to-find-and-edit-a-patients-profile",
+            "how-to-resubmit-claims"
         ],
         "Patient Responsibility": [
-            "patient-responsibility-patient-responsibility-page",
-            "patient-responsibility-charge-saved-credit-cards",
-            "patient-responsibility-manage-credit-cards",
-            "patient-responsibility-setting-up-a-payment-plan",
-            "patient-responsibility-how-to-cancel-pr",
-            "patient-responsibility-how-to-send-a-patient-payment-link",
-            "patient-responsibility-how-to-push-to-pr",
-            "patient-responsibility-how-to-record-payments",
-            "patient-responsibility-how-to-refund-a-payment",
-            "patient-responsibility-how-to-request-via-text-or-email",
-            "patient-responsibility-how-to-set-up-miscellaneous-line-item-charges",
-            "patient-responsibility-how-to-take-payment-for-families",
-            "patient-responsibility-how-to-undo-a-write-off",
-            "patient-responsibility-how-to-write-off-pr",
-            "patient-responsibility-pr-overpayment-refunds-and-estimated-vs-remittance-pr",
-            "patient-responsibility-pr-settings",
-            "patient-responsibility-pr-timeline"
+            "patient-responsibility-page",
+            "charge-saved-credit-cards",
+            "manage-credit-cards",
+            "setting-up-a-payment-plan",
+            "how-to-cancel-pr",
+            "how-to-send-a-patient-payment-link",
+            "how-to-push-to-pr",
+            "how-to-record-payments",
+            "how-to-refund-a-payment",
+            "how-to-request-via-text-or-email",
+            "how-to-set-up-miscellaneous-line-item-charges",
+            "how-to-take-payment-for-families",
+            "how-to-undo-a-write-off",
+            "how-to-write-off-pr",
+            "pr-overpayment-refunds-and-estimated-vs-remittance-pr",
+            "pr-settings",
+            "pr-timeline"
         ],
         "Patient Statements": [
-            "patient-statements-turn-off-patient-texts",
-            "patient-statements-how-to-spread-pr-statement-emails",
-            "patient-statements-manage-patient-statements",
-            "patient-statements-print-patient-statements",
-            "patient-statements-send-email-statements",
-            "patient-statements-send-one-off-paper-statements",
-            "patient-statements-send-patient-statements-via-emailtext"
+            "turn-off-patient-texts",
+            "how-to-spread-pr-statement-emails",
+            "manage-patient-statements",
+            "print-patient-statements",
+            "send-email-statements",
+            "send-one-off-paper-statements",
+            "send-patient-statements-via-emailtext"
         ],
         "Posting": [
-            "posting-how-to-handle-duplicate-remittances",
-            "posting-how-to-handle-partial-denials",
-            "posting-how-to-post-a-remittance-manually",
-            "posting-how-to-use-the-posting-tool-page",
-            "posting-how-to-write-off-a-balance"
+            "how-to-handle-duplicate-remittances",
+            "how-to-handle-partial-denials",
+            "how-to-post-a-remittance-manually",
+            "how-to-use-the-posting-tool-page",
+            "how-to-write-off-a-balance"
         ],
         "Tasking": [
-            "tasking-how-to-create-tasks",
-            "tasking-sorting-archiving-bulk-actions"
+            "how-to-create-tasks",
+            "sorting-archiving-bulk-actions"
         ],
         "Utilities": [
-            "utilities-self-service-credentialing",
-            "utilities-patient-subscriptions",
-            "utilities-process-virtual-cards",
-            "utilities-download-edis-in-bulk",
-            "utilities-bank-deposit-verification",
-            "utilities-eob-creation-and-portal-checks"
+            "self-service-credentialing",
+            "patient-subscriptions",
+            "process-virtual-cards",
+            "download-edis-in-bulk",
+            "bank-deposit-verification",
+            "eob-creation-and-portal-checks"
         ],
         "Athelas Assistant": [
-            "athelas-assistant-getting-started-with-your-rcm-assistant",
-            "athelas-assistant-rcm-ai-prompt-library"
+            "getting-started-with-your-rcm-assistant",
+            "rcm-ai-prompt-library"
         ]
     },
     "Billing Workflows": {
         "Analytics": [
-            "analytics-the-denials-analysis-page",
-            "analytics-the-revenue-analysis-page"
+            "the-denials-analysis-page",
+            "the-revenue-analysis-page"
         ],
         "Front Office Payments": [
-            "front-office-payments-how-to-create-suggested-pr-rules",
-            "front-office-payments-self-pay-fee-schedule",
-            "front-office-payments-target-allowed-amounts"
+            "how-to-create-suggested-pr-rules",
+            "self-pay-fee-schedule",
+            "target-allowed-amounts"
         ],
         "General Billing": [
-            "general-billing-remittances",
-            "general-billing-how-to-set-block-pr-rules",
-            "general-billing-the-billing-rules-engine",
-            "general-billing-the-review-charges-page"
+            "remittances",
+            "how-to-set-block-pr-rules",
+            "the-billing-rules-engine",
+            "the-review-charges-page"
         ],
         "Reports": [
-            "reports-building-and-running-reports",
-            "reports-ar-reports",
-            "reports-claim-adjustments-report",
-            "reports-collections-report",
-            "reports-custom-collections-report",
-            "reports-detailed-charges-report",
-            "reports-export-claim-details",
-            "reports-generate-a-transaction-report",
-            "reports-patient-balances-report",
-            "reports-patient-charges-report",
-            "reports-patient-claims-one-pagers",
-            "reports-patient-collections-report",
-            "reports-patient-eligibility-report",
-            "reports-posting-log-report",
-            "reports-site-transaction-report",
-            "reports-site-transaction-report-summary",
-            "reports-submitted-claims-report",
-            "reports-upcoming-patient-statements-report"
+            "building-and-running-reports",
+            "ar-reports",
+            "claim-adjustments-report",
+            "collections-report",
+            "custom-collections-report",
+            "detailed-charges-report",
+            "export-claim-details",
+            "generate-a-transaction-report",
+            "patient-balances-report",
+            "patient-charges-report",
+            "patient-claims-one-pagers",
+            "patient-collections-report",
+            "patient-eligibility-report",
+            "posting-log-report",
+            "site-transaction-report",
+            "site-transaction-report-summary",
+            "submitted-claims-report",
+            "upcoming-patient-statements-report"
         ],
         "Athelas Assistant": [
-            "athelas-assistant-getting-started-with-your-rcm-assistant",
-            "athelas-assistant-rcm-ai-prompt-library"
+            "getting-started-with-your-rcm-assistant",
+            "rcm-ai-prompt-library"
         ]
     },
     "Owners & Administration": {
         "My Practice": [
-            "my-practice-getting-started-with-your-practice",
-            "my-practice-your-athelas-invoice",
-            "my-practice-manage-staff-permissions",
-            "my-practice-update-practice-information"
+            "getting-started-with-your-practice",
+            "your-athelas-invoice",
+            "manage-staff-permissions",
+            "update-practice-information"
         ],
         "Reporting": [
-            "reporting-measuring-performance"
+            "measuring-performance"
         ]
     }
 }
