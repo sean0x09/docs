@@ -537,34 +537,248 @@ Both folder structures (nested vs flat) work equally well for Cursor's file find
 ## Output Structure
 
 ```
-docs/
-├── Provider Workflows/
-│   ├── Chart Notes/
-│   │   ├── getting-started-with-chart-notes.mdx
-│   │   ├── auto-apply-kx-modifier.mdx
-│   │   └── ...
-│   └── ...
-├── Front Office Workflows/
-│   ├── Calendar/
-│   ├── Appointments/
-│   └── ...
-├── Billing Workflows/
-│   └── ...
-├── Owners & Administration/
-│   └── ...
-└── images/
-    ├── Provider Workflows/
-    │   ├── Chart Notes/
-    │   │   ├── getting-started-with-chart-notes/
-    │   │   │   ├── getting-started-with-chart-notes-1.png
-    │   │   │   └── getting-started-with-chart-notes-2.png
-    │   │   └── ...
-    │   └── ...
-    ├── Front Office Workflows/
-    │   ├── Calendar/
-    │   │   └── ...
-    │   └── ...
-    └── ...
+docs.athelas.com/
+├── Getting Started
+│   ├── Providers (healthcare clinicians)
+│   ├── Staff (front desk, MAs)
+│   └── Billers (RCM specialists)
+│
+├── Provider Workflows
+│   ├── Chart Notes
+│   │   ├── Getting Started with Chart Notes
+│   │   ├── Auto-apply KX Modifier
+│   │   ├── AI Appt. Summaries
+│   │   ├── Chart Note Clinical Types
+│   │   ├── Download Chart Notes as PDFs
+│   │   ├── Goals on the chart note
+│   │   ├── How to add Measurements
+│   │   ├── Import Previous Medical History
+│   │   ├── Navigating Flowsheets
+│   │   ├── Navigating Inbox Workflows
+│   │   ├── Navigating the Chart Note
+│   │   ├── Set up Custom Chart Note Templates
+│   │   ├── Setting up Co-signers on Your Note
+│   │   ├── Sign a Chart Note
+│   │   ├── Text Snippets For Your Note
+│   │   └── Chart Note Features Not Supported
+│   │
+│   ├── AI Scribe & Tooling
+│   │   ├── Additional Context Feature
+│   │   ├── Complete a Visit with Air Scribe
+│   │   ├── Edit with Command+K
+│   │   ├── How to Apply an Air Scribe
+│   │   ├── How to Set up AI Compliance
+│   │   └── Setting up AI Compliance
+│   │
+│   ├── Calendar
+│   │   ├── Getting started with the Calendar
+│   │   └── Filter the calendar view
+│   │
+│   ├── Claim Details
+│   │   └── Submissions and Remits
+│   │
+│   ├── Patient Profiles
+│   │   ├── Getting started with Patient Profile
+│   │   ├── Navigating Labs
+│   │   ├── Add attachments to Patient Profile
+│   │   ├── Prescribe Medications
+│   │   ├── Record Allergies
+│   │   ├── Record Immunizations
+│   │   ├── View Patient's Appointments
+│   │   └── Profile Features Not Supported
+│   │
+│   ├── Medications
+│   │   └── Designate Staff as Provider Agents
+│   │
+│   └── Athelas Assistant
+│       ├── Getting Started with Athelas Assistant
+│       ├── Athelas Assistant Common Functionalities
+│       └── Athelas Assistant Best Practices
+│
+├── Front Office Workflows
+│   ├── Calendar
+│   │   ├── Getting started with the Calendar
+│   │   ├── Calendar start & end times
+│   │   ├── Filter the calendar view
+│   │   ├── Modify calendar views
+│   │   ├── Viewing multiple providers
+│   │   └── Features not supported
+│   │
+│   ├── Appointments
+│   │   ├── The Insights Appointments Page
+│   │   ├── Adding Prior Auth and Alerting
+│   │   ├── Alternate Methods for Scheduling
+│   │   ├── How to Add a Walk-In Patient
+│   │   ├── How to Run an Eligibility Check
+│   │   ├── How to Schedule an Appointment
+│   │   ├── How to Take Payments
+│   │   ├── Sending out reminders and forms
+│   │   ├── Understanding Appointment Details
+│   │   ├── Updating Appointment Statuses
+│   │   └── Appt. Features not supported
+│   │
+│   ├── Agents Center
+│   │   ├── Getting Started with Agents Center
+│   │   ├── Components of the Dashboard
+│   │   ├── Make an Outbound Call
+│   │   └── Understanding Use Cases
+│   │
+│   ├── Claim Details
+│   │   ├── Claim Details Page
+│   │   ├── Other Submission Types (Secondary, Specialty etc)
+│   │   ├── Encounter Timeline for Claims
+│   │   ├── How to Download CMS-1500 Forms
+│   │   ├── How to Resubmit a Single Claim
+│   │   ├── How to Resubmit Claims in Bulk
+│   │   ├── How to Send Documentation
+│   │   └── Submissions and Remits
+│   │
+│   ├── Daily Operations
+│   │   └── How to Reconcile Your Cash Drawer
+│   │
+│   ├── Encounter Details
+│   │   ├── Encounter Details Page
+│   │   ├── Insights Prior Authorization
+│   │   ├── Encounter Stage and Status
+│   │   └── How to Update Insurance
+│   │
+│   ├── Faxing
+│   │   ├── Getting Started with Faxing
+│   │   ├── Attach Task Follow-ups to Faxes
+│   │   ├── Send and Receive a Fax
+│   │   ├── Tying Faxes to Patients
+│   │   ├── Tying inbound faxes to outbound faxes
+│   │   └── Faxing Features Not Supported
+│   │
+│   ├── Messaging
+│   │   ├── How to receive messages
+│   │   ├── How to send messages
+│   │   └── Messages Page
+│   │
+│   ├── Patient Communications
+│   │   ├── General Patient Flows Features
+│   │   ├── Text Blast Page
+│   │   ├── Insurance Intake Page
+│   │   ├── Functional Outcome Measurements
+│   │   ├── Getting Started with Patient Portal
+│   │   ├── Complete Intake Forms
+│   │   ├── Navigating Patient Workflows
+│   │   ├── Manage Patient Appointments
+│   │   ├── Manage Payments through Patient Portal
+│   │   ├── Patient Intake Automation
+│   │   ├── Update Insurance Info
+│   │   └── View Home Exercise Programs
+│   │
+│   ├── Patient Demographics
+│   │   ├── Getting Started with Demographics
+│   │   ├── Add/edit a Patient's Insurance
+│   │   ├── Add/edit Patient Cases
+│   │   └── Add/edit Patient's Prior Authorization
+│   │
+│   ├── Patient Profiles
+│   │   ├── How to Find and Edit a Patient's Profile
+│   │   └── How to Resubmit Claim(s)
+│   │
+│   ├── Patient Responsibility
+│   │   ├── Patient Responsibility Page
+│   │   ├── Charge Saved Credit Cards
+│   │   ├── Manage Credit Cards
+│   │   ├── Setting up a Payment Plan
+│   │   ├── How to Cancel PR
+│   │   ├── How to Send a Patient Payment Link
+│   │   ├── How to Push to PR
+│   │   ├── How to Record Payments
+│   │   ├── How to Refund a Payment
+│   │   ├── How to Request via Text or Email
+│   │   ├── How to Set Up Miscellaneous Line Item Charges
+│   │   ├── How to Take Payment for Families
+│   │   ├── How to Undo a Write Off
+│   │   ├── How to Write Off PR
+│   │   ├── PR Overpayment Refunds and Estimated vs. Remittance PR
+│   │   ├── PR Settings
+│   │   └── PR Timeline
+│   │
+│   ├── Patient Statements
+│   │   ├── Turn off Patient Texts
+│   │   ├── How to Spread PR Statement Emails
+│   │   ├── Manage Patient Statements
+│   │   ├── Print Patient Statements
+│   │   ├── Send Email Statements
+│   │   ├── Send One-off Paper Statements
+│   │   └── Send Patient Statements via Email/Text
+│   │
+│   ├── Posting
+│   │   ├── How to Handle Duplicate Remittances
+│   │   ├── How to Handle Partial Denials
+│   │   ├── How to Post a Remittance Manually
+│   │   ├── How to Use the Posting Tool Page
+│   │   └── How to Write Off a Balance
+│   │
+│   ├── Tasking
+│   │   ├── How to create tasks
+│   │   └── Sorting, Archiving, Bulk Actions
+│   │
+│   ├── Utilities
+│   │   ├── Self-service Credentialing
+│   │   ├── Patient Subscriptions
+│   │   ├── Process Virtual Cards
+│   │   ├── Download EDI's in Bulk
+│   │   ├── Bank Deposit Verification
+│   │   └── EOB Creation and Portal Checks
+│   │
+│   └── Athelas Assistant
+│       ├── Getting Started With Your RCM Assistant
+│       └── RCM AI Prompt Library
+│
+├── Billing Workflows
+│   ├── Analytics
+│   │   ├── The Denials Analysis Page
+│   │   └── The Revenue Analysis Page
+│   │
+│   ├── Front Office Payments
+│   │   ├── How to Create Suggested PR Rules
+│   │   ├── Self-pay Fee Schedule
+│   │   └── Target Allowed Amounts
+│   │
+│   ├── General Billing
+│   │   ├── Remittances
+│   │   ├── How to Set Block PR Rules
+│   │   ├── The Billing Rules Engine
+│   │   └── The Review Charges Page
+│   │
+│   ├── Reports
+│   │   ├── Building and Running Reports
+│   │   ├── A/R Reports
+│   │   ├── Claim Adjustments Report
+│   │   ├── Collections Report
+│   │   ├── Custom Collections Report
+│   │   ├── Detailed Charges Report
+│   │   ├── Export Claim Details
+│   │   ├── Generate a Transaction Report
+│   │   ├── Patient Balances Report
+│   │   ├── Patient Charges Report
+│   │   ├── Patient Claims One-pagers
+│   │   ├── Patient Collections Report
+│   │   ├── Patient Eligibility Report
+│   │   ├── Posting Log Report
+│   │   ├── Site Transaction Report
+│   │   ├── Site Transaction Report Summary
+│   │   ├── Submitted Claims Report
+│   │   └── Upcoming Patient Statements Report
+│   │
+│   └── Athelas Assistant
+│       ├── Getting Started With Your RCM Assistant
+│       └── RCM AI Prompt Library
+│
+└── Owners & Administration
+    ├── My Practice
+    │   ├── Getting Started with Your Practice
+    │   ├── Your Athelas Invoice
+    │   ├── Manage Staff & Permissions
+    │   └── Update Practice Information
+    │
+    └── Reporting
+        └── Measuring Performance
 ```
 
 ## Files to Flag (Not in IA)
