@@ -1,0 +1,3 @@
+How to send messages
+
+<p>To begin a thread with colleagues or patients, navigate to the Messages page and click the pencil icon to create a new conversation.</p><img alt="" src="https://framerusercontent.com/images/JtQRy7fc3LJqiHOfDCcrQjHVeg.png"><p>A search bar will appear. Search for the colleague in question and select their name when it appears.</p><img alt="" src="https://framerusercontent.com/images/HM47b0dSSoEmVg4Qya2jnkMk.png"><p>Now, you can write out a message and/or add attachments, as shown below.</p><img alt="" src="https://framerusercontent.com/images/3FwWTotm5nMpUv0rWcVTso1YA8.png">

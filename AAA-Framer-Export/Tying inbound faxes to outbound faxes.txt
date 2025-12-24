@@ -1,0 +1,3 @@
+Tying inbound faxes to outbound faxes
+
+<p>You may have instances where an outbound fax (sending) is related to an inbound fax (receiving). For example, an outbound request for prior authorization would be related to an authorization approval from an insurance company.</p><p>To tie an inbound fax to an outbound fax, open the inbound fax details and click to associate to a “Linked Outbound Fax”. We will surface the relevant faxes based on the Provider and Patient information you input.</p><img alt="" src="https://framerusercontent.com/images/1oyv4Ma6eOjiutQ9ILs5ZVUAdNc.png">

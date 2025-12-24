@@ -1,0 +1,3 @@
+Patient Intake Automation
+
+<h4>Patient Intake Automation</h4><p>You can now automatically fax completed patient intake forms to any number you choose, no manual downloads needed.</p><p>Once a patient completes a form that’s part of this workflow, we’ll wait 25 minutes and then fax all completed forms to the number you’ve set. This helps reduce paperwork and makes sure your team gets everything on time.</p><p>To turn this on, just ask our team and they will onboard you!</p><img alt="" src="https://framerusercontent.com/images/nkLQU55Xj41YQ04oYSx5wtjzfYw.png"><p><br></p>

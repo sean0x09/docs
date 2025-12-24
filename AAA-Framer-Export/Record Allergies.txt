@@ -1,0 +1,3 @@
+Record Allergies
+
+<p>Navigate to the Patient’s profile and select “Allergies” tab within the Patient's Profile</p><img alt="" src="https://framerusercontent.com/images/dv49gxE3uPhXw24BWaaRTLrwEg.png"><p>Input relevant Allergen information and “Create”</p><img alt="" src="https://framerusercontent.com/images/nrkaB83NkBgqWVxkVTN28djaDaU.png"><p>You will get an alert when attempting to prescribe a medication conflicting with an allergy</p><p><strong>Features Not Supported</strong></p><ul><li data-preset-tag="p"><p>See allergy log history</p></li><li data-preset-tag="p"><p>Send allergies to pharmacies</p></li></ul>

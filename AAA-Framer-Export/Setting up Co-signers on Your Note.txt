@@ -1,0 +1,3 @@
+Setting up Co-signers on Your Note
+
+<p>If you’d like to fax the encounter to a referring provider to co-sign the note, select their name in the dropdown menu and enter their fax number.</p><img alt="" src="https://framerusercontent.com/images/7OHWFVddsjfUAanh1E2CY92WI44.png">
