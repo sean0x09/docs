@@ -148,11 +148,14 @@ def html_to_markdown(html_content, image_tags):
     html_content = re.sub(r'[ \t]+\n', '\n', html_content)
     
     # Remove any remaining HTML tags (preserve with comment)
+    # CRITICAL: Preserve img tags - they're needed for Mintlify image display
     remaining_html = re.findall(r'<[^>]+>', html_content)
     if remaining_html:
         for tag in set(remaining_html):
-            if tag not in ['<p>', '</p>', '<br>', '<br/>', '<ul>', '</ul>', '<ol>', '</ol>', '<li>', '</li>']:
-                html_content = html_content.replace(tag, f'<!-- HTML preserved: {tag} -->')
+            # Preserve img tags and common formatting tags
+            if tag.startswith('<img') or tag in ['<p>', '</p>', '<br>', '<br/>', '<ul>', '</ul>', '<ol>', '</ol>', '<li>', '</li>']:
+                continue
+            html_content = html_content.replace(tag, f'<!-- HTML preserved: {tag} -->')
     
     # Unescape HTML entities
     html_content = html.unescape(html_content)
@@ -1139,8 +1142,6 @@ def load_file_mapping(category):
         for cat_mappings in mappings.values():
             all_mappings.update(cat_mappings)
         return all_mappings
-    
-    return mappings.get(category, {})
     
     return mappings.get(category, {})
 

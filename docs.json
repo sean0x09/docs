@@ -93,6 +93,70 @@
             ]
           }
         ]
+      },
+      {
+        "tab": "Provider Workflows",
+        "groups": [
+          {
+            "group": "Chart Notes",
+            "pages": [
+              "Provider Workflows/Chart Notes/getting-started-with-chart-notes",
+              "Provider Workflows/Chart Notes/navigating-the-chart-note",
+              "Provider Workflows/Chart Notes/set-up-custom-chart-note-templates",
+              "Provider Workflows/Chart Notes/sign-a-chart-note",
+              "Provider Workflows/Chart Notes/navigating-flowsheets",
+              "Provider Workflows/Chart Notes/navigating-inbox-workflows",
+              "Provider Workflows/Chart Notes/auto-apply-kx-modifier",
+              "Provider Workflows/Chart Notes/ai-appt-summaries",
+              "Provider Workflows/Chart Notes/chart-note-clinical-types",
+              "Provider Workflows/Chart Notes/download-chart-notes-as-pdfs",
+              "Provider Workflows/Chart Notes/goals-on-the-chart-note",
+              "Provider Workflows/Chart Notes/how-to-add-measurements",
+              "Provider Workflows/Chart Notes/import-previous-medical-history",
+              "Provider Workflows/Chart Notes/setting-up-co-signers-on-your-note",
+              "Provider Workflows/Chart Notes/text-snippets-for-your-note",
+              "Provider Workflows/Chart Notes/chart-note-features-not-supported"
+            ]
+          },
+          {
+            "group": "AI Scribe & Tooling",
+            "pages": [
+              "Provider Workflows/AI Scribe & Tooling/complete-a-visit-with-air-scribe",
+              "Provider Workflows/AI Scribe & Tooling/how-to-apply-an-air-scribe",
+              "Provider Workflows/AI Scribe & Tooling/edit-with-commandk",
+              "Provider Workflows/AI Scribe & Tooling/additional-context-feature",
+              "Provider Workflows/AI Scribe & Tooling/how-to-set-up-ai-compliance",
+              "Provider Workflows/AI Scribe & Tooling/setting-up-ai-compliance"
+            ]
+          },
+          {
+            "group": "Patient Profiles",
+            "pages": [
+              "Provider Workflows/Patient Profiles/getting-started-with-patient-profile",
+              "Provider Workflows/Patient Profiles/navigating-labs",
+              "Provider Workflows/Patient Profiles/add-attachments-to-patient-profile",
+              "Provider Workflows/Patient Profiles/prescribe-medications",
+              "Provider Workflows/Patient Profiles/record-allergies",
+              "Provider Workflows/Patient Profiles/record-immunizations",
+              "Provider Workflows/Patient Profiles/view-patients-appointments",
+              "Provider Workflows/Patient Profiles/profile-features-not-supported"
+            ]
+          },
+          {
+            "group": "Medications",
+            "pages": [
+              "Provider Workflows/Medications/designate-staff-as-provider-agents"
+            ]
+          },
+          {
+            "group": "Athelas Assistant",
+            "pages": [
+              "Provider Workflows/Athelas Assistant/getting-started-with-athelas-assistant",
+              "Provider Workflows/Athelas Assistant/athelas-assistant-common-functionalities",
+              "Provider Workflows/Athelas Assistant/athelas-assistant-best-practices"
+            ]
+          }
+        ]
       }
     ],
     "global": {
