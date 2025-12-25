@@ -95,9 +95,12 @@ def html_to_markdown(html_content, image_tags):
     # Replace img tags (handle both with and without alt)
     html_content = re.sub(r'<img[^>]+>', replace_img, html_content)
     
-    # Convert headings
+    # Convert headings (h2, h3, h4, h5, h6)
+    html_content = re.sub(r'<h2>(.*?)</h2>', r'\n\n## \1\n\n', html_content, flags=re.DOTALL)
     html_content = re.sub(r'<h3>(.*?)</h3>', r'\n\n### \1\n\n', html_content, flags=re.DOTALL)
     html_content = re.sub(r'<h4>(.*?)</h4>', r'\n\n#### \1\n\n', html_content, flags=re.DOTALL)
+    html_content = re.sub(r'<h5>(.*?)</h5>', r'\n\n##### \1\n\n', html_content, flags=re.DOTALL)
+    html_content = re.sub(r'<h6>(.*?)</h6>', r'\n\n###### \1\n\n', html_content, flags=re.DOTALL)
     
     # Convert nested lists - process from innermost to outermost
     def process_lists(text):
@@ -139,6 +142,68 @@ def html_to_markdown(html_content, image_tags):
     # Convert links
     html_content = re.sub(r'<a[^>]+href="([^"]+)"[^>]*>(.*?)</a>', r'[\2](\1)', html_content)
     
+    # Convert HTML tables to markdown tables
+    def convert_table(match):
+        table_html = match.group(0)
+        rows = []
+        # Extract table rows
+        row_matches = re.findall(r'<tr[^>]*>(.*?)</tr>', table_html, flags=re.DOTALL)
+        for row_html in row_matches:
+            cells = []
+            # Check if it's a header row
+            is_header = '<th>' in row_html or '<th ' in row_html
+            cell_tag = 'th' if is_header else 'td'
+            cell_matches = re.findall(rf'<{cell_tag}[^>]*>(.*?)</{cell_tag}>', row_html, flags=re.DOTALL)
+            for cell_html in cell_matches:
+                # Clean up cell content
+                cell_content = cell_html
+                cell_content = re.sub(r'<p>(.*?)</p>', r'\1', cell_content, flags=re.DOTALL)
+                cell_content = re.sub(r'<strong>(.*?)</strong>', r'**\1**', cell_content)
+                cell_content = re.sub(r'<em>(.*?)</em>', r'*\1*', cell_content)
+                cell_content = re.sub(r'<code>(.*?)</code>', r'`\1`', cell_content)
+                cell_content = html.unescape(cell_content).strip()
+                cells.append(cell_content)
+            if cells:
+                rows.append(cells)
+        
+        if not rows:
+            return match.group(0)
+        
+        # Build markdown table
+        markdown_table = []
+        # Header row
+        if rows:
+            header = rows[0]
+            markdown_table.append('| ' + ' | '.join(header) + ' |')
+            markdown_table.append('| ' + ' | '.join(['---'] * len(header)) + ' |')
+            # Data rows
+            for row in rows[1:]:
+                markdown_table.append('| ' + ' | '.join(row) + ' |')
+        
+        return '\n\n' + '\n'.join(markdown_table) + '\n\n'
+    
+    # Convert tables (handle both <table> and <figure><table> patterns)
+    html_content = re.sub(r'<figure>\s*<table[^>]*>(.*?)</table>\s*</figure>', convert_table, html_content, flags=re.DOTALL)
+    html_content = re.sub(r'<table[^>]*>(.*?)</table>', convert_table, html_content, flags=re.DOTALL)
+    
+    # Convert iframes (YouTube embeds) to proper Mintlify format
+    def convert_iframe(match):
+        src = match.group(1) if match.group(1) else ''
+        # Extract YouTube video ID if it's a YouTube URL
+        if 'youtube.com' in src or 'youtu.be' in src:
+            # Format as Mintlify iframe
+            return f'''<iframe
+  className="w-full aspect-video rounded-xl"
+  src="{src}"
+  title="YouTube video player"
+  frameBorder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowFullScreen
+></iframe>'''
+        return match.group(0)
+    
+    html_content = re.sub(r'<iframe[^>]+src="([^"]+)"[^>]*>.*?</iframe>', convert_iframe, html_content, flags=re.DOTALL)
+    
     # Clean up br tags
     html_content = re.sub(r'<br\s*/?>', '\n', html_content)
     html_content = re.sub(r'<br>', '\n', html_content)
@@ -148,11 +213,15 @@ def html_to_markdown(html_content, image_tags):
     html_content = re.sub(r'[ \t]+\n', '\n', html_content)
     
     # Remove any remaining HTML tags (preserve with comment)
+    # CRITICAL: Preserve img and iframe tags - they're needed for Mintlify display
     remaining_html = re.findall(r'<[^>]+>', html_content)
     if remaining_html:
         for tag in set(remaining_html):
-            if tag not in ['<p>', '</p>', '<br>', '<br/>', '<ul>', '</ul>', '<ol>', '</ol>', '<li>', '</li>']:
-                html_content = html_content.replace(tag, f'<!-- HTML preserved: {tag} -->')
+            # Preserve img tags, iframe tags, and common formatting tags
+            if (tag.startswith('<img') or tag.startswith('<iframe') or 
+                tag in ['<p>', '</p>', '<br>', '<br/>', '<ul>', '</ul>', '<ol>', '</ol>', '<li>', '</li>']):
+                continue
+            html_content = html_content.replace(tag, f'<!-- HTML preserved: {tag} -->')
     
     # Unescape HTML entities
     html_content = html.unescape(html_content)
@@ -1139,8 +1208,6 @@ def load_file_mapping(category):
         for cat_mappings in mappings.values():
             all_mappings.update(cat_mappings)
         return all_mappings
-    
-    return mappings.get(category, {})
     
     return mappings.get(category, {})
 
