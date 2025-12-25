@@ -466,18 +466,38 @@ For each `.txt` file:
 - Parse HTML content (from line 3 onwards)
 - Convert HTML to markdown:
   - `<p>` → paragraph (blank line)
-  - `<h3>`, `<h4>` → `###`, `####`
+  - `<h2>`, `<h3>`, `<h4>`, `<h5>`, `<h6>` → `##`, `###`, `####`, `#####`, `######`
   - `<ul><li>` → markdown lists
   - `<ol><li>` → numbered lists
   - `<code>` → backticks
   - `<a href="...">` → `[text](url)`
   - `<strong>`, `<em>` → `**bold**`, `*italic*`
+  - `<table>` → markdown tables (with proper header and data rows)
+  - `<iframe>` (YouTube embeds) → properly formatted Mintlify iframe with required attributes
 - **CRITICAL: Image Handling**
   - **DO NOT use markdown image syntax** `![alt](path)` - this causes images to display as plain text in Mintlify
   - **USE HTML img tags** with URL-encoded paths: `<img src="/images/...path..." alt="" />`
   - **URL-encode spaces and special characters** in image paths (spaces → `%20`, `&` → `%26`)
   - Example: `<img src="/images/Owners%20%26%20Administration/My%20Practice/article-title/article-title-1.png" alt="" />`
   - This ensures images display correctly instead of showing as plain text
+- **CRITICAL: Table Conversion**
+  - HTML tables must be converted to markdown table format
+  - Tables wrapped in `<figure>` tags should also be converted
+  - Example: `<table><tr><th>Header</th></tr><tr><td>Data</td></tr></table>` → markdown table
+- **CRITICAL: Iframe/Video Conversion**
+  - YouTube iframes must be converted to Mintlify format with proper attributes
+  - Required attributes: `className`, `title`, `frameBorder`, `allow`, `allowFullScreen`
+  - Example format:
+    ```html
+    <iframe
+      className="w-full aspect-video rounded-xl"
+      src="https://www.youtube.com/embed/VIDEO_ID"
+      title="YouTube video player"
+      frameBorder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowFullScreen
+    ></iframe>
+    ```
 - For unconvertible HTML, keep as-is with comment: `<!-- HTML preserved: [reason] -->`
 - Replace Framer image URLs with local paths: `/images/[full-mdx-path]/[article-title]/[article-title]-1.png`
   - Example: `/images/Provider Workflows/Chart Notes/getting-started-with-chart-notes/getting-started-with-chart-notes-1.png`
@@ -543,6 +563,10 @@ Both folder structures (nested vs flat) work equally well for Cursor's file find
 - Preserve code blocks and inline code
 - Handle empty alt text for images
 - **Convert images to HTML img tags (not markdown syntax) with URL-encoded paths**
+- **Convert HTML tables to markdown tables** - extract `<tr>`, `<th>`, `<td>` elements and format as markdown
+- **Convert all heading levels** - `<h2>` through `<h6>` must be converted to markdown headings (`##` through `######`)
+- **Convert iframes properly** - YouTube embeds must use Mintlify iframe format with all required attributes
+- **Never preserve tables, headings, or iframes as HTML comments** - they must be converted to proper markdown/HTML format
 
 ## Output Structure
 
@@ -824,11 +848,41 @@ Create a `UNMAPPED_FILES.md` report listing:
 - Mintlify's image rendering works correctly with URL-encoded paths in HTML tags
 - This prevents images from displaying as plain text
 
+### Parsing Error Fixes (Learned from Provider Workflows migration)
+
+**Problem:** Several pages showed parsing errors with HTML tags preserved as comments instead of being converted.
+
+**Root Causes:**
+1. **Tables:** HTML `<table>` tags were preserved as comments instead of being converted to markdown tables
+2. **Headings:** `<h2>` and `<h5>` tags were preserved as comments instead of being converted to markdown headings
+3. **Iframes:** YouTube iframe embeds were preserved as comments instead of being formatted for Mintlify
+
+**Solutions:**
+1. **Tables:** Convert HTML tables to markdown table format
+   - Extract `<tr>`, `<th>`, `<td>` elements
+   - Build markdown table with proper header row and separator
+   - Handle tables wrapped in `<figure>` tags
+2. **Headings:** Convert all heading levels (`<h2>` through `<h6>`) to markdown headings (`##` through `######`)
+3. **Iframes:** Convert YouTube iframes to Mintlify format with required attributes:
+   - `className="w-full aspect-video rounded-xl"`
+   - `title="YouTube video player"`
+   - `frameBorder="0"`
+   - `allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"`
+   - `allowFullScreen`
+
+**Why this matters:**
+- HTML comments don't render in Mintlify, causing parsing errors
+- Tables, headings, and videos must be in proper format to display correctly
+- The conversion script now handles all these cases automatically
+
 ### Universal Script
 
 Use `convert_framer_to_mdx.py` for all categories. The script:
 - Handles image downloads with SSL verification disabled (required for Framer URLs)
 - Converts HTML to MDX with proper image tag formatting
+- Converts HTML tables to markdown tables
+- Converts all heading levels (h2-h6) to markdown headings
+- Converts YouTube iframes to proper Mintlify format
 - Creates correct folder structure matching IA
 - URL-encodes image paths automatically
 
