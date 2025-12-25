@@ -157,6 +157,65 @@
             ]
           }
         ]
+      },
+      {
+        "tab": "Billing Workflows",
+        "groups": [
+          {
+            "group": "Analytics",
+            "pages": [
+              "Billing Workflows/Analytics/the-denials-analysis-page",
+              "Billing Workflows/Analytics/the-revenue-analysis-page"
+            ]
+          },
+          {
+            "group": "Front Office Payments",
+            "pages": [
+              "Billing Workflows/Front Office Payments/how-to-create-suggested-pr-rules",
+              "Billing Workflows/Front Office Payments/self-pay-fee-schedule",
+              "Billing Workflows/Front Office Payments/target-allowed-amounts"
+            ]
+          },
+          {
+            "group": "General Billing",
+            "pages": [
+              "Billing Workflows/General Billing/remittances",
+              "Billing Workflows/General Billing/how-to-set-block-pr-rules",
+              "Billing Workflows/General Billing/the-billing-rules-engine",
+              "Billing Workflows/General Billing/the-review-charges-page"
+            ]
+          },
+          {
+            "group": "Reports",
+            "pages": [
+              "Billing Workflows/Reports/building-and-running-reports",
+              "Billing Workflows/Reports/ar-reports",
+              "Billing Workflows/Reports/claim-adjustments-report",
+              "Billing Workflows/Reports/collections-report",
+              "Billing Workflows/Reports/custom-collections-report",
+              "Billing Workflows/Reports/detailed-charges-report",
+              "Billing Workflows/Reports/export-claim-details",
+              "Billing Workflows/Reports/generate-a-transaction-report",
+              "Billing Workflows/Reports/patient-balances-report",
+              "Billing Workflows/Reports/patient-charges-report",
+              "Billing Workflows/Reports/patient-claims-one-pagers",
+              "Billing Workflows/Reports/patient-collections-report",
+              "Billing Workflows/Reports/patient-eligibility-report",
+              "Billing Workflows/Reports/posting-log-report",
+              "Billing Workflows/Reports/site-transaction-report",
+              "Billing Workflows/Reports/site-transaction-report-summary",
+              "Billing Workflows/Reports/submitted-claims-report",
+              "Billing Workflows/Reports/upcoming-patient-statements-report"
+            ]
+          },
+          {
+            "group": "Athelas Assistant",
+            "pages": [
+              "Billing Workflows/Athelas Assistant/getting-started-with-your-rcm-assistant",
+              "Billing Workflows/Athelas Assistant/rcm-ai-prompt-library"
+            ]
+          }
+        ]
       }
     ],
     "global": {
