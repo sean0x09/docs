@@ -836,7 +836,7 @@ def load_file_mapping(category):
                 "title": "Add/edit Patient's Prior Authorization"
             },
             # Patient Profiles
-            "How to Find and Edit a Patient's Profile.txt": {
+            "How to Find and Edit a Patient’s Profile.txt": {
                 "category": "Front Office Workflows",
                 "subcategory": "Patient Profiles",
                 "title": "How to Find and Edit a Patient's Profile"
