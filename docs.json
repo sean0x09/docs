@@ -11,6 +11,20 @@
   "navigation": {
     "tabs": [
       {
+        "tab": "Onboarding-Documents",
+        "groups": [
+          {
+            "group": "Getting-Started",
+            "pages": [
+              "Onboarding-Documents/getting-started-as-a-healthcare-provider",
+              "Onboarding-Documents/getting-started-as-a-staff-member",
+              "Onboarding-Documents/getting-started-as-a-biller",
+              "Onboarding-Documents/getting-started-as-an-owneradministrator"
+            ]
+          }
+        ]
+      },
+      {
         "tab": "Owners-&-Administration",
         "groups": [
           {
