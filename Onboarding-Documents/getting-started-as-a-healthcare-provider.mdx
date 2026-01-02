@@ -1,207 +1,420 @@
 ---
 title: "Getting started as a Healthcare Provider"
+description: "Learn how to navigate chart notes, record patient encounters, and complete documentation workflows in the Athelas Healthcare platform"
 ---
 
-Welcome to the Athelas Healthcare platform! We're so glad you've trusted us to handle your day-to-day and we're excited to get you up and going. In this document, you'll find everything you need to know as a healthcare provider to get going.
+Welcome to the Athelas Healthcare platform! This guide walks you through everything you need to know as a healthcare provider to get started with your daily workflows.
 
-#### Navigating Chart Notes
+## Overview
 
-The Chart Note is the essential workflow for a Provider within our EHR. In this section, we outline the notable features for proper usage including navigating to the chart note, recording a note via Scribe, adding measurements, goals, treatments and exercises, locking and signing your note:
+The Chart Note is the essential workflow for providers in our EHR system. It enables you to document patient encounters, record clinical notes, add measurements and goals, and submit claims. This guide covers all the fundamental components and workflows you'll use daily.
 
-**Fundamental Components of our Chart Note**
+### Fundamental Components
 
-- Plan of Care
-- Measurements
-- Goals
-- Treatments
+Every chart note includes these core components:
 
-###
+- **Plan of Care** - Treatment frequency, duration, and visit count
+- **Measurements** - Clinical measurements and assessments
+- **Goals** - Patient treatment goals and outcomes
+- **Treatments** - CPT codes and interventions
 
-#### Navigating to the Chart Note
+## Navigating to Chart Notes
 
-To view the chart note for a patient, you must first check in an appointment for the patient you'd like to conduct the for.
+You can access chart notes in two ways: from an appointment or from a patient's profile.
 
-<img src="/images/Onboarding-Documents/getting-started-as-a-healthcare-provider/getting-started-as-a-healthcare-provider-1.png" alt="" />
+### From an Appointment
 
-**Note:** *In order to check in an Appointment a Case must be present. This means that the user should add the relevant case to the Appointment so that a Chart Note can be created***.**
+<Steps>
+<Step title="Check in the appointment">
+To view a chart note, you must first check in an appointment for the patient.
 
-If there is no given case, the user will receive an error when trying to check in.
+<Frame>
+<img src="/images/Onboarding-Documents/getting-started-as-a-healthcare-provider/getting-started-as-a-healthcare-provider-1.png" alt="Appointment check-in interface showing required fields" />
+</Frame>
 
-You may enter add this via the drop-down or go ahead and create a new Case in correspondence to the Appointment
+<Warning>
+A Case must be present before you can check in an appointment. If no case is assigned, you'll receive an error when attempting to check in. Add the relevant case via the dropdown menu or create a new case for the appointment.
+</Warning>
+</Step>
 
-**Required Fields for an Appointment :**
+<Step title="Complete required fields">
+Ensure the following fields are filled before checking in:
 
-- Case
-- Appointment Type
-- Facility
-- Insurance
+- **Case** - Patient case associated with the appointment
+- **Appointment Type** - Type of visit
+- **Facility** - Location where the appointment takes place
+- **Insurance** - Patient's insurance information
 
-<img src="https://framerusercontent.com/images/MMH9Hsqu2jHs7BcPOWimHlkfr8YU.png" alt="" />
+<Frame>
+<img src="https://framerusercontent.com/images/MMH9Hsqu2jHs7BcPOWimHlkfr8YU.png" alt="Required appointment fields including Case, Appointment Type, Facility, and Insurance" />
+</Frame>
+</Step>
 
-**Alternatively, you can navigate to the chart note via the patient's profile:**
+<Step title="Open the chart note">
+Once the appointment is checked in, click the box icon with an arrow in the top right corner to open the chart note.
 
-Click on "Patients" on the left hand menu and type in the patient's name into the search bar.
+<Frame>
+<img src="/images/Onboarding-Documents/getting-started-as-a-healthcare-provider/getting-started-as-a-healthcare-provider-5.png" alt="Checked-in appointment with chart note icon visible" />
+</Frame>
+</Step>
+</Steps>
 
-<img src="/images/Onboarding-Documents/getting-started-as-a-healthcare-provider/getting-started-as-a-healthcare-provider-3.png" alt="" />
+### From Patient Profile
 
-You'll be automatically be routed to the Appointments page of the patient's profile.
+<Steps>
+<Step title="Navigate to Patients">
+Click **Patients** in the left-hand menu and search for the patient by name.
 
-<img src="/images/Onboarding-Documents/getting-started-as-a-healthcare-provider/getting-started-as-a-healthcare-provider-4.png" alt="" />
+<Frame>
+<img src="/images/Onboarding-Documents/getting-started-as-a-healthcare-provider/getting-started-as-a-healthcare-provider-3.png" alt="Patients page with search functionality" />
+</Frame>
+</Step>
 
-If an appointment has yet to be checked in, the status will indicate that it is scheduled with a checkmark next to it. Clicking this checkmark will **check in** a patient.
+<Step title="Access Appointments tab">
+You'll be automatically routed to the Appointments page of the patient's profile.
 
-If an appointment is checked in, the status will indicate as such. Clicking on the box icon with an arrow sticking out of the top right corner will **open up the chart note**.
+<Frame>
+<img src="/images/Onboarding-Documents/getting-started-as-a-healthcare-provider/getting-started-as-a-healthcare-provider-4.png" alt="Patient profile showing appointments list" />
+</Frame>
+</Step>
 
-<img src="/images/Onboarding-Documents/getting-started-as-a-healthcare-provider/getting-started-as-a-healthcare-provider-5.png" alt="" />
+<Step title="Check in or open chart note">
+- If the appointment is scheduled, click the checkmark to check in the patient
+- If the appointment is already checked in, click the box icon with an arrow to open the chart note
+</Step>
+</Steps>
 
-Once you open up your Chart Note you will be greeted with the following Buttons to allow for the appropriate base set-up.
+<Info>
+When you first open a chart note, you'll see setup buttons that allow you to configure the base structure for your encounter.
+</Info>
 
-<img src="/images/Onboarding-Documents/getting-started-as-a-healthcare-provider/getting-started-as-a-healthcare-provider-6.png" alt="" />
+<Frame>
+<img src="/images/Onboarding-Documents/getting-started-as-a-healthcare-provider/getting-started-as-a-healthcare-provider-6.png" alt="Chart note interface with setup buttons" />
+</Frame>
 
-####
+## Recording a Note with Scribe
 
-#### Recording a Note
+Scribe automatically transcribes your patient conversations and populates the encounter note based on what was said during the visit.
 
-Scribe is a powerful tool which will allow the conversation with your patient to be auto-populated into the encounter based on what was said.
+<Steps>
+<Step title="Start recording">
+Click the **Athelas AI** button in the bottom right corner. A window opens with the option to **Start Recording**. Click it to activate Scribe.
 
-Click the bottom right "Athelas AI" button - a window will open up with the option to "Start Recording", click this to activate Scribe.
+<Frame>
+<img src="/images/Onboarding-Documents/getting-started-as-a-healthcare-provider/getting-started-as-a-healthcare-provider-7.png" alt="Athelas AI button and recording interface" />
+</Frame>
+</Step>
 
-<img src="/images/Onboarding-Documents/getting-started-as-a-healthcare-provider/getting-started-as-a-healthcare-provider-7.png" alt="" />
+<Step title="Record your conversation">
+Begin recording your conversation with the patient. While the EHR Scribe widget is open, you can:
 
-Record your conversation. While the EHR Scribe widget is open, you can navigate to other EHR pages on the Athelas EHR website and continue to record in the background. However, you will not be able to navigate to non-EHR pages unless you end/cancel the recording. You can click "Minimize" to minimize the widget. It will continue to record in the background while minimized.
+- Navigate to other EHR pages on the Athelas website and continue recording in the background
+- Click **Minimize** to minimize the widget while it continues recording
 
-<img src="/images/Onboarding-Documents/getting-started-as-a-healthcare-provider/getting-started-as-a-healthcare-provider-8.png" alt="" />
+<Warning>
+You cannot navigate to non-EHR pages while recording. End or cancel the recording first if you need to leave the EHR.
+</Warning>
 
-When you're ready to upload the recording, click "End Recording".
+<Frame>
+<img src="/images/Onboarding-Documents/getting-started-as-a-healthcare-provider/getting-started-as-a-healthcare-provider-8.png" alt="Recording interface with minimize option" />
+</Frame>
+</Step>
 
-- After the recording is successfully uploaded, it will take some time for the backend to generate a scribe from your recording. At this point, you are free to wait for generating to finish, or close the window and do something else.
+<Step title="End recording">
+When you're ready to upload the recording, click **End Recording**.
 
-<img src="/images/Onboarding-Documents/getting-started-as-a-healthcare-provider/getting-started-as-a-healthcare-provider-9.png" alt="" />
+<Frame>
+<img src="/images/Onboarding-Documents/getting-started-as-a-healthcare-provider/getting-started-as-a-healthcare-provider-9.png" alt="End recording button and upload process" />
+</Frame>
+</Step>
 
-<img src="/images/Onboarding-Documents/getting-started-as-a-healthcare-provider/getting-started-as-a-healthcare-provider-10.png" alt="" />
+<Step title="Wait for processing">
+After the recording uploads successfully, the system generates a scribe from your recording. This process takes some time. You can:
 
-Once generating completes, click "View Scribe" to view generated outputs
+- Wait for processing to complete
+- Close the window and continue with other tasks
 
-#### Measurements
+<Frame>
+<img src="/images/Onboarding-Documents/getting-started-as-a-healthcare-provider/getting-started-as-a-healthcare-provider-10.png" alt="Processing status screen" />
+</Frame>
+</Step>
 
-Here is an example of how Measurements will appear within the Chart Note
+<Step title="View generated scribe">
+Once processing completes, click **View Scribe** to review the generated outputs and add them to your chart note.
+</Step>
+</Steps>
 
-<img src="/images/Onboarding-Documents/getting-started-as-a-healthcare-provider/getting-started-as-a-healthcare-provider-11.png" alt="" />
+## Adding Measurements
 
-<img src="/images/Onboarding-Documents/getting-started-as-a-healthcare-provider/getting-started-as-a-healthcare-provider-12.png" alt="" />
+Measurements appear within the chart note and can be organized by category.
 
-Clicking on measurements will display them in a categorized order.
+<Frame>
+<img src="/images/Onboarding-Documents/getting-started-as-a-healthcare-provider/getting-started-as-a-healthcare-provider-11.png" alt="Measurements section in chart note" />
+</Frame>
 
-**Left Image:** LE Neuro Exam-related Measurements are grouped together and below the ones with *No Assoc*i*ated Group* will be anchored at the bottom. Clicking on the individual measurement will add it to the chart note, but clicking on the + icon on the right side of the group name will add all measurements within the group.
+<Frame>
+<img src="/images/Onboarding-Documents/getting-started-as-a-healthcare-provider/getting-started-as-a-healthcare-provider-12.png" alt="Categorized measurements display" />
+</Frame>
 
-An important point to note is that the user will also have the ability to view the History of Measurements and pull data from the previous chart note for measurements if it exists for a patient.
+### Using Measurements
 
-<img src="/images/Onboarding-Documents/getting-started-as-a-healthcare-provider/getting-started-as-a-healthcare-provider-13.png" alt="" />
+Clicking on measurements displays them in categorized order:
 
-#### Goals
+- **Grouped measurements** (e.g., LE Neuro Exam) appear together
+- **Ungrouped measurements** (marked as "No Associated Group") appear at the bottom
+- Click an individual measurement to add it to the chart note
+- Click the **+** icon next to a group name to add all measurements within that group
 
-This is the Goals section: To add Goals, click "+ Add Goal". Additionally, clicking the curled arrow will pull data from the previous chart note for goals.
+<Tip>
+You can view the history of measurements and pull data from previous chart notes if measurements exist for the patient.
+</Tip>
 
-<img src="/images/Onboarding-Documents/getting-started-as-a-healthcare-provider/getting-started-as-a-healthcare-provider-14.png" alt="" />
+<Frame>
+<img src="/images/Onboarding-Documents/getting-started-as-a-healthcare-provider/getting-started-as-a-healthcare-provider-13.png" alt="Measurement history and previous note data options" />
+</Frame>
 
-A window will open up, allowing you to input the details of the goal. Once you've entered the information, click on "Add Goal" at the bottom of the window.
+## Setting Goals
 
-<img src="/images/Onboarding-Documents/getting-started-as-a-healthcare-provider/getting-started-as-a-healthcare-provider-15.png" alt="" />
+Goals track patient treatment objectives and outcomes.
 
-Note: Scribe will be able to pick up the following Goal and discern the Values + Specifications based off of your transcription.
+<Steps>
+<Step title="Add a goal">
+Click **+ Add Goal** in the Goals section. Alternatively, click the curled arrow icon to pull goals from the previous chart note.
 
-####
+<Frame>
+<img src="/images/Onboarding-Documents/getting-started-as-a-healthcare-provider/getting-started-as-a-healthcare-provider-14.png" alt="Goals section with add goal button" />
+</Frame>
+</Step>
 
-#### Plan of Care
+<Step title="Enter goal details">
+A window opens where you can input goal information. Enter the details and click **Add Goal** at the bottom of the window.
 
-When selecting Plan of Care, the user will be prompted to input:
+<Frame>
+<img src="/images/Onboarding-Documents/getting-started-as-a-healthcare-provider/getting-started-as-a-healthcare-provider-15.png" alt="Goal entry form with fields for goal details" />
+</Frame>
+</Step>
+</Steps>
 
-- Start Date
-- End Date
-- Frequency + Units
-- Duration + Units
-- Visit Count
+<Note>
+Scribe can automatically detect goals from your transcription and extract values and specifications.
+</Note>
 
-<img src="/images/Onboarding-Documents/getting-started-as-a-healthcare-provider/getting-started-as-a-healthcare-provider-16.png" alt="" />
+## Creating a Plan of Care
 
-You are not required to input all of the fields as some auto-population exists. For instance, if duration + units, frequency + units and start date are inputted- the end date and visit count will auto-populate based off the information listed. However, the option to override this is also available.
+The Plan of Care defines treatment frequency, duration, and visit count for the patient.
 
-Clicking on the curled arrow icon will also allow you to pull data from the previous chart note for plan of care.
+<Frame>
+<img src="/images/Onboarding-Documents/getting-started-as-a-healthcare-provider/getting-started-as-a-healthcare-provider-16.png" alt="Plan of Care form with input fields" />
+</Frame>
 
-<img src="/images/Onboarding-Documents/getting-started-as-a-healthcare-provider/getting-started-as-a-healthcare-provider-17.png" alt="" />
+### Plan of Care Fields
 
-#### Home Exercise Programs
+When selecting Plan of Care, you'll be prompted to input:
 
-By clicking the checkbox for an intervention marked as `HEP` , this will add this to a staging area where a Home Exercise Program can be prepared.
+- **Start Date** - When treatment begins
+- **End Date** - When treatment concludes
+- **Frequency + Units** - How often treatment occurs
+- **Duration + Units** - Length of treatment period
+- **Visit Count** - Total number of visits
 
-<img src="/images/Onboarding-Documents/getting-started-as-a-healthcare-provider/getting-started-as-a-healthcare-provider-18.png" alt="" />
+<Tip>
+You don't need to fill all fields manually. If you enter duration + units, frequency + units, and start date, the system auto-populates the end date and visit count. You can override these values if needed.
+</Tip>
 
-- Clicking the caret for HEP will open up the dropdown to assign any additional notes to the HEP section on a per intervention basis.
+<Note>
+Click the curled arrow icon to pull Plan of Care data from the previous chart note.
+</Note>
 
-<img src="/images/Onboarding-Documents/getting-started-as-a-healthcare-provider/getting-started-as-a-healthcare-provider-19.png" alt="" />
+<Frame>
+<img src="/images/Onboarding-Documents/getting-started-as-a-healthcare-provider/getting-started-as-a-healthcare-provider-17.png" alt="Plan of Care with previous note data option" />
+</Frame>
 
-- You can "Preview and Send" to email, text and print the PDF
+## Home Exercise Programs (HEP)
 
-<img src="/images/Onboarding-Documents/getting-started-as-a-healthcare-provider/getting-started-as-a-healthcare-provider-20.png" alt="" />
+Create home exercise programs by selecting interventions marked as `HEP`.
 
-#### Templates in Chart Notes
+<Steps>
+<Step title="Select HEP interventions">
+Click the checkbox for any intervention marked as `HEP`. This adds it to a staging area where you can prepare the Home Exercise Program.
 
-Templates are what you will be primarily utilizing to note down information during the patient's encounter. This is includes SOAP notes, initial evaluations, or any other specialized fields the user would need to capture within the chart note and will be categorized under *Selected Sections*.
+<Frame>
+<img src="/images/Onboarding-Documents/getting-started-as-a-healthcare-provider/getting-started-as-a-healthcare-provider-18.png" alt="HEP checkbox selection interface" />
+</Frame>
+</Step>
 
-<img src="/images/Onboarding-Documents/getting-started-as-a-healthcare-provider/getting-started-as-a-healthcare-provider-21.png" alt="" />
+<Step title="Add intervention notes">
+Click the caret for HEP to open a dropdown where you can assign additional notes to the HEP section on a per-intervention basis.
 
-These templates are able to be scribed into as well. In the case where you'd like to clear all the information from the template, click on Clear on the top right corner of the template section.
+<Frame>
+<img src="/images/Onboarding-Documents/getting-started-as-a-healthcare-provider/getting-started-as-a-healthcare-provider-19.png" alt="HEP dropdown with notes assignment" />
+</Frame>
+</Step>
 
-<img src="/images/Onboarding-Documents/getting-started-as-a-healthcare-provider/getting-started-as-a-healthcare-provider-22.png" alt="" />
+<Step title="Preview and send">
+Click **Preview and Send** to email, text, or print the PDF of the Home Exercise Program.
 
-Additionally, a warning will pop up after clicking on Clear to ensure that you want to delete the templates contents. This guards against any accidental data deletion.
+<Frame>
+<img src="/images/Onboarding-Documents/getting-started-as-a-healthcare-provider/getting-started-as-a-healthcare-provider-20.png" alt="HEP preview and send options" />
+</Frame>
+</Step>
+</Steps>
 
-<img src="/images/Onboarding-Documents/getting-started-as-a-healthcare-provider/getting-started-as-a-healthcare-provider-23.png" alt="" />
+## Using Templates
 
-Clicking on the trash icon will delete the template altogether. This is helpful if you no longer need the section or accidentally added a template.
+Templates are your primary tool for documenting information during patient encounters. They include SOAP notes, initial evaluations, and other specialized fields categorized under **Selected Sections**.
 
-<img src="/images/Onboarding-Documents/getting-started-as-a-healthcare-provider/getting-started-as-a-healthcare-provider-24.png" alt="" />
+<Frame>
+<img src="/images/Onboarding-Documents/getting-started-as-a-healthcare-provider/getting-started-as-a-healthcare-provider-21.png" alt="Templates section showing SOAP notes and other templates" />
+</Frame>
 
-Similarly to clearing a template, a warning will pop up after clicking this icon to ensure that you want to delete the entire template.
+### Template Features
 
-<img src="/images/Onboarding-Documents/getting-started-as-a-healthcare-provider/getting-started-as-a-healthcare-provider-25.png" alt="" />
+Templates support Scribe input, allowing you to dictate directly into template fields.
 
-####
+### Clearing Template Content
 
-#### Compliance Checkmarks
+<Steps>
+<Step title="Clear template">
+Click **Clear** in the top right corner of the template section to remove all information from the template.
 
-Compliance checkmarks are a feature within Air that can be configured for any template within the EHR. They are used to track specific details that should be captured within the chart note. If the detail is not captured, the compliance checkmark will be a grey color. If it is the icon will turn green. You have the ability to either type in this information or utilize scribe.
+<Frame>
+<img src="/images/Onboarding-Documents/getting-started-as-a-healthcare-provider/getting-started-as-a-healthcare-provider-22.png" alt="Clear button in template section" />
+</Frame>
+</Step>
 
-<img src="/images/Onboarding-Documents/getting-started-as-a-healthcare-provider/getting-started-as-a-healthcare-provider-26.png" alt="" />
+<Step title="Confirm deletion">
+A warning popup appears to confirm you want to delete the template contents. This prevents accidental data loss.
 
-[https://www.loom.com/share/032d1ead44ad4444b9a00374d2de5163?sid=6a6039ae-0cff-430e-9289-18b135137e54](https://www.loom.com/share/032d1ead44ad4444b9a00374d2de5163?sid=6a6039ae-0cff-430e-9289-18b135137e54)
+<Frame>
+<img src="/images/Onboarding-Documents/getting-started-as-a-healthcare-provider/getting-started-as-a-healthcare-provider-23.png" alt="Confirmation dialog for clearing template" />
+</Frame>
+</Step>
+</Steps>
 
-[https://www.loom.com/share/50bbe7ac7e6d421ab5f7d7386a84c044?sid=8bdddc49-dc0f-4841-a162-9f88dc7c88a6](https://www.loom.com/share/50bbe7ac7e6d421ab5f7d7386a84c044?sid=8bdddc49-dc0f-4841-a162-9f88dc7c88a6)
+### Deleting Templates
 
-####
+<Steps>
+<Step title="Delete template">
+Click the trash icon to delete the template entirely. This is useful if you no longer need the section or accidentally added a template.
 
-#### Treatments
+<Frame>
+<img src="/images/Onboarding-Documents/getting-started-as-a-healthcare-provider/getting-started-as-a-healthcare-provider-24.png" alt="Trash icon for deleting template" />
+</Frame>
+</Step>
 
-User has the ability to select the treatment according to the corresponding CPT code
+<Step title="Confirm deletion">
+A warning popup appears to confirm you want to delete the entire template.
 
-<img src="/images/Onboarding-Documents/getting-started-as-a-healthcare-provider/getting-started-as-a-healthcare-provider-27.png" alt="" />
+<Frame>
+<img src="/images/Onboarding-Documents/getting-started-as-a-healthcare-provider/getting-started-as-a-healthcare-provider-25.png" alt="Confirmation dialog for deleting template" />
+</Frame>
+</Step>
+</Steps>
 
-Within this section, one will also have the ability to *Add Interventions* to specify the Exercises associated to the given Treatment.
+## Compliance Checkmarks
 
-Insurance priority and billing information can also be edited here. Click on "Edit" under the billing section to do so.
+Compliance checkmarks track specific details that must be captured within the chart note. They can be configured for any template in the EHR.
 
-<img src="/images/Onboarding-Documents/getting-started-as-a-healthcare-provider/getting-started-as-a-healthcare-provider-28.png" alt="" />
+<Frame>
+<img src="/images/Onboarding-Documents/getting-started-as-a-healthcare-provider/getting-started-as-a-healthcare-provider-26.png" alt="Compliance checkmarks showing grey and green status indicators" />
+</Frame>
 
-To add additional providers to co-sign the note: Navigate to the "Additional Providers" section and select your providers in the dropdown menu. If you'd like to fax the encounter to a referring provider to co-sign the note, select their name in the dropdown menu and enter their fax number. Make sure the "Request Signature" checkbox is ticked.
+### How Compliance Checkmarks Work
 
-<img src="/images/Onboarding-Documents/getting-started-as-a-healthcare-provider/getting-started-as-a-healthcare-provider-29.png" alt="" />
+- **Grey checkmark** - The required detail has not been captured
+- **Green checkmark** - The required detail has been captured
 
-To fax the encounter note to an individual fax number, select "Send to individual fax number" and enter the fax number. Hit "Send Fax" when you've inputted that information.
+You can complete compliance checkmarks by either typing information directly or using Scribe.
 
-<img src="/images/Onboarding-Documents/getting-started-as-a-healthcare-provider/getting-started-as-a-healthcare-provider-30.png" alt="" />
+<iframe
+  className="w-full aspect-video rounded-xl"
+  src="https://www.loom.com/embed/032d1ead44ad4444b9a00374d2de5163?sid=6a6039ae-0cff-430e-9289-18b135137e54"
+  title="Compliance checkmarks tutorial"
+  frameBorder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowFullScreen
+></iframe>
 
-#### Notarize and Submit
+<iframe
+  className="w-full aspect-video rounded-xl"
+  src="https://www.loom.com/embed/50bbe7ac7e6d421ab5f7d7386a84c044?sid=8bdddc49-dc0f-4841-a162-9f88dc7c88a6"
+  title="Compliance checkmarks advanced features"
+  frameBorder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowFullScreen
+></iframe>
 
-To close the encounter and submit it as a claim, sign the note under "Notarize" and click "Submit"
+## Adding Treatments
 
-<img src="/images/Onboarding-Documents/getting-started-as-a-healthcare-provider/getting-started-as-a-healthcare-provider-31.png" alt="" />
+Select treatments according to their corresponding CPT codes.
+
+<Frame>
+<img src="/images/Onboarding-Documents/getting-started-as-a-healthcare-provider/getting-started-as-a-healthcare-provider-27.png" alt="Treatments section with CPT code selection" />
+</Frame>
+
+### Treatment Features
+
+- **Add Interventions** - Specify exercises associated with the given treatment
+- **Edit Billing** - Click **Edit** under the billing section to modify insurance priority and billing information
+
+<Frame>
+<img src="/images/Onboarding-Documents/getting-started-as-a-healthcare-provider/getting-started-as-a-healthcare-provider-28.png" alt="Billing section with edit option" />
+</Frame>
+
+### Adding Co-signers
+
+<Steps>
+<Step title="Add additional providers">
+Navigate to the **Additional Providers** section and select providers from the dropdown menu to co-sign the note.
+
+<Frame>
+<img src="/images/Onboarding-Documents/getting-started-as-a-healthcare-provider/getting-started-as-a-healthcare-provider-29.png" alt="Additional Providers section with dropdown" />
+</Frame>
+</Step>
+
+<Step title="Request fax signature">
+To fax the encounter to a referring provider for co-signature:
+
+1. Select their name in the dropdown menu
+2. Enter their fax number
+3. Ensure the **Request Signature** checkbox is selected
+</Step>
+</Steps>
+
+### Sending to Individual Fax Number
+
+<Steps>
+<Step title="Select fax option">
+Select **Send to individual fax number** and enter the fax number.
+
+<Frame>
+<img src="/images/Onboarding-Documents/getting-started-as-a-healthcare-provider/getting-started-as-a-healthcare-provider-30.png" alt="Send to individual fax number option" />
+</Frame>
+</Step>
+
+<Step title="Send fax">
+Click **Send Fax** after entering the fax number.
+</Step>
+</Steps>
+
+## Notarize and Submit
+
+Complete the encounter by signing the note and submitting it as a claim.
+
+<Steps>
+<Step title="Sign the note">
+Sign the note under the **Notarize** section.
+
+<Frame>
+<img src="/images/Onboarding-Documents/getting-started-as-a-healthcare-provider/getting-started-as-a-healthcare-provider-31.png" alt="Notarize section with signature and submit button" />
+</Frame>
+</Step>
+
+<Step title="Submit the claim">
+Click **Submit** to close the encounter and submit it as a claim.
+</Step>
+</Steps>
+
+<Check>
+Your chart note is now complete and submitted. The encounter will be processed for billing.
+</Check>
