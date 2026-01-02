@@ -1,32 +1,53 @@
 ---
 title: "Getting started as a Healthcare Provider"
-description: "Learn how to navigate chart notes, record patient encounters, and complete documentation workflows in the Athelas Healthcare platform"
+description: "Learn how to document patient encounters, record clinical notes, and complete chart notes efficiently using the Athelas Healthcare platform"
 ---
 
-Welcome to the Athelas Healthcare platform! This guide walks you through everything you need to know as a healthcare provider to get started with your daily workflows.
+Welcome to the Athelas Healthcare platform! This guide helps you master the essential workflows for documenting patient encounters and completing chart notes efficiently.
 
-## Overview
+## What you'll accomplish
 
-The Chart Note is the essential workflow for providers in our EHR system. It enables you to document patient encounters, record clinical notes, add measurements and goals, and submit claims. This guide covers all the fundamental components and workflows you'll use daily.
+By the end of this guide, you'll know how to:
 
-### Fundamental Components
+- Open chart notes from appointments or patient profiles
+- Record patient conversations using AI Scribe
+- Document clinical measurements, goals, and treatment plans
+- Create and manage chart note templates
+- Complete and submit chart notes for billing
 
-Every chart note includes these core components:
+## Understanding Chart Notes
+
+Chart Notes are the core workflow for documenting patient encounters in the Athelas EHR. Each chart note captures everything needed for clinical documentation and billing, including:
 
 - **Plan of Care** - Treatment frequency, duration, and visit count
 - **Measurements** - Clinical measurements and assessments
-- **Goals** - Patient treatment goals and outcomes
+- **Goals** - Patient treatment objectives and outcomes
 - **Treatments** - CPT codes and interventions
 
-## Navigating to Chart Notes
+<Info>
+Chart Notes streamline your documentation workflow by organizing all encounter information in one place, reducing time spent on administrative tasks and ensuring complete documentation for billing.
+</Info>
 
-You can access chart notes in two ways: from an appointment or from a patient's profile.
+## Prerequisites
 
-### From an Appointment
+Before you begin documenting encounters, ensure you have:
+
+- Access to the Athelas Healthcare platform
+- An appointment scheduled or checked in for the patient
+- A patient case assigned to the appointment (required for check-in)
+- Patient insurance information available
+
+## Open a Chart Note
+
+You can access chart notes from two locations: appointments or patient profiles. Choose the method that fits your workflow.
+
+### Open from an Appointment
+
+Use this method when you're working directly with appointments in your calendar or schedule.
 
 <Steps>
 <Step title="Check in the appointment">
-To view a chart note, you must first check in an appointment for the patient.
+Check in the appointment to enable chart note access. You must complete this step before you can open the chart note.
 
 <Frame>
 <img src="/images/Onboarding-Documents/getting-started-as-a-healthcare-provider/getting-started-as-a-healthcare-provider-1.png" alt="Appointment check-in interface showing required fields" />
@@ -38,7 +59,7 @@ A Case must be present before you can check in an appointment. If no case is ass
 </Step>
 
 <Step title="Complete required fields">
-Ensure the following fields are filled before checking in:
+Fill the following required fields before checking in:
 
 - **Case** - Patient case associated with the appointment
 - **Appointment Type** - Type of visit
@@ -51,18 +72,24 @@ Ensure the following fields are filled before checking in:
 </Step>
 
 <Step title="Open the chart note">
-Once the appointment is checked in, click the box icon with an arrow in the top right corner to open the chart note.
+Click the box icon with an arrow in the top right corner to open the chart note.
 
 <Frame>
 <img src="/images/Onboarding-Documents/getting-started-as-a-healthcare-provider/getting-started-as-a-healthcare-provider-5.png" alt="Checked-in appointment with chart note icon visible" />
 </Frame>
+
+<Check>
+The chart note opens and displays setup buttons for configuring your encounter structure.
+</Check>
 </Step>
 </Steps>
 
-### From Patient Profile
+### Open from Patient Profile
+
+Use this method when you need to access a patient's chart note from their profile, useful for reviewing previous encounters or accessing notes for walk-in patients.
 
 <Steps>
-<Step title="Navigate to Patients">
+<Step title="Navigate to the patient">
 Click **Patients** in the left-hand menu and search for the patient by name.
 
 <Frame>
@@ -70,17 +97,21 @@ Click **Patients** in the left-hand menu and search for the patient by name.
 </Frame>
 </Step>
 
-<Step title="Access Appointments tab">
-You'll be automatically routed to the Appointments page of the patient's profile.
+<Step title="Access the Appointments tab">
+The system automatically routes you to the Appointments page of the patient's profile.
 
 <Frame>
 <img src="/images/Onboarding-Documents/getting-started-as-a-healthcare-provider/getting-started-as-a-healthcare-provider-4.png" alt="Patient profile showing appointments list" />
 </Frame>
 </Step>
 
-<Step title="Check in or open chart note">
+<Step title="Check in or open the chart note">
 - If the appointment is scheduled, click the checkmark to check in the patient
 - If the appointment is already checked in, click the box icon with an arrow to open the chart note
+
+<Check>
+The chart note opens and you can begin documenting the encounter.
+</Check>
 </Step>
 </Steps>
 
@@ -92,9 +123,9 @@ When you first open a chart note, you'll see setup buttons that allow you to con
 <img src="/images/Onboarding-Documents/getting-started-as-a-healthcare-provider/getting-started-as-a-healthcare-provider-6.png" alt="Chart note interface with setup buttons" />
 </Frame>
 
-## Recording a Note with Scribe
+## Record patient conversations with Scribe
 
-Scribe automatically transcribes your patient conversations and populates the encounter note based on what was said during the visit.
+Scribe automatically transcribes your patient conversations and populates the encounter note, saving you time on documentation while ensuring accuracy. Think of Scribe as a digital transcription assistant that listens to your conversations and converts them into structured clinical notes.
 
 <Steps>
 <Step title="Start recording">
@@ -103,6 +134,10 @@ Click the **Athelas AI** button in the bottom right corner. A window opens with 
 <Frame>
 <img src="/images/Onboarding-Documents/getting-started-as-a-healthcare-provider/getting-started-as-a-healthcare-provider-7.png" alt="Athelas AI button and recording interface" />
 </Frame>
+
+<Check>
+The recording interface appears and Scribe is ready to capture your conversation.
+</Check>
 </Step>
 
 <Step title="Record your conversation">
@@ -126,6 +161,10 @@ When you're ready to upload the recording, click **End Recording**.
 <Frame>
 <img src="/images/Onboarding-Documents/getting-started-as-a-healthcare-provider/getting-started-as-a-healthcare-provider-9.png" alt="End recording button and upload process" />
 </Frame>
+
+<Check>
+The recording uploads successfully and processing begins.
+</Check>
 </Step>
 
 <Step title="Wait for processing">
@@ -139,14 +178,18 @@ After the recording uploads successfully, the system generates a scribe from you
 </Frame>
 </Step>
 
-<Step title="View generated scribe">
+<Step title="Review and add the scribe">
 Once processing completes, click **View Scribe** to review the generated outputs and add them to your chart note.
+
+<Check>
+The scribe appears in your chart note with transcribed conversation content ready for review and editing.
+</Check>
 </Step>
 </Steps>
 
-## Adding Measurements
+## Add measurements to chart notes
 
-Measurements appear within the chart note and can be organized by category.
+Measurements capture clinical assessments and are organized by category for easy access. Adding measurements ensures your documentation includes all required clinical data and helps track patient progress over time.
 
 <Frame>
 <img src="/images/Onboarding-Documents/getting-started-as-a-healthcare-provider/getting-started-as-a-healthcare-provider-11.png" alt="Measurements section in chart note" />
@@ -156,7 +199,7 @@ Measurements appear within the chart note and can be organized by category.
 <img src="/images/Onboarding-Documents/getting-started-as-a-healthcare-provider/getting-started-as-a-healthcare-provider-12.png" alt="Categorized measurements display" />
 </Frame>
 
-### Using Measurements
+### How measurements are organized
 
 Clicking on measurements displays them in categorized order:
 
@@ -166,16 +209,16 @@ Clicking on measurements displays them in categorized order:
 - Click the **+** icon next to a group name to add all measurements within that group
 
 <Tip>
-You can view the history of measurements and pull data from previous chart notes if measurements exist for the patient.
+You can view the history of measurements and pull data from previous chart notes if measurements exist for the patient. This saves time when documenting follow-up visits and helps you track changes over time.
 </Tip>
 
 <Frame>
 <img src="/images/Onboarding-Documents/getting-started-as-a-healthcare-provider/getting-started-as-a-healthcare-provider-13.png" alt="Measurement history and previous note data options" />
 </Frame>
 
-## Setting Goals
+## Set patient treatment goals
 
-Goals track patient treatment objectives and outcomes.
+Goals track patient treatment objectives and outcomes, helping you monitor progress and document treatment plans effectively. Unlike measurements which capture current clinical status, goals define what you and the patient aim to achieve.
 
 <Steps>
 <Step title="Add a goal">
@@ -192,22 +235,26 @@ A window opens where you can input goal information. Enter the details and click
 <Frame>
 <img src="/images/Onboarding-Documents/getting-started-as-a-healthcare-provider/getting-started-as-a-healthcare-provider-15.png" alt="Goal entry form with fields for goal details" />
 </Frame>
+
+<Check>
+The goal appears in the Goals section of your chart note.
+</Check>
 </Step>
 </Steps>
 
 <Note>
-Scribe can automatically detect goals from your transcription and extract values and specifications.
+Scribe can automatically detect goals from your transcription and extract values and specifications, reducing manual data entry.
 </Note>
 
-## Creating a Plan of Care
+## Create a Plan of Care
 
-The Plan of Care defines treatment frequency, duration, and visit count for the patient.
+The Plan of Care defines treatment frequency, duration, and visit count for the patient, ensuring accurate documentation of the treatment plan. This differs from goals (which define objectives) and measurements (which capture current status) by specifying the treatment schedule and timeline.
 
 <Frame>
 <img src="/images/Onboarding-Documents/getting-started-as-a-healthcare-provider/getting-started-as-a-healthcare-provider-16.png" alt="Plan of Care form with input fields" />
 </Frame>
 
-### Plan of Care Fields
+### Plan of Care fields
 
 When selecting Plan of Care, you'll be prompted to input:
 
@@ -222,16 +269,16 @@ You don't need to fill all fields manually. If you enter duration + units, frequ
 </Tip>
 
 <Note>
-Click the curled arrow icon to pull Plan of Care data from the previous chart note.
+Click the curled arrow icon to pull Plan of Care data from the previous chart note, saving time on follow-up visits.
 </Note>
 
 <Frame>
 <img src="/images/Onboarding-Documents/getting-started-as-a-healthcare-provider/getting-started-as-a-healthcare-provider-17.png" alt="Plan of Care with previous note data option" />
 </Frame>
 
-## Home Exercise Programs (HEP)
+## Create Home Exercise Programs (HEP)
 
-Create home exercise programs by selecting interventions marked as `HEP`.
+Create home exercise programs by selecting interventions marked as `HEP`. This feature helps you provide patients with clear exercise instructions they can reference at home, improving patient compliance and outcomes.
 
 <Steps>
 <Step title="Select HEP interventions">
@@ -256,22 +303,26 @@ Click **Preview and Send** to email, text, or print the PDF of the Home Exercise
 <Frame>
 <img src="/images/Onboarding-Documents/getting-started-as-a-healthcare-provider/getting-started-as-a-healthcare-provider-20.png" alt="HEP preview and send options" />
 </Frame>
+
+<Check>
+The patient receives the Home Exercise Program via their preferred method (email, text, or print).
+</Check>
 </Step>
 </Steps>
 
-## Using Templates
+## Document with templates
 
-Templates are your primary tool for documenting information during patient encounters. They include SOAP notes, initial evaluations, and other specialized fields categorized under **Selected Sections**.
+Templates are your primary tool for documenting information during patient encounters. They include SOAP notes, initial evaluations, and other specialized fields categorized under **Selected Sections**, helping you maintain consistent documentation standards. Unlike free-form notes, templates provide structure that ensures all required information is captured.
 
 <Frame>
 <img src="/images/Onboarding-Documents/getting-started-as-a-healthcare-provider/getting-started-as-a-healthcare-provider-21.png" alt="Templates section showing SOAP notes and other templates" />
 </Frame>
 
-### Template Features
+### Template features
 
-Templates support Scribe input, allowing you to dictate directly into template fields.
+Templates support Scribe input, allowing you to dictate directly into template fields, which speeds up documentation while maintaining structure.
 
-### Clearing Template Content
+### Clear template content
 
 <Steps>
 <Step title="Clear template">
@@ -288,10 +339,14 @@ A warning popup appears to confirm you want to delete the template contents. Thi
 <Frame>
 <img src="/images/Onboarding-Documents/getting-started-as-a-healthcare-provider/getting-started-as-a-healthcare-provider-23.png" alt="Confirmation dialog for clearing template" />
 </Frame>
+
+<Check>
+The template content is cleared and you can start fresh.
+</Check>
 </Step>
 </Steps>
 
-### Deleting Templates
+### Delete templates
 
 <Steps>
 <Step title="Delete template">
@@ -308,18 +363,22 @@ A warning popup appears to confirm you want to delete the entire template.
 <Frame>
 <img src="/images/Onboarding-Documents/getting-started-as-a-healthcare-provider/getting-started-as-a-healthcare-provider-25.png" alt="Confirmation dialog for deleting template" />
 </Frame>
+
+<Check>
+The template is removed from your chart note.
+</Check>
 </Step>
 </Steps>
 
-## Compliance Checkmarks
+## Track compliance with checkmarks
 
-Compliance checkmarks track specific details that must be captured within the chart note. They can be configured for any template in the EHR.
+Compliance checkmarks track specific details that must be captured within the chart note, helping you ensure complete documentation. They can be configured for any template in the EHR. Unlike templates which provide structure, compliance checkmarks verify that required information is actually filled in.
 
 <Frame>
 <img src="/images/Onboarding-Documents/getting-started-as-a-healthcare-provider/getting-started-as-a-healthcare-provider-26.png" alt="Compliance checkmarks showing grey and green status indicators" />
 </Frame>
 
-### How Compliance Checkmarks Work
+### How compliance checkmarks work
 
 - **Grey checkmark** - The required detail has not been captured
 - **Green checkmark** - The required detail has been captured
@@ -344,15 +403,15 @@ You can complete compliance checkmarks by either typing information directly or 
   allowFullScreen
 ></iframe>
 
-## Adding Treatments
+## Add treatments and CPT codes
 
-Select treatments according to their corresponding CPT codes.
+Select treatments according to their corresponding CPT codes to ensure accurate billing and documentation of services provided. Treatments differ from interventions (which are exercises or procedures) by being tied to specific billing codes.
 
 <Frame>
 <img src="/images/Onboarding-Documents/getting-started-as-a-healthcare-provider/getting-started-as-a-healthcare-provider-27.png" alt="Treatments section with CPT code selection" />
 </Frame>
 
-### Treatment Features
+### Treatment features
 
 - **Add Interventions** - Specify exercises associated with the given treatment
 - **Edit Billing** - Click **Edit** under the billing section to modify insurance priority and billing information
@@ -361,7 +420,7 @@ Select treatments according to their corresponding CPT codes.
 <img src="/images/Onboarding-Documents/getting-started-as-a-healthcare-provider/getting-started-as-a-healthcare-provider-28.png" alt="Billing section with edit option" />
 </Frame>
 
-### Adding Co-signers
+### Add co-signers
 
 <Steps>
 <Step title="Add additional providers">
@@ -370,6 +429,10 @@ Navigate to the **Additional Providers** section and select providers from the d
 <Frame>
 <img src="/images/Onboarding-Documents/getting-started-as-a-healthcare-provider/getting-started-as-a-healthcare-provider-29.png" alt="Additional Providers section with dropdown" />
 </Frame>
+
+<Check>
+The provider is added to the co-signer list.
+</Check>
 </Step>
 
 <Step title="Request fax signature">
@@ -378,10 +441,16 @@ To fax the encounter to a referring provider for co-signature:
 1. Select their name in the dropdown menu
 2. Enter their fax number
 3. Ensure the **Request Signature** checkbox is selected
+
+<Check>
+The fax request is configured and ready to send.
+</Check>
 </Step>
 </Steps>
 
-### Sending to Individual Fax Number
+### Send to individual fax number
+
+Use this method when you need to send a chart note to a specific fax number that isn't associated with a provider in the system.
 
 <Steps>
 <Step title="Select fax option">
@@ -394,12 +463,16 @@ Select **Send to individual fax number** and enter the fax number.
 
 <Step title="Send fax">
 Click **Send Fax** after entering the fax number.
+
+<Check>
+The fax is sent successfully to the specified number.
+</Check>
 </Step>
 </Steps>
 
-## Notarize and Submit
+## Sign and submit the chart note
 
-Complete the encounter by signing the note and submitting it as a claim.
+Complete the encounter by signing the note and submitting it as a claim. This finalizes your documentation and initiates the billing process.
 
 <Steps>
 <Step title="Sign the note">
@@ -408,13 +481,91 @@ Sign the note under the **Notarize** section.
 <Frame>
 <img src="/images/Onboarding-Documents/getting-started-as-a-healthcare-provider/getting-started-as-a-healthcare-provider-31.png" alt="Notarize section with signature and submit button" />
 </Frame>
+
+<Check>
+The note is signed and ready for submission.
+</Check>
 </Step>
 
 <Step title="Submit the claim">
 Click **Submit** to close the encounter and submit it as a claim.
-</Step>
-</Steps>
 
 <Check>
 Your chart note is now complete and submitted. The encounter will be processed for billing.
 </Check>
+</Step>
+</Steps>
+
+## Troubleshooting
+
+### Cannot check in appointment
+
+**Problem:** You receive an error when trying to check in an appointment.
+
+**Solution:** Ensure a Case is assigned to the appointment. If no case exists, add one via the dropdown menu or create a new case before checking in.
+
+### Scribe not processing
+
+**Problem:** The scribe processing takes longer than expected or fails.
+
+**Solution:** 
+- Ensure your internet connection is stable
+- Check that the recording uploaded successfully
+- If processing fails, try recording again
+- Contact support if the issue persists
+
+### Cannot submit chart note
+
+**Problem:** The Submit button is disabled or you cannot submit the chart note.
+
+**Solution:**
+- Verify all required fields are completed
+- Check that compliance checkmarks are green (if applicable)
+- Ensure the note is signed
+- Review any error messages displayed
+
+### Measurements not appearing
+
+**Problem:** Expected measurements don't appear in the measurements list.
+
+**Solution:**
+- Verify the measurements are configured for your practice
+- Check that you're looking in the correct category
+- Contact your administrator if measurements should be available but aren't showing
+
+## Frequently asked questions
+
+<AccordionGroup>
+<Accordion title="What's the difference between opening a chart note from an appointment versus a patient profile?">
+Opening from an appointment is faster when you're working directly with your schedule. Opening from a patient profile is better when you need to review previous encounters or access notes for walk-in patients who may not have scheduled appointments.
+</Accordion>
+
+<Accordion title="Can I edit a chart note after submitting it?">
+Once a chart note is submitted, it becomes a claim and cannot be edited directly. You may need to work with your billing team to make adjustments if changes are required.
+</Accordion>
+
+<Accordion title="How long does Scribe processing take?">
+Scribe processing typically takes 2-5 minutes, depending on the length of your recording. You can close the window and continue with other tasks while it processes in the background.
+</Accordion>
+
+<Accordion title="What's the difference between goals and measurements?">
+Goals define what you and the patient aim to achieve (future objectives), while measurements capture the patient's current clinical status (present assessments). Both are important for tracking progress.
+</Accordion>
+
+<Accordion title="Can I use Scribe with templates?">
+Yes, templates support Scribe input, allowing you to dictate directly into template fields. This speeds up documentation while maintaining the structured format templates provide.
+</Accordion>
+
+<Accordion title="What happens if I forget to complete a compliance checkmark?">
+Compliance checkmarks help ensure complete documentation. If a checkmark remains grey, your chart note may be incomplete. Review the requirements and fill in the missing information before submitting.
+</Accordion>
+
+<Accordion title="How do I know if my chart note is ready to submit?">
+Your chart note is ready to submit when:
+
+- All required fields are completed
+- Compliance checkmarks are green (if applicable)
+- The note is signed
+- You've reviewed all sections for accuracy
+</Accordion>
+</AccordionGroup>

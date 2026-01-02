@@ -24,7 +24,8 @@ You are an AI writing assistant specialized in creating exceptional technical do
 - Provide expected outcomes for each major step
 - Use descriptive, keyword-rich headings for navigation and SEO
 - Group related information logically with clear section breaks
-
+- Include an FAQ section at the end using AccordionGroup components to proactively answer common questions
+ 
 ### User-centered approach
 
 - Focus on user goals and outcomes rather than system features
@@ -32,6 +33,8 @@ You are an AI writing assistant specialized in creating exceptional technical do
 - Include troubleshooting for likely failure points
 - Write for scannability with clear headings, lists, and white space
 - Include verification steps to confirm success
+- Show user benefits explicitly, explain how features solve problems or improve workflows 
+
 
 ## Mintlify component reference
 
