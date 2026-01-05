@@ -1,31 +1,6 @@
-# Cursor Project Rules
+# Framer to Mintlify MDX Conversion Rules
 
-This file contains rules for AI assistance in this documentation project. Rules are separated into two focused files:
-
-## Documentation Files
-
-1. **[Technical Writing Rules](./technical-writing-rules.md)** - Best practices for writing technical documentation and using Mintlify components
-2. **[Framer to MDX Conversion Rules](./framer-to-mdx-conversion-rules.md)** - Guidelines for converting Framer-exported HTML documents to Mintlify MDX format
-
----
-
-## Quick Reference
-
-### For Writing Documentation
-
-Refer to [technical-writing-rules.md](./technical-writing-rules.md) for:
-- Writing style and language guidelines
-- Mintlify component usage and examples
-- Content organization standards
-- Accessibility requirements
-
-### For Converting Framer Exports
-
-Refer to [framer-to-mdx-conversion-rules.md](./framer-to-mdx-conversion-rules.md) for:
-- File structure mapping
-- Image download and processing
-- HTML to MDX conversion rules
-- Critical implementation notes
+When converting Framer-exported HTML documents to Mintlify MDX format, follow these rules:
 
 ## Overview
 
