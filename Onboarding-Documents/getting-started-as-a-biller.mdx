@@ -99,7 +99,7 @@ Set up these four views to cover your most common workflows:
 
 </Card>
   <Card title="Unassigned Priority" icon="inbox">
-    **Filters:** Unassigned + Claim Amount >$500 + Age <7 days
+    **Filters:** Unassigned + Claim Amount over $500 + Age under 7 days
 
 **Use when:** Picking up new work or balancing team workload
 
@@ -623,9 +623,7 @@ Blocking rules are AI-powered validations that prevent you from submitting claim
 
 **How to fix:** Review your CHC compliance guidelines and update the claim to meet requirements. Often requires documenting patient income or changing how the service is billed.
 
-<Info>
 **Note:** CHC blocking rules only apply if your practice is a federally qualified health center (FQHC) or community health center. Non-CHC practices won't see these blocks.
-</Info>
 </Card>
 <Card title="Known payer rejections" icon="hand">
 **Triggers when:** AI detects claim characteristics that this specific payer consistently rejects
@@ -715,7 +713,7 @@ It's important to understand the distinction:
 | **Severity** | Critical - must be fixed | Warning - should be fixed |
 | **Submission** | Cannot submit until resolved | Can sometimes submit despite flags (not recommended) |
 | **Trigger** | AI detects known submission failure conditions | AI detects data quality issues |
-| **Icon** | 🛑 Red "blocked" badge | ⚠️ Yellow or red warning icon |
+| **Icon** | Red "blocked" badge | Yellow or red warning icon |
 | **Action** | Must fix before proceeding | Should fix, but system allows submission |
 
 **Best practice:** Treat all error flags as if they were blocking rules. If AI flagged it, there's a reason. Fix it before submitting even if the system technically allows submission.
